@@ -37,10 +37,11 @@ while True:
                             max_length=64,
                             return_dict_in_generate=True,
                             output_scores=True)
-    decoded_output = tokenizer.batch_decode(output.sequences, skip_special_tokens=True)[0]
-    decoded_scores = output.sequences_scores
-    confidence = torch.exp(decoded_scores).item()
-    generation = decoded_output.strip()
-    # generation = nltk.sent_tokenize(decoded_output.strip())[0]
-    correction = generation.split("</s>")[0]
-    print("sentence: {}\ncorrection: {}\nconfidence: {}\n".format(sentence, correction, confidence))
+    decoded_output = tokenizer.batch_decode(output.sequences, skip_special_tokens=True)
+    print(decoded_output)
+    # decoded_scores = output.sequences_scores
+    # confidence = torch.exp(decoded_scores).item()
+    # generation = decoded_output.strip()
+    # # generation = nltk.sent_tokenize(decoded_output.strip())[0]
+    # correction = generation.split("</s>")[0]
+    # print("sentence: {}\ncorrection: {}\nconfidence: {}\n".format(sentence, correction, confidence))

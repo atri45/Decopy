@@ -1,3 +1,5 @@
+import csv
+
 import pandas as pd
 import numpy as np
 import math
@@ -325,7 +327,7 @@ def get_different_id(original_text, replaced_text):
     # 将wrong_ids转化为特定格式的字符串
     return ', '.join(map(str, wrong_ids))
 
-
+'''
 # 读取数据集，为文本增加混淆，并保存结果数据集（按需求更改内部混淆逻辑）
 def confuse_dataset(function, dataset_path, output_path):
     with open(dataset_path, "r", encoding="utf-8") as f:
@@ -350,11 +352,35 @@ def confuse_dataset(function, dataset_path, output_path):
     # 将结果保存为 JSON 文件
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
+'''
+
+# 读取数据集，为文本增加混淆，并保存结果数据集（按需求更改内部混淆逻辑）
+def confuse_dataset(function, dataset_path, output_path):
+    with open(dataset_path, 'r', newline='', encoding='utf-8') as tsvfile:
+        tsvreader = csv.reader(tsvfile, delimiter='\t')
+        results = []
+        for row in tsvreader:
+            text = row[1]
+            # 针对部分繁体字，先做文字简写
+            text = convert(text, 'zh-cn')
+
+            for _ in range(1):
+                source = function(text)
+                result_entry = {
+                    "replaced_text": source,
+                    "wrong_ids": get_different_id(text, source),
+                    "original_text": text
+                }
+                results.append(result_entry)
+
+    # 将结果保存为 JSON 文件
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
 
 
 # 调用函数处理数据集并保存结果集
-confuse_dataset(replace_confused_word,
-                "../data/input/sample_dataset.json",
-                "../data/output/word_ty_ys_dataset.json")
+confuse_dataset(replace_word_with_pronunciation,
+                "../data/input/test.tsv",
+                "../data/output/sighan2015/py.json")
 
 print("数据集处理完成并已保存。")
