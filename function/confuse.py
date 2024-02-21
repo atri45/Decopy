@@ -1,7 +1,7 @@
 import math
 import random
 
-from function.pinyin import *
+from pinyin import *
 
 # 参数
 MAX_SAMPLE_NUM = 4  # 最大抽样数量
