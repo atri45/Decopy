@@ -69,8 +69,7 @@
         "zeng"
     ],
     "cha": [
-        "ca",
-        "sai"
+        "ca"
     ],
     "chai": [],
     "chan": [
@@ -86,8 +85,7 @@
         "zhao"
     ],
     "che": [
-        "zhe",
-        "zhu"
+        "zhe"
     ],
     "chen": [
         "zhen"
@@ -95,8 +93,7 @@
     "cheng": [],
     "chi": [
         "ci",
-        "zhi",
-        "chu"
+        "zhi"
     ],
     "chong": [
         "cong",
@@ -144,7 +141,6 @@
     ],
     "da": [
         "ta",
-        "yi",
         "na"
     ],
     "dai": [],
@@ -156,21 +152,16 @@
     "dang": [
         "dan",
         "qiang",
-        "tang",
-        "dao"
+        "tang"
     ],
     "dao": [
         "dai",
         "da",
-        "de",
-        "tao",
-        "dong"
+        "tao"
     ],
     "de": [
-        "di",
         "ge",
-        "se",
-        "dong"
+        "se"
     ],
     "den": [],
     "dei": [],
@@ -178,8 +169,7 @@
         "teng"
     ],
     "di": [
-        "de",
-        "chi"
+        "de"
     ],
     "dian": [
         "tian"
@@ -207,7 +197,6 @@
     ],
     "dun": [],
     "duo": [
-        "ta",
         "dou",
         "tuo",
         "huo"
@@ -221,15 +210,13 @@
         "e"
     ],
     "fa": [
-        "fang",
         "pa",
         "fan",
         "hua"
     ],
     "fan": [
         "fang",
-        "fen",
-        "hai"
+        "fen"
     ],
     "fang": [
         "pang",
@@ -272,18 +259,14 @@
         "gen"
     ],
     "gong": [
-        "kong",
-        "guang"
+        "kong"
     ],
     "gou": [
         "guo"
     ],
     "gu": [],
-    "gua": [
-        "kuo"
-    ],
+    "gua": [],
     "guai": [
-        "gui",
         "kuai"
     ],
     "guan": [
@@ -293,10 +276,8 @@
     "gui": [],
     "gun": [],
     "guo": [
-        "yin",
         "kuo",
-        "wo",
-        "gou"
+        "wo"
     ],
     "ha": [],
     "hai": [
@@ -306,15 +287,10 @@
     "han": [],
     "hang": [],
     "hao": [
-        "hai",
-        "hua",
-        "fa"
+        "hai"
     ],
     "he": [
         "ke",
-        "han",
-        "er",
-        "a",
         "hen",
         "ge"
     ],
@@ -322,9 +298,7 @@
     "hen": [
         "gen",
         "heng",
-        "he",
-        "ke",
-        "te"
+        "he"
     ],
     "heng": [],
     "hong": [],
@@ -335,8 +309,6 @@
         "fu"
     ],
     "hua": [
-        "hui",
-        "hao",
         "fa",
         "huo"
     ],
@@ -344,18 +316,14 @@
         "hui"
     ],
     "huan": [
-        "an",
-        "hai",
-        "huang"
+        "an"
     ],
     "huang": [
         "hai"
     ],
     "hui": [
-        "kuai",
         "wei",
-        "huai",
-        "huo"
+        "huai"
     ],
     "hun": [
         "huan"
@@ -365,10 +333,7 @@
     ],
     "ji": [
         "qi",
-        "zhi",
         "yi",
-        "ju",
-        "qu",
         "jin",
         "zi"
     ],
@@ -377,50 +342,33 @@
     ],
     "jian": [
         "qian",
-        "wen",
-        "jie",
-        "jiang",
-        "dian",
-        "lan"
+        "dian"
     ],
     "jiang": [],
-    "jiao": [
-        "jiu",
-        "jia"
-    ],
+    "jiao": [],
     "jie": [
-        "xi",
-        "jian",
-        "jue",
-        "jia"
+        "jue"
     ],
     "jin": [
-        "jing",
-        "qing",
-        "ling"
+        "jing"
     ],
     "jing": [
-        "liang",
         "jin",
         "ying",
         "qing"
     ],
     "jiong": [],
     "jiu": [
-        "ju",
-        "jiao",
         "liu",
         "qiu"
     ],
     "ju": [
-        "qu",
-        "zhu"
+        "qu"
     ],
     "juan": [
         "quan"
     ],
     "jue": [
-        "jiao",
         "xue",
         "jie"
     ],
@@ -431,14 +379,11 @@
     "kai": [],
     "kan": [],
     "kang": [
-        "kan",
-        "kong"
+        "kan"
     ],
     "kao": [],
     "ke": [
         "ge",
-        "guo",
-        "ai",
         "he",
         "ken"
     ],
@@ -447,8 +392,7 @@
         "kang"
     ],
     "kong": [
-        "gong",
-        "ku"
+        "gong"
     ],
     "kou": [],
     "ku": [
@@ -458,108 +402,72 @@
     "kua": [],
     "kuai": [],
     "kuan": [],
-    "kuang": [
-        "kuai"
-    ],
-    "kui": [
-        "kua"
-    ],
+    "kuang": [],
+    "kui": [],
     "kun": [],
     "kuo": [],
     "la": [],
     "lai": [
-        "lei",
-        "lao",
-        "le",
         "kai"
     ],
     "lan": [],
-    "lang": [
-        "luan"
-    ],
+    "lang": [],
     "lao": [],
     "le": [
-        "yue",
-        "liao",
         "de",
         "ne"
     ],
     "lei": [
-        "li",
-        "lai",
-        "le"
+        "lai"
     ],
     "leng": [],
     "li": [
-        "ling",
         "lin",
-        "lie",
         "yi",
         "ji",
-        "lian",
         "bi"
     ],
     "lia": [],
     "lian": [],
-    "liang": [
-        "le",
-        "lia",
-        "liao"
-    ],
+    "liang": [],
     "liao": [
-        "lao",
-        "le"
+        "lao"
     ],
     "lie": [],
     "lin": [
-        "ling",
         "min"
     ],
-    "ling": [
-        "ren"
-    ],
+    "ling": [],
     "liu": [],
     "long": [],
     "lou": [],
     "lu": [
-        "luo",
-        "lv",
         "ru"
     ],
     "luan": [],
     "lun": [
-        "run",
-        "liao"
+        "run"
     ],
     "luo": [
         "ruo",
-        "lu",
-        "lou"
+        "lu"
     ],
     "lv": [
-        "lu",
-        "liu",
         "li"
     ],
     "lve": [],
     "ma": [
-        "ta",
-        "mai"
+        "ta"
     ],
     "mai": [],
     "man": [],
     "mang": [],
     "mao": [],
-    "me": [
-        "men",
-        "ma"
-    ],
+    "me": [],
     "mei": [
-        "me",
         "men"
     ],
     "men": [
-        "me",
         "mei",
         "nen",
         "wen"
@@ -584,39 +492,25 @@
     ],
     "mu": [],
     "n": [],
-    "na": [
-        "ni",
-        "ne"
-    ],
+    "na": [],
     "nai": [],
     "nan": [
         "ran"
     ],
     "nang": [],
-    "nao": [
-        "rang"
-    ],
-    "ne": [
-        "na"
-    ],
+    "nao": [],
+    "ne": [],
     "nei": [],
     "nen": [],
-    "neng": [
-        "nan"
-    ],
+    "neng": [],
     "ni": [
-        "ne",
         "di"
     ],
-    "nian": [
-        "na"
-    ],
+    "nian": [],
     "niang": [],
     "niao": [],
     "nie": [],
-    "nin": [
-        "li"
-    ],
+    "nin": [],
     "ning": [],
     "niu": [],
     "nong": [],
@@ -624,21 +518,16 @@
     "nu": [],
     "nuan": [],
     "nuo": [],
-    "nv": [
-        "nu"
-    ],
+    "nv": [],
     "nve": [],
     "o": [
         "ou"
     ],
     "ou": [],
     "pa": [
-        "fa",
-        "bei"
+        "fa"
     ],
-    "pai": [
-        "pa"
-    ],
+    "pai": [],
     "pan": [
         "ban",
         "pang"
@@ -647,10 +536,7 @@
         "bang"
     ],
     "pao": [],
-    "pei": [
-        "beng",
-        "bu"
-    ],
+    "pei": [],
     "pen": [],
     "peng": [
         "feng"
@@ -665,12 +551,10 @@
         "ping"
     ],
     "ping": [
-        "pin",
-        "pei"
+        "pin"
     ],
     "po": [
-        "bo",
-        "bei"
+        "bo"
     ],
     "pou": [],
     "pu": [
@@ -678,18 +562,14 @@
     ],
     "qi": [
         "ji",
-        "zhi",
-        "xi",
-        "qing"
+        "xi"
     ],
     "qia": [],
     "qian": [
         "jian",
         "xian"
     ],
-    "qiang": [
-        "chuang"
-    ],
+    "qiang": [],
     "qiao": [
         "tiao",
         "jiao"
@@ -699,28 +579,21 @@
     ],
     "qin": [
         "qing",
-        "xin",
-        "jing"
+        "xin"
     ],
     "qing": [
-        "qi",
         "jing",
-        "jie",
-        "ci",
         "xing",
-        "jian",
         "qin"
     ],
     "qiong": [],
     "qiu": [
-        "chou",
         "jiu",
         "xiu"
     ],
     "qu": [
         "chu",
-        "zhu",
-        "diu"
+        "zhu"
     ],
     "quan": [],
     "que": [],
@@ -728,15 +601,10 @@
     "ran": [
         "rang",
         "yan",
-        "ren",
-        "reng",
-        "neng",
-        "re",
-        "yang"
+        "ren"
     ],
     "rang": [
-        "shang",
-        "na"
+        "shang"
     ],
     "rao": [
         "nao",
@@ -745,9 +613,7 @@
     "re": [
         "ri"
     ],
-    "ren": [
-        "le"
-    ],
+    "ren": [],
     "reng": [],
     "ri": [],
     "rong": [],
@@ -759,9 +625,7 @@
     "ruo": [],
     "sa": [],
     "sai": [],
-    "san": [
-        "sha"
-    ],
+    "san": [],
     "sang": [],
     "sao": [],
     "se": [],
@@ -776,62 +640,36 @@
     ],
     "shang": [
         "cang",
-        "sheng",
-        "zhang",
-        "xiang"
+        "zhang"
     ],
     "shao": [
-        "shang",
         "xiao"
     ],
-    "she": [
-        "xiao",
-        "shi"
-    ],
+    "she": [],
     "shei": [],
     "shen": [
         "sheng",
         "ren",
-        "she",
-        "shi",
         "zen"
     ],
     "sheng": [
-        "shang",
-        "xie",
-        "shen",
-        "she"
+        "shen"
     ],
     "shi": [
-        "she",
         "si",
         "zhi",
-        "suo",
-        "shu",
-        "xi",
-        "de",
         "chi",
-        "tuo",
-        "yi",
         "zi"
     ],
-    "shou": [
-        "dao"
-    ],
+    "shou": [],
     "shu": [
-        "su",
-        "shi"
+        "su"
     ],
     "shua": [],
-    "shuai": [
-        "li",
-        "lv"
-    ],
+    "shuai": [],
     "shuan": [],
     "shuang": [],
-    "shui": [
-        "xue"
-    ],
+    "shui": [],
     "shun": [
         "xun"
     ],
@@ -840,7 +678,6 @@
         "cuo"
     ],
     "si": [
-        "suo",
         "shi"
     ],
     "song": [
@@ -848,23 +685,18 @@
     ],
     "sou": [],
     "su": [
-        "shuo",
         "shu"
     ],
     "suan": [
-        "zhuan",
-        "xiang"
+        "zhuan"
     ],
     "sui": [],
     "sun": [],
     "suo": [
-        "sou",
-        "sui",
         "shuo"
     ],
     "ta": [
-        "da",
-        "wu"
+        "da"
     ],
     "tai": [
         "ta"
@@ -874,14 +706,12 @@
     ],
     "tang": [],
     "tao": [
-        "tiao",
         "dao"
     ],
     "te": [],
     "teng": [],
     "ti": [],
     "tian": [
-        "ti",
         "dian"
     ],
     "tiao": [],
@@ -906,18 +736,15 @@
     ],
     "wan": [
         "wang",
-        "wu",
         "guan"
     ],
     "wang": [
         "wan",
-        "guan",
         "mang"
     ],
     "wei": [
         "wai",
-        "wen",
-        "li"
+        "wen"
     ],
     "wen": [
         "jian"
@@ -930,9 +757,7 @@
         "bu"
     ],
     "xi": [
-        "si",
         "yi",
-        "shi",
         "qi"
     ],
     "xia": [
@@ -944,40 +769,29 @@
         "qian"
     ],
     "xiang": [
-        "xian",
-        "shang",
-        "shan",
-        "xing"
+        "xian"
     ],
     "xiao": [
-        "xia",
         "shao",
         "jiao",
         "yao"
     ],
     "xie": [
         "xue",
-        "xia",
         "xuan",
         "xian"
     ],
     "xin": [
-        "xing",
-        "xi",
-        "xia"
+        "xing"
     ],
     "xing": [
         "xin",
-        "xian",
         "qing"
     ],
     "xiong": [],
     "xiu": [],
     "xu": [
-        "xue",
-        "xi",
-        "shu",
-        "shi"
+        "xue"
     ],
     "xuan": [],
     "xue": [
@@ -989,99 +803,65 @@
     "ya": [
         "jia"
     ],
-    "yan": [
-        "yang",
-        "lian"
-    ],
+    "yan": [],
     "yang": [
         "rang"
     ],
     "yao": [
         "ao",
-        "piao",
-        "bian"
+        "piao"
     ],
     "ye": [
         "yue"
     ],
     "yi": [
-        "ying",
-        "yu",
-        "yin",
-        "ye"
+        "yin"
     ],
     "yin": [
         "ying"
     ],
     "ying": [
-        "yin",
-        "yi"
+        "yin"
     ],
     "yo": [],
     "yong": [
-        "dong",
-        "you"
+        "dong"
     ],
     "you": [
-        "yo",
-        "niu",
-        "yao",
-        "ye",
-        "guo"
+        "yo"
     ],
     "yu": [
-        "o",
-        "yi",
-        "ou"
+        "yi"
     ],
-    "yuan": [
-        "lv",
-        "you"
-    ],
+    "yuan": [],
     "yue": [],
     "yun": [
-        "yin",
-        "yuan"
+        "yin"
     ],
     "za": [],
     "zai": [
         "dai",
-        "cai",
-        "di",
-        "zhi",
-        "zao",
-        "zi"
+        "cai"
     ],
     "zan": [
-        "can",
-        "ti"
+        "can"
     ],
     "zang": [
-        "rang",
-        "zan",
-        "zhan"
+        "rang"
     ],
     "zao": [
-        "zhou",
-        "sang",
         "zhao",
-        "cao",
-        "zhu"
+        "cao"
     ],
     "ze": [
         "zhe",
-        "ce",
-        "zhu",
-        "zhai"
+        "ce"
     ],
     "zei": [],
     "zen": [
         "cen",
         "shen",
-        "zhe",
-        "zheng",
-        "zhen",
-        "zha"
+        "zhen"
     ],
     "zeng": [
         "ceng"
@@ -1089,51 +869,31 @@
     "zha": [],
     "zhai": [],
     "zhan": [
-        "zhang",
-        "shang",
         "zan"
     ],
     "zhang": [
         "chang",
-        "jiang",
         "zhuang"
     ],
     "zhao": [
-        "zhu",
-        "jiao",
         "shao",
         "kao"
     ],
     "zhe": [
         "ce",
-        "zhu",
-        "zhi",
-        "zen",
-        "de",
         "che",
         "she"
     ],
     "zhen": [
         "zen",
-        "chen",
-        "zhe"
+        "chen"
     ],
     "zheng": [
-        "zhen",
-        "wei",
         "cheng"
     ],
     "zhi": [
-        "zhe",
-        "ju",
-        "zhen",
         "zi",
-        "chi",
-        "jiu",
-        "zai",
-        "xi",
-        "yi",
-        "ze"
+        "chi"
     ],
     "zhong": [
         "cong",
@@ -1144,41 +904,29 @@
     "zhou": [],
     "zhu": [
         "chu",
-        "zhe",
-        "zhi",
         "zu",
-        "zao",
-        "wang",
-        "zuo",
-        "cu",
-        "zhuo"
+        "cu"
     ],
     "zhua": [],
     "zhuai": [],
     "zhuan": [
         "zuan",
-        "chuan",
-        "zhuang"
+        "chuan"
     ],
     "zhuang": [],
     "zhui": [
         "zui"
     ],
     "zhun": [],
-    "zhuo": [
-        "zhua"
-    ],
+    "zhuo": [],
     "zi": [
-        "zhi",
-        "zhe",
-        "ji"
+        "zhi"
     ],
     "zong": [
         "cong",
         "zhong"
     ],
     "zou": [
-        "zuo",
         "shou"
     ],
     "zu": [
@@ -1186,13 +934,11 @@
     ],
     "zuan": [],
     "zui": [
-        "kui",
-        "zuo"
+        "kui"
     ],
     "zun": [],
     "zuo": [
         "cuo",
-        "zou",
         "zhuo"
     ]
 }
