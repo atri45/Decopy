@@ -1,0 +1,1198 @@
+{
+    "[OTHER]": [],
+    "a": [],
+    "ai": [],
+    "an": [
+        "dan"
+    ],
+    "ang": [],
+    "ao": [],
+    "ba": [
+        "bao"
+    ],
+    "bai": [
+        "pai",
+        "ban"
+    ],
+    "ban": [
+        "bang",
+        "fan"
+    ],
+    "bang": [
+        "ban"
+    ],
+    "bao": [
+        "dao",
+        "bo",
+        "pao"
+    ],
+    "bei": [
+        "pei",
+        "fei"
+    ],
+    "ben": [],
+    "beng": [],
+    "bi": [
+        "pi"
+    ],
+    "bian": [
+        "mian",
+        "pian",
+        "ban",
+        "bin"
+    ],
+    "biao": [],
+    "bie": [],
+    "bin": [],
+    "bing": [
+        "ping",
+        "beng"
+    ],
+    "bo": [],
+    "bu": [
+        "wu"
+    ],
+    "ca": [],
+    "cai": [
+        "zai"
+    ],
+    "can": [
+        "cai"
+    ],
+    "cang": [],
+    "cao": [],
+    "ce": [
+        "ci"
+    ],
+    "cen": [],
+    "ceng": [
+        "zeng"
+    ],
+    "cha": [
+        "ca",
+        "sai"
+    ],
+    "chai": [],
+    "chan": [
+        "chang",
+        "zhan"
+    ],
+    "chang": [
+        "zhang",
+        "shang"
+    ],
+    "chao": [
+        "zao",
+        "zhao"
+    ],
+    "che": [
+        "zhe",
+        "zhu"
+    ],
+    "chen": [
+        "zhen"
+    ],
+    "cheng": [],
+    "chi": [
+        "ci",
+        "zhi",
+        "chu"
+    ],
+    "chong": [
+        "cong",
+        "zhong"
+    ],
+    "chou": [],
+    "chu": [
+        "zhu",
+        "qu"
+    ],
+    "chuai": [],
+    "chuan": [
+        "chang",
+        "zhuan",
+        "chai"
+    ],
+    "chuang": [
+        "chuan"
+    ],
+    "chui": [],
+    "chun": [
+        "dun"
+    ],
+    "chuo": [],
+    "ci": [
+        "shi",
+        "zi",
+        "zhi"
+    ],
+    "cong": [
+        "zong",
+        "zhong",
+        "song",
+        "chong"
+    ],
+    "cou": [],
+    "cu": [],
+    "cuan": [],
+    "cui": [
+        "zui"
+    ],
+    "cun": [],
+    "cuo": [
+        "zuo"
+    ],
+    "da": [
+        "ta",
+        "yi",
+        "na"
+    ],
+    "dai": [],
+    "dan": [
+        "dang",
+        "duan",
+        "dai"
+    ],
+    "dang": [
+        "dan",
+        "qiang",
+        "tang",
+        "dao"
+    ],
+    "dao": [
+        "dai",
+        "da",
+        "de",
+        "tao",
+        "dong"
+    ],
+    "de": [
+        "di",
+        "ge",
+        "se",
+        "dong"
+    ],
+    "den": [],
+    "dei": [],
+    "deng": [
+        "teng"
+    ],
+    "di": [
+        "de",
+        "chi"
+    ],
+    "dian": [
+        "tian"
+    ],
+    "diao": [
+        "tiao",
+        "dao"
+    ],
+    "die": [],
+    "ding": [],
+    "diu": [],
+    "dong": [],
+    "dou": [
+        "dong",
+        "duo"
+    ],
+    "du": [
+        "dou",
+        "lu",
+        "tu"
+    ],
+    "duan": [],
+    "dui": [
+        "zui"
+    ],
+    "dun": [],
+    "duo": [
+        "ta",
+        "dou",
+        "tuo",
+        "huo"
+    ],
+    "e": [
+        "er"
+    ],
+    "ei": [],
+    "en": [],
+    "er": [
+        "e"
+    ],
+    "fa": [
+        "fang",
+        "pa",
+        "fan",
+        "hua"
+    ],
+    "fan": [
+        "fang",
+        "fen",
+        "hai"
+    ],
+    "fang": [
+        "pang",
+        "fan"
+    ],
+    "fei": [],
+    "fen": [
+        "fang",
+        "pen"
+    ],
+    "feng": [],
+    "fo": [],
+    "fou": [],
+    "fu": [
+        "pu"
+    ],
+    "ga": [],
+    "gai": [
+        "gan"
+    ],
+    "gan": [
+        "gang",
+        "gen"
+    ],
+    "gang": [],
+    "gao": [
+        "ao"
+    ],
+    "ge": [
+        "de",
+        "ke"
+    ],
+    "gei": [
+        "ge"
+    ],
+    "gen": [
+        "geng"
+    ],
+    "geng": [
+        "gen"
+    ],
+    "gong": [
+        "kong",
+        "guang"
+    ],
+    "gou": [
+        "guo"
+    ],
+    "gu": [],
+    "gua": [
+        "kuo"
+    ],
+    "guai": [
+        "gui",
+        "kuai"
+    ],
+    "guan": [
+        "quan"
+    ],
+    "guang": [],
+    "gui": [],
+    "gun": [],
+    "guo": [
+        "yin",
+        "kuo",
+        "wo",
+        "gou"
+    ],
+    "ha": [],
+    "hai": [
+        "huan",
+        "hao"
+    ],
+    "han": [],
+    "hang": [],
+    "hao": [
+        "hai",
+        "hua",
+        "fa"
+    ],
+    "he": [
+        "ke",
+        "han",
+        "er",
+        "a",
+        "hen",
+        "ge"
+    ],
+    "hei": [],
+    "hen": [
+        "gen",
+        "heng",
+        "he",
+        "ke",
+        "te"
+    ],
+    "heng": [],
+    "hong": [],
+    "hou": [
+        "huo"
+    ],
+    "hu": [
+        "fu"
+    ],
+    "hua": [
+        "hui",
+        "hao",
+        "fa",
+        "huo"
+    ],
+    "huai": [
+        "hui"
+    ],
+    "huan": [
+        "an",
+        "hai",
+        "huang"
+    ],
+    "huang": [
+        "hai"
+    ],
+    "hui": [
+        "kuai",
+        "wei",
+        "huai",
+        "huo"
+    ],
+    "hun": [
+        "huan"
+    ],
+    "huo": [
+        "hua"
+    ],
+    "ji": [
+        "qi",
+        "zhi",
+        "yi",
+        "ju",
+        "qu",
+        "jin",
+        "zi"
+    ],
+    "jia": [
+        "ka"
+    ],
+    "jian": [
+        "qian",
+        "wen",
+        "jie",
+        "jiang",
+        "dian",
+        "lan"
+    ],
+    "jiang": [],
+    "jiao": [
+        "jiu",
+        "jia"
+    ],
+    "jie": [
+        "xi",
+        "jian",
+        "jue",
+        "jia"
+    ],
+    "jin": [
+        "jing",
+        "qing",
+        "ling"
+    ],
+    "jing": [
+        "liang",
+        "jin",
+        "ying",
+        "qing"
+    ],
+    "jiong": [],
+    "jiu": [
+        "ju",
+        "jiao",
+        "liu",
+        "qiu"
+    ],
+    "ju": [
+        "qu",
+        "zhu"
+    ],
+    "juan": [
+        "quan"
+    ],
+    "jue": [
+        "jiao",
+        "xue",
+        "jie"
+    ],
+    "jun": [],
+    "ka": [
+        "ca"
+    ],
+    "kai": [],
+    "kan": [],
+    "kang": [
+        "kan",
+        "kong"
+    ],
+    "kao": [],
+    "ke": [
+        "ge",
+        "guo",
+        "ai",
+        "he",
+        "ken"
+    ],
+    "ken": [],
+    "keng": [
+        "kang"
+    ],
+    "kong": [
+        "gong",
+        "ku"
+    ],
+    "kou": [],
+    "ku": [
+        "tu",
+        "gu"
+    ],
+    "kua": [],
+    "kuai": [],
+    "kuan": [],
+    "kuang": [
+        "kuai"
+    ],
+    "kui": [
+        "kua"
+    ],
+    "kun": [],
+    "kuo": [],
+    "la": [],
+    "lai": [
+        "lei",
+        "lao",
+        "le",
+        "kai"
+    ],
+    "lan": [],
+    "lang": [
+        "luan"
+    ],
+    "lao": [],
+    "le": [
+        "yue",
+        "liao",
+        "de",
+        "ne"
+    ],
+    "lei": [
+        "li",
+        "lai",
+        "le"
+    ],
+    "leng": [],
+    "li": [
+        "ling",
+        "lin",
+        "lie",
+        "yi",
+        "ji",
+        "lian",
+        "bi"
+    ],
+    "lia": [],
+    "lian": [],
+    "liang": [
+        "le",
+        "lia",
+        "liao"
+    ],
+    "liao": [
+        "lao",
+        "le"
+    ],
+    "lie": [],
+    "lin": [
+        "ling",
+        "min"
+    ],
+    "ling": [
+        "ren"
+    ],
+    "liu": [],
+    "long": [],
+    "lou": [],
+    "lu": [
+        "luo",
+        "lv",
+        "ru"
+    ],
+    "luan": [],
+    "lun": [
+        "run",
+        "liao"
+    ],
+    "luo": [
+        "ruo",
+        "lu",
+        "lou"
+    ],
+    "lv": [
+        "lu",
+        "liu",
+        "li"
+    ],
+    "lve": [],
+    "ma": [
+        "ta",
+        "mai"
+    ],
+    "mai": [],
+    "man": [],
+    "mang": [],
+    "mao": [],
+    "me": [
+        "men",
+        "ma"
+    ],
+    "mei": [
+        "me",
+        "men"
+    ],
+    "men": [
+        "me",
+        "mei",
+        "nen",
+        "wen"
+    ],
+    "meng": [],
+    "mi": [],
+    "mian": [],
+    "miao": [],
+    "mie": [],
+    "min": [
+        "ming"
+    ],
+    "ming": [
+        "min"
+    ],
+    "miu": [
+        "miao"
+    ],
+    "mo": [],
+    "mou": [
+        "mo"
+    ],
+    "mu": [],
+    "n": [],
+    "na": [
+        "ni",
+        "ne"
+    ],
+    "nai": [],
+    "nan": [
+        "ran"
+    ],
+    "nang": [],
+    "nao": [
+        "rang"
+    ],
+    "ne": [
+        "na"
+    ],
+    "nei": [],
+    "nen": [],
+    "neng": [
+        "nan"
+    ],
+    "ni": [
+        "ne",
+        "di"
+    ],
+    "nian": [
+        "na"
+    ],
+    "niang": [],
+    "niao": [],
+    "nie": [],
+    "nin": [
+        "li"
+    ],
+    "ning": [],
+    "niu": [],
+    "nong": [],
+    "nou": [],
+    "nu": [],
+    "nuan": [],
+    "nuo": [],
+    "nv": [
+        "nu"
+    ],
+    "nve": [],
+    "o": [
+        "ou"
+    ],
+    "ou": [],
+    "pa": [
+        "fa",
+        "bei"
+    ],
+    "pai": [
+        "pa"
+    ],
+    "pan": [
+        "ban",
+        "pang"
+    ],
+    "pang": [
+        "bang"
+    ],
+    "pao": [],
+    "pei": [
+        "beng",
+        "bu"
+    ],
+    "pen": [],
+    "peng": [
+        "feng"
+    ],
+    "pi": [],
+    "pian": [],
+    "piao": [
+        "biao"
+    ],
+    "pie": [],
+    "pin": [
+        "ping"
+    ],
+    "ping": [
+        "pin",
+        "pei"
+    ],
+    "po": [
+        "bo",
+        "bei"
+    ],
+    "pou": [],
+    "pu": [
+        "bu"
+    ],
+    "qi": [
+        "ji",
+        "zhi",
+        "xi",
+        "qing"
+    ],
+    "qia": [],
+    "qian": [
+        "jian",
+        "xian"
+    ],
+    "qiang": [
+        "chuang"
+    ],
+    "qiao": [
+        "tiao",
+        "jiao"
+    ],
+    "qie": [
+        "jie"
+    ],
+    "qin": [
+        "qing",
+        "xin",
+        "jing"
+    ],
+    "qing": [
+        "qi",
+        "jing",
+        "jie",
+        "ci",
+        "xing",
+        "jian",
+        "qin"
+    ],
+    "qiong": [],
+    "qiu": [
+        "chou",
+        "jiu",
+        "xiu"
+    ],
+    "qu": [
+        "chu",
+        "zhu",
+        "diu"
+    ],
+    "quan": [],
+    "que": [],
+    "qun": [],
+    "ran": [
+        "rang",
+        "yan",
+        "ren",
+        "reng",
+        "neng",
+        "re",
+        "yang"
+    ],
+    "rang": [
+        "shang",
+        "na"
+    ],
+    "rao": [
+        "nao",
+        "lao"
+    ],
+    "re": [
+        "ri"
+    ],
+    "ren": [
+        "le"
+    ],
+    "reng": [],
+    "ri": [],
+    "rong": [],
+    "rou": [],
+    "ru": [],
+    "ruan": [],
+    "rui": [],
+    "run": [],
+    "ruo": [],
+    "sa": [],
+    "sai": [],
+    "san": [
+        "sha"
+    ],
+    "sang": [],
+    "sao": [],
+    "se": [],
+    "sen": [],
+    "seng": [],
+    "sha": [],
+    "shai": [
+        "sai"
+    ],
+    "shan": [
+        "shang"
+    ],
+    "shang": [
+        "cang",
+        "sheng",
+        "zhang",
+        "xiang"
+    ],
+    "shao": [
+        "shang",
+        "xiao"
+    ],
+    "she": [
+        "xiao",
+        "shi"
+    ],
+    "shei": [],
+    "shen": [
+        "sheng",
+        "ren",
+        "she",
+        "shi",
+        "zen"
+    ],
+    "sheng": [
+        "shang",
+        "xie",
+        "shen",
+        "she"
+    ],
+    "shi": [
+        "she",
+        "si",
+        "zhi",
+        "suo",
+        "shu",
+        "xi",
+        "de",
+        "chi",
+        "tuo",
+        "yi",
+        "zi"
+    ],
+    "shou": [
+        "dao"
+    ],
+    "shu": [
+        "su",
+        "shi"
+    ],
+    "shua": [],
+    "shuai": [
+        "li",
+        "lv"
+    ],
+    "shuan": [],
+    "shuang": [],
+    "shui": [
+        "xue"
+    ],
+    "shun": [
+        "xun"
+    ],
+    "shuo": [
+        "suo",
+        "cuo"
+    ],
+    "si": [
+        "suo",
+        "shi"
+    ],
+    "song": [
+        "cong"
+    ],
+    "sou": [],
+    "su": [
+        "shuo",
+        "shu"
+    ],
+    "suan": [
+        "zhuan",
+        "xiang"
+    ],
+    "sui": [],
+    "sun": [],
+    "suo": [
+        "sou",
+        "sui",
+        "shuo"
+    ],
+    "ta": [
+        "da",
+        "wu"
+    ],
+    "tai": [
+        "ta"
+    ],
+    "tan": [
+        "dan"
+    ],
+    "tang": [],
+    "tao": [
+        "tiao",
+        "dao"
+    ],
+    "te": [],
+    "teng": [],
+    "ti": [],
+    "tian": [
+        "ti",
+        "dian"
+    ],
+    "tiao": [],
+    "tie": [],
+    "ting": [
+        "ding"
+    ],
+    "tong": [],
+    "tou": [],
+    "tu": [
+        "du"
+    ],
+    "tuan": [],
+    "tui": [],
+    "tun": [],
+    "tuo": [
+        "tu"
+    ],
+    "wa": [],
+    "wai": [
+        "wan"
+    ],
+    "wan": [
+        "wang",
+        "wu",
+        "guan"
+    ],
+    "wang": [
+        "wan",
+        "guan",
+        "mang"
+    ],
+    "wei": [
+        "wai",
+        "wen",
+        "li"
+    ],
+    "wen": [
+        "jian"
+    ],
+    "weng": [],
+    "wo": [
+        "huo"
+    ],
+    "wu": [
+        "bu"
+    ],
+    "xi": [
+        "si",
+        "yi",
+        "shi",
+        "qi"
+    ],
+    "xia": [
+        "jia"
+    ],
+    "xian": [
+        "jian",
+        "xiang",
+        "qian"
+    ],
+    "xiang": [
+        "xian",
+        "shang",
+        "shan",
+        "xing"
+    ],
+    "xiao": [
+        "xia",
+        "shao",
+        "jiao",
+        "yao"
+    ],
+    "xie": [
+        "xue",
+        "xia",
+        "xuan",
+        "xian"
+    ],
+    "xin": [
+        "xing",
+        "xi",
+        "xia"
+    ],
+    "xing": [
+        "xin",
+        "xian",
+        "qing"
+    ],
+    "xiong": [],
+    "xiu": [],
+    "xu": [
+        "xue",
+        "xi",
+        "shu",
+        "shi"
+    ],
+    "xuan": [],
+    "xue": [
+        "que"
+    ],
+    "xun": [
+        "xin"
+    ],
+    "ya": [
+        "jia"
+    ],
+    "yan": [
+        "yang",
+        "lian"
+    ],
+    "yang": [
+        "rang"
+    ],
+    "yao": [
+        "ao",
+        "piao",
+        "bian"
+    ],
+    "ye": [
+        "yue"
+    ],
+    "yi": [
+        "ying",
+        "yu",
+        "yin",
+        "ye"
+    ],
+    "yin": [
+        "ying"
+    ],
+    "ying": [
+        "yin",
+        "yi"
+    ],
+    "yo": [],
+    "yong": [
+        "dong",
+        "you"
+    ],
+    "you": [
+        "yo",
+        "niu",
+        "yao",
+        "ye",
+        "guo"
+    ],
+    "yu": [
+        "o",
+        "yi",
+        "ou"
+    ],
+    "yuan": [
+        "lv",
+        "you"
+    ],
+    "yue": [],
+    "yun": [
+        "yin",
+        "yuan"
+    ],
+    "za": [],
+    "zai": [
+        "dai",
+        "cai",
+        "di",
+        "zhi",
+        "zao",
+        "zi"
+    ],
+    "zan": [
+        "can",
+        "ti"
+    ],
+    "zang": [
+        "rang",
+        "zan",
+        "zhan"
+    ],
+    "zao": [
+        "zhou",
+        "sang",
+        "zhao",
+        "cao",
+        "zhu"
+    ],
+    "ze": [
+        "zhe",
+        "ce",
+        "zhu",
+        "zhai"
+    ],
+    "zei": [],
+    "zen": [
+        "cen",
+        "shen",
+        "zhe",
+        "zheng",
+        "zhen",
+        "zha"
+    ],
+    "zeng": [
+        "ceng"
+    ],
+    "zha": [],
+    "zhai": [],
+    "zhan": [
+        "zhang",
+        "shang",
+        "zan"
+    ],
+    "zhang": [
+        "chang",
+        "jiang",
+        "zhuang"
+    ],
+    "zhao": [
+        "zhu",
+        "jiao",
+        "shao",
+        "kao"
+    ],
+    "zhe": [
+        "ce",
+        "zhu",
+        "zhi",
+        "zen",
+        "de",
+        "che",
+        "she"
+    ],
+    "zhen": [
+        "zen",
+        "chen",
+        "zhe"
+    ],
+    "zheng": [
+        "zhen",
+        "wei",
+        "cheng"
+    ],
+    "zhi": [
+        "zhe",
+        "ju",
+        "zhen",
+        "zi",
+        "chi",
+        "jiu",
+        "zai",
+        "xi",
+        "yi",
+        "ze"
+    ],
+    "zhong": [
+        "cong",
+        "chong",
+        "dong",
+        "zong"
+    ],
+    "zhou": [],
+    "zhu": [
+        "chu",
+        "zhe",
+        "zhi",
+        "zu",
+        "zao",
+        "wang",
+        "zuo",
+        "cu",
+        "zhuo"
+    ],
+    "zhua": [],
+    "zhuai": [],
+    "zhuan": [
+        "zuan",
+        "chuan",
+        "zhuang"
+    ],
+    "zhuang": [],
+    "zhui": [
+        "zui"
+    ],
+    "zhun": [],
+    "zhuo": [
+        "zhua"
+    ],
+    "zi": [
+        "zhi",
+        "zhe",
+        "ji"
+    ],
+    "zong": [
+        "cong",
+        "zhong"
+    ],
+    "zou": [
+        "zuo",
+        "shou"
+    ],
+    "zu": [
+        "zhu"
+    ],
+    "zuan": [],
+    "zui": [
+        "kui",
+        "zuo"
+    ],
+    "zun": [],
+    "zuo": [
+        "cuo",
+        "zou",
+        "zhuo"
+    ]
+}
