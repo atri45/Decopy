@@ -4,3 +4,6 @@ __pycache__/
 build/test_func.ipynb
 SIGHAN2015/
 dataset/
+check_point/
+pretrained_models/
+.ipynb_checkpoints/
