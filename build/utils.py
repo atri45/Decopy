@@ -9,6 +9,10 @@ def chinese_character(c):
     '''判断一个字符是否为汉字'''
     return '\u4e00' <= c <= '\u9fa5'
 
+def ling(c):
+    '''判断一个字符是否为汉字"〇"'''
+    return c == '\u3007'
+
 def chinese_word_segmentation(text):
     '''按是否为汉字将文本分段'''
     pattern = re.compile(r'([\u4e00-\u9fa5]+|[^\u4e00-\u9fa5]+)')
@@ -23,12 +27,12 @@ def text2pinyintoken(text):
     i, j = 0, 0
 
     while j < len(text):
-        if chinese_character(text[j]):
+        if chinese_character(text[j]) or ling(text[j]):
             pinyin_token += [pinyin[i]]
             i += 1
             j += 1
         else:
-            while j < len(text) and (not chinese_character(text[j])):
+            while j < len(text) and (not chinese_character(text[j])) and (not ling(text[j])):
                 j += 1
                 pinyin_token.append("[OTHER]")
             i += 1

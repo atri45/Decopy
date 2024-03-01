@@ -7,7 +7,8 @@ from transformers.models.bert.modeling_bert import (
     BertOnlyMLMHead,
     BertEncoder,
     BertPreTrainedModel,
-    BertPooler
+    BertPooler,
+    BertForTokenClassification
 )
 
 logger = logging.get_logger(__name__)
@@ -32,6 +33,7 @@ class PinyinBertEmbeddings(nn.Module):
         self.register_buffer(
             "token_type_ids", torch.zeros(self.position_ids.size(), dtype=torch.long), persistent=False
         )
+        self.mask_token_id = config.mask_token_id
 
     def forward(
         self,
@@ -41,6 +43,7 @@ class PinyinBertEmbeddings(nn.Module):
         inputs_embeds: Optional[torch.FloatTensor] = None,
         past_key_values_length: int = 0,
         pinyin_ids: Optional[torch.LongTensor] = None,
+        error_prob: Optional[torch.FloatTensor] = None
     ) -> torch.Tensor:
         if input_ids is not None:
             input_shape = input_ids.size()
@@ -65,6 +68,9 @@ class PinyinBertEmbeddings(nn.Module):
 
         if inputs_embeds is None:
             inputs_embeds = self.word_embeddings(input_ids)
+            mask_embed = self.word_embeddings(torch.tensor([[self.mask_token_id]], device=inputs_embeds.device)).detach()
+            inputs_embeds = error_prob * mask_embed + (1 - error_prob) * inputs_embeds
+
         pinyin_embeddings = self.pinyin_embeddings(pinyin_ids)
         token_type_embeddings = self.token_type_embeddings(token_type_ids)
 
@@ -130,6 +136,7 @@ class PinyinBertModel(BertPreTrainedModel):
         output_attentions: Optional[bool] = None,
         output_hidden_states: Optional[bool] = None,
         pinyin_ids: Optional[torch.Tensor] = None,
+        error_prob: Optional[torch.Tensor] = None
     ) -> Tuple[torch.Tensor]:
         r"""
         encoder_hidden_states  (`torch.FloatTensor` of shape `(batch_size, sequence_length, hidden_size)`, *optional*):
@@ -211,6 +218,7 @@ class PinyinBertModel(BertPreTrainedModel):
 
         embedding_output = self.embeddings(
             input_ids=input_ids,
+            error_prob=error_prob,
             pinyin_ids=pinyin_ids,
             position_ids=position_ids,
             token_type_ids=token_type_ids,
@@ -273,6 +281,7 @@ class PinyinBertForMaskedLM(BertPreTrainedModel):
         output_attentions: Optional[bool] = None,
         output_hidden_states: Optional[bool] = None,
         pinyin_ids: Optional[torch.Tensor] = None,
+        error_prob: Optional[torch.Tensor] = None
     ) -> Tuple[torch.Tensor]:
         r"""
         labels (`torch.LongTensor` of shape `(batch_size, sequence_length)`, *optional*):
@@ -284,6 +293,7 @@ class PinyinBertForMaskedLM(BertPreTrainedModel):
         outputs = self.bert(
             input_ids,
             pinyin_ids=pinyin_ids,
+            error_prob=error_prob,
             attention_mask=attention_mask,
             token_type_ids=token_type_ids,
             position_ids=position_ids,
@@ -305,3 +315,54 @@ class PinyinBertForMaskedLM(BertPreTrainedModel):
 
         output = (prediction_scores,) + outputs[2:]
         return ((masked_lm_loss,) + output) if masked_lm_loss is not None else output
+
+
+class PinyinBertCorrectModel(nn.Module):
+    def __init__(self, detection, corrector):
+        super().__init__()
+        self.detection = detection
+        self.corrector = corrector
+
+    def forward(
+        self,
+        input_ids: Optional[torch.Tensor] = None,
+        attention_mask: Optional[torch.Tensor] = None,
+        token_type_ids: Optional[torch.Tensor] = None,
+        position_ids: Optional[torch.Tensor] = None,
+        head_mask: Optional[torch.Tensor] = None,
+        inputs_embeds: Optional[torch.Tensor] = None,
+        encoder_hidden_states: Optional[torch.Tensor] = None,
+        encoder_attention_mask: Optional[torch.Tensor] = None,
+        output_attentions: Optional[bool] = None,
+        output_hidden_states: Optional[bool] = None,
+        pinyin_ids: Optional[torch.Tensor] = None 
+    ):
+
+        detect_output = self.detection(
+            input_ids,
+            attention_mask=attention_mask,
+            token_type_ids=token_type_ids,
+            position_ids=position_ids,
+            head_mask=head_mask,
+            inputs_embeds=inputs_embeds,
+            output_attentions=output_attentions,
+            output_hidden_states=output_hidden_states
+        ).logits
+        error_prob = nn.functional.softmax(detect_output, dim=-1)[:, :, 0].unsqueeze(-1)
+
+        correct_output = self.corrector(
+            input_ids,
+            pinyin_ids=pinyin_ids,
+            error_prob=error_prob,
+            attention_mask=attention_mask,
+            token_type_ids=token_type_ids,
+            position_ids=position_ids,
+            head_mask=head_mask,
+            inputs_embeds=inputs_embeds,
+            encoder_hidden_states=encoder_hidden_states,
+            encoder_attention_mask=encoder_attention_mask,
+            output_attentions=output_attentions,
+            output_hidden_states=output_hidden_states
+        )
+
+        return correct_output
