@@ -2,6 +2,7 @@ __pycache__/
 .vscode/
 .idea/
 
+DecBert/
 build/test_func.ipynb
 SIGHAN2015/
 dataset/

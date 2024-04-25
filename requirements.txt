@@ -1,4 +1,5 @@
 pypinyin
+tqdm
 torch
 transformers==4.38.1
 modelscope==1.12.0

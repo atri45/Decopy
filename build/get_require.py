@@ -10,10 +10,10 @@ def download_model_from_modelscope(author, model_name, save_dir="./"):
     '''
     从modelscope下载预训练模型
     '''
-    if not os.path.exists(os.path.join(author, model_name)):
-        snapshot_download(os.path.join(author, model_name), cache_dir=save_dir)
+    if not os.path.exists(f"{author}/{model_name}"):
+        snapshot_download(f"{author}/{model_name}", cache_dir=save_dir)
 
-    shutil.move(os.path.join(author, model_name), model_name)
+    shutil.move(f"{author}/{model_name}", model_name)
     shutil.rmtree(author)
     shutil.rmtree("temp")
 
