@@ -1,3 +1,5 @@
+"""注意！！该文件已经废弃"""
+
 import numpy as np
 from transformers import AutoTokenizer
 

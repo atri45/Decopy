@@ -1,0 +1,8947 @@
+{
+    "[OTHER]": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": []
+    },
+    "a": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "啊",
+            "阿",
+            "呵"
+        ]
+    },
+    "ai": {
+        "similar_pronunciations": [
+            "bai",
+            "hai"
+        ],
+        "same_pronunciation_chars": [
+            "哀",
+            "碍",
+            "爱",
+            "艾",
+            "哎",
+            "埃",
+            "唉",
+            "癌",
+            "暧",
+            "挨",
+            "蔼",
+            "霭",
+            "隘",
+            "皑",
+            "矮",
+            "餲"
+        ]
+    },
+    "an": {
+        "similar_pronunciations": [
+            "man",
+            "gan",
+            "ang"
+        ],
+        "same_pronunciation_chars": [
+            "案",
+            "铵",
+            "桉",
+            "黯",
+            "安",
+            "按",
+            "暗",
+            "庵",
+            "鞍",
+            "俺",
+            "岸",
+            "谙",
+            "胺",
+            "氨",
+            "厂",
+            "广"
+        ]
+    },
+    "ang": {
+        "similar_pronunciations": [
+            "an"
+        ],
+        "same_pronunciation_chars": [
+            "昂",
+            "盎",
+            "肮",
+            "卬",
+            "仰"
+        ]
+    },
+    "ao": {
+        "similar_pronunciations": [
+            "hao",
+            "gao"
+        ],
+        "same_pronunciation_chars": [
+            "奥",
+            "澳",
+            "螯",
+            "鏖",
+            "骜",
+            "遨",
+            "翱",
+            "獒",
+            "敖",
+            "懊",
+            "鳌",
+            "熬",
+            "傲",
+            "拗",
+            "岙",
+            "凹",
+            "袄",
+            "嚣"
+        ]
+    },
+    "ba": {
+        "similar_pronunciations": [
+            "pa",
+            "da"
+        ],
+        "same_pronunciation_chars": [
+            "吧",
+            "把",
+            "峇",
+            "叭",
+            "霸",
+            "疤",
+            "芭",
+            "爸",
+            "扒",
+            "巴",
+            "灞",
+            "鲅",
+            "八",
+            "拔",
+            "耙",
+            "跋",
+            "罢",
+            "粑",
+            "坝",
+            "靶",
+            "捌",
+            "钯",
+            "笆",
+            "伯"
+        ]
+    },
+    "bai": {
+        "similar_pronunciations": [
+            "pai"
+        ],
+        "same_pronunciation_chars": [
+            "百",
+            "柏",
+            "拜",
+            "摆",
+            "白",
+            "擘",
+            "佰",
+            "败",
+            "稗",
+            "掰",
+            "伯"
+        ]
+    },
+    "ban": {
+        "similar_pronunciations": [
+            "fan",
+            "tan",
+            "pan"
+        ],
+        "same_pronunciation_chars": [
+            "般",
+            "办",
+            "半",
+            "斑",
+            "板",
+            "班",
+            "扮",
+            "坂",
+            "伴",
+            "版",
+            "搬",
+            "瓣",
+            "扳",
+            "阪",
+            "绊",
+            "拌",
+            "闆",
+            "颁",
+            "钣"
+        ]
+    },
+    "bang": {
+        "similar_pronunciations": [
+            "ban",
+            "pang"
+        ],
+        "same_pronunciation_chars": [
+            "帮",
+            "邦",
+            "棒",
+            "膀",
+            "榜",
+            "傍",
+            "绑",
+            "谤",
+            "镑",
+            "磅",
+            "梆",
+            "蚌",
+            "旁",
+            "彭"
+        ]
+    },
+    "bao": {
+        "similar_pronunciations": [
+            "dao",
+            "pao"
+        ],
+        "same_pronunciation_chars": [
+            "抱",
+            "报",
+            "葆",
+            "宝",
+            "爆",
+            "暴",
+            "保",
+            "薄",
+            "豹",
+            "堡",
+            "鲍",
+            "包",
+            "饱",
+            "雹",
+            "趵",
+            "褓",
+            "孢",
+            "胞",
+            "褒",
+            "苞",
+            "曝",
+            "刨",
+            "剥",
+            "炮",
+            "瀑"
+        ]
+    },
+    "bei": {
+        "similar_pronunciations": [
+            "pei",
+            "fei"
+        ],
+        "same_pronunciation_chars": [
+            "备",
+            "被",
+            "倍",
+            "北",
+            "杯",
+            "碑",
+            "呗",
+            "惫",
+            "孛",
+            "卑",
+            "辈",
+            "悲",
+            "背",
+            "贝",
+            "珼",
+            "蓓",
+            "陂",
+            "焙",
+            "碚",
+            "悖",
+            "狈",
+            "臂",
+            "钡",
+            "勃"
+        ]
+    },
+    "ben": {
+        "similar_pronunciations": [
+            "beng",
+            "pen"
+        ],
+        "same_pronunciation_chars": [
+            "本",
+            "贲",
+            "苯",
+            "笨",
+            "奔",
+            "渀",
+            "夯"
+        ]
+    },
+    "beng": {
+        "similar_pronunciations": [
+            "peng",
+            "ben"
+        ],
+        "same_pronunciation_chars": [
+            "绷",
+            "蹦",
+            "迸",
+            "崩",
+            "絣",
+            "泵",
+            "琣",
+            "蚌",
+            "甭"
+        ]
+    },
+    "bi": {
+        "similar_pronunciations": [
+            "pi",
+            "mi"
+        ],
+        "same_pronunciation_chars": [
+            "俾",
+            "逼",
+            "裨",
+            "毕",
+            "必",
+            "敝",
+            "匕",
+            "币",
+            "臂",
+            "比",
+            "笔",
+            "愎",
+            "彼",
+            "璧",
+            "避",
+            "闭",
+            "庇",
+            "鄙",
+            "壁",
+            "鼻",
+            "荸",
+            "蓖",
+            "碧",
+            "吡",
+            "蔽",
+            "毙",
+            "貏",
+            "痹",
+            "毖",
+            "弼",
+            "畀",
+            "陛",
+            "弊",
+            "篦",
+            "薜",
+            "辟",
+            "佛",
+            "拂",
+            "秘",
+            "泌"
+        ]
+    },
+    "bian": {
+        "similar_pronunciations": [
+            "mian",
+            "pian"
+        ],
+        "same_pronunciation_chars": [
+            "变",
+            "便",
+            "扁",
+            "遍",
+            "辩",
+            "辨",
+            "边",
+            "汴",
+            "匾",
+            "编",
+            "蝙",
+            "卞",
+            "釆",
+            "贬",
+            "鞭",
+            "煸",
+            "苄",
+            "辫"
+        ]
+    },
+    "biao": {
+        "similar_pronunciations": [
+            "piao"
+        ],
+        "same_pronunciation_chars": [
+            "表",
+            "标",
+            "镳",
+            "膘",
+            "婊",
+            "飙",
+            "彪",
+            "骠",
+            "摽",
+            "镖",
+            "俵",
+            "飚"
+        ]
+    },
+    "bie": {
+        "similar_pronunciations": [
+            "pie"
+        ],
+        "same_pronunciation_chars": [
+            "别",
+            "憋",
+            "蹩",
+            "鳖",
+            "瘪"
+        ]
+    },
+    "bin": {
+        "similar_pronunciations": [
+            "yin",
+            "bing",
+            "pin"
+        ],
+        "same_pronunciation_chars": [
+            "鬓",
+            "宾",
+            "滨",
+            "濒",
+            "斌",
+            "槟",
+            "彬",
+            "膑",
+            "摈",
+            "份",
+            "频"
+        ]
+    },
+    "bing": {
+        "similar_pronunciations": [
+            "ping",
+            "bin"
+        ],
+        "same_pronunciation_chars": [
+            "丙",
+            "兵",
+            "病",
+            "并",
+            "炳",
+            "柄",
+            "摒",
+            "秉",
+            "饼",
+            "冰",
+            "陃",
+            "併",
+            "禀",
+            "屏"
+        ]
+    },
+    "bo": {
+        "similar_pronunciations": [
+            "po"
+        ],
+        "same_pronunciation_chars": [
+            "伯",
+            "播",
+            "波",
+            "渤",
+            "博",
+            "亳",
+            "勃",
+            "箔",
+            "拨",
+            "铂",
+            "饽",
+            "钵",
+            "剥",
+            "玻",
+            "菠",
+            "驳",
+            "啵",
+            "搏",
+            "帛",
+            "脖",
+            "簸",
+            "跛",
+            "卜",
+            "駮",
+            "柏",
+            "薄",
+            "泊",
+            "膊",
+            "舶",
+            "般",
+            "簿",
+            "佛",
+            "魄"
+        ]
+    },
+    "bu": {
+        "similar_pronunciations": [
+            "wu",
+            "pu",
+            "hu"
+        ],
+        "same_pronunciation_chars": [
+            "步",
+            "布",
+            "部",
+            "捕",
+            "不",
+            "怖",
+            "补",
+            "佈",
+            "钸",
+            "哺",
+            "簿",
+            "埠",
+            "晡",
+            "堡",
+            "卜",
+            "埔"
+        ]
+    },
+    "ca": {
+        "similar_pronunciations": [
+            "cha"
+        ],
+        "same_pronunciation_chars": [
+            "擦",
+            "嚓",
+            "拆"
+        ]
+    },
+    "cai": {
+        "similar_pronunciations": [
+            "zai",
+            "zhai",
+            "chai",
+            "can"
+        ],
+        "same_pronunciation_chars": [
+            "彩",
+            "采",
+            "菜",
+            "裁",
+            "蔡",
+            "才",
+            "睬",
+            "猜",
+            "材",
+            "财",
+            "踩",
+            "採"
+        ]
+    },
+    "can": {
+        "similar_pronunciations": [
+            "zan",
+            "chan",
+            "cai"
+        ],
+        "same_pronunciation_chars": [
+            "惨",
+            "残",
+            "参",
+            "餐",
+            "粲",
+            "蚕",
+            "璨",
+            "灿",
+            "掺",
+            "孱",
+            "惭"
+        ]
+    },
+    "cang": {
+        "similar_pronunciations": [
+            "chang",
+            "zang"
+        ],
+        "same_pronunciation_chars": [
+            "藏",
+            "苍",
+            "沧",
+            "舱",
+            "仓"
+        ]
+    },
+    "cao": {
+        "similar_pronunciations": [
+            "zao",
+            "chao"
+        ],
+        "same_pronunciation_chars": [
+            "嘈",
+            "漕",
+            "草",
+            "操",
+            "曹",
+            "槽",
+            "糙"
+        ]
+    },
+    "ce": {
+        "similar_pronunciations": [
+            "ze",
+            "che"
+        ],
+        "same_pronunciation_chars": [
+            "策",
+            "测",
+            "厕",
+            "侧",
+            "册",
+            "栅"
+        ]
+    },
+    "cen": {
+        "similar_pronunciations": [
+            "ceng",
+            "chen"
+        ],
+        "same_pronunciation_chars": [
+            "岑",
+            "参"
+        ]
+    },
+    "ceng": {
+        "similar_pronunciations": [
+            "cheng",
+            "cen"
+        ],
+        "same_pronunciation_chars": [
+            "曾",
+            "层",
+            "噌",
+            "蹭"
+        ]
+    },
+    "cha": {
+        "similar_pronunciations": [
+            "ca",
+            "sha",
+            "za"
+        ],
+        "same_pronunciation_chars": [
+            "查",
+            "岔",
+            "差",
+            "汊",
+            "察",
+            "插",
+            "叉",
+            "茶",
+            "搽",
+            "茬",
+            "槎",
+            "杈",
+            "刹",
+            "诧",
+            "喳",
+            "碴"
+        ]
+    },
+    "chai": {
+        "similar_pronunciations": [
+            "sai",
+            "cai"
+        ],
+        "same_pronunciation_chars": [
+            "祡",
+            "拆",
+            "柴",
+            "侪",
+            "钗",
+            "差",
+            "豺"
+        ]
+    },
+    "chan": {
+        "similar_pronunciations": [
+            "chang",
+            "zhan",
+            "can",
+            "san",
+            "zan"
+        ],
+        "same_pronunciation_chars": [
+            "产",
+            "缠",
+            "蝉",
+            "潺",
+            "谄",
+            "阐",
+            "忏",
+            "颤",
+            "铲",
+            "禅",
+            "搀",
+            "婵",
+            "掺",
+            "馋",
+            "单",
+            "谗",
+            "崭"
+        ]
+    },
+    "chang": {
+        "similar_pronunciations": [
+            "zhang",
+            "shang",
+            "chan",
+            "cang",
+            "zang"
+        ],
+        "same_pronunciation_chars": [
+            "菖",
+            "敞",
+            "唱",
+            "场",
+            "厂",
+            "常",
+            "徜",
+            "畅",
+            "尝",
+            "猖",
+            "伥",
+            "娼",
+            "倡",
+            "怅",
+            "偿",
+            "嚐",
+            "昌",
+            "肠",
+            "鲳",
+            "昶",
+            "嫦",
+            "长",
+            "裳",
+            "倘",
+            "淌"
+        ]
+    },
+    "chao": {
+        "similar_pronunciations": [
+            "zao",
+            "zhao",
+            "cao",
+            "shao"
+        ],
+        "same_pronunciation_chars": [
+            "朝",
+            "超",
+            "潮",
+            "炒",
+            "吵",
+            "耖",
+            "焯",
+            "抄",
+            "嘲",
+            "焣",
+            "巢",
+            "钞",
+            "绰",
+            "剿"
+        ]
+    },
+    "che": {
+        "similar_pronunciations": [
+            "zhe",
+            "ce"
+        ],
+        "same_pronunciation_chars": [
+            "车",
+            "撤",
+            "彻",
+            "澈",
+            "扯",
+            "掣",
+            "尺"
+        ]
+    },
+    "chen": {
+        "similar_pronunciations": [
+            "zhen",
+            "cheng",
+            "shen",
+            "cen",
+            "sen"
+        ],
+        "same_pronunciation_chars": [
+            "辰",
+            "陈",
+            "晨",
+            "趁",
+            "臣",
+            "沉",
+            "尘",
+            "琛",
+            "宸",
+            "郴",
+            "谌",
+            "忱",
+            "衬",
+            "称",
+            "沈"
+        ]
+    },
+    "cheng": {
+        "similar_pronunciations": [
+            "chen",
+            "ceng",
+            "sheng",
+            "zheng",
+            "seng"
+        ],
+        "same_pronunciation_chars": [
+            "诚",
+            "成",
+            "逞",
+            "呈",
+            "程",
+            "埕",
+            "称",
+            "橙",
+            "承",
+            "撑",
+            "乘",
+            "城",
+            "惩",
+            "丞",
+            "晟",
+            "澄",
+            "骋",
+            "秤",
+            "盛",
+            "净",
+            "抢"
+        ]
+    },
+    "chi": {
+        "similar_pronunciations": [
+            "ci",
+            "zhi",
+            "shi",
+            "si"
+        ],
+        "same_pronunciation_chars": [
+            "茌",
+            "持",
+            "吃",
+            "侈",
+            "池",
+            "迟",
+            "呎",
+            "坻",
+            "痴",
+            "炽",
+            "赤",
+            "蚩",
+            "弛",
+            "驰",
+            "啻",
+            "嗤",
+            "尺",
+            "螭",
+            "斥",
+            "箎",
+            "翅",
+            "篪",
+            "敕",
+            "褫",
+            "饬",
+            "齿",
+            "耻",
+            "匙"
+        ]
+    },
+    "chong": {
+        "similar_pronunciations": [
+            "cong",
+            "zhong",
+            "zong"
+        ],
+        "same_pronunciation_chars": [
+            "舂",
+            "忡",
+            "冲",
+            "充",
+            "崇",
+            "铳",
+            "虫",
+            "宠",
+            "憧",
+            "重",
+            "涌",
+            "种"
+        ]
+    },
+    "chou": {
+        "similar_pronunciations": [
+            "cou"
+        ],
+        "same_pronunciation_chars": [
+            "筹",
+            "惆",
+            "丑",
+            "抽",
+            "愁",
+            "酬",
+            "仇",
+            "畴",
+            "臭",
+            "瞅",
+            "稠",
+            "绸",
+            "俦",
+            "踌"
+        ]
+    },
+    "chu": {
+        "similar_pronunciations": [
+            "zhu",
+            "cu",
+            "zu"
+        ],
+        "same_pronunciation_chars": [
+            "处",
+            "楚",
+            "触",
+            "畜",
+            "初",
+            "出",
+            "杵",
+            "础",
+            "除",
+            "搐",
+            "黜",
+            "厨",
+            "储",
+            "刍",
+            "绌",
+            "橱",
+            "齣",
+            "矗",
+            "怵",
+            "雏",
+            "褚",
+            "憷",
+            "滁",
+            "躇",
+            "锄",
+            "助"
+        ]
+    },
+    "chuai": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "揣",
+            "踹",
+            "啜"
+        ]
+    },
+    "chuan": {
+        "similar_pronunciations": [
+            "chuang",
+            "cuan"
+        ],
+        "same_pronunciation_chars": [
+            "传",
+            "船",
+            "喘",
+            "串",
+            "穿",
+            "川",
+            "钏",
+            "椽"
+        ]
+    },
+    "chuang": {
+        "similar_pronunciations": [
+            "chuan",
+            "zhuang"
+        ],
+        "same_pronunciation_chars": [
+            "闯",
+            "幢",
+            "床",
+            "窗",
+            "创",
+            "怆",
+            "疮"
+        ]
+    },
+    "chui": {
+        "similar_pronunciations": [
+            "cui",
+            "zui"
+        ],
+        "same_pronunciation_chars": [
+            "吹",
+            "垂",
+            "椎",
+            "搥",
+            "槌",
+            "锤",
+            "陲",
+            "炊",
+            "捶"
+        ]
+    },
+    "chun": {
+        "similar_pronunciations": [
+            "cun",
+            "zun"
+        ],
+        "same_pronunciation_chars": [
+            "春",
+            "淳",
+            "纯",
+            "唇",
+            "醇",
+            "蠢",
+            "椿"
+        ]
+    },
+    "chuo": {
+        "similar_pronunciations": [
+            "cuo",
+            "zuo"
+        ],
+        "same_pronunciation_chars": [
+            "绰",
+            "辍",
+            "戳",
+            "淖"
+        ]
+    },
+    "ci": {
+        "similar_pronunciations": [
+            "zi",
+            "chi"
+        ],
+        "same_pronunciation_chars": [
+            "次",
+            "此",
+            "刺",
+            "词",
+            "辞",
+            "莿",
+            "伺",
+            "慈",
+            "雌",
+            "疵",
+            "磁",
+            "茨",
+            "祠",
+            "赐",
+            "瓷",
+            "差",
+            "兹"
+        ]
+    },
+    "cong": {
+        "similar_pronunciations": [
+            "zong",
+            "chong"
+        ],
+        "same_pronunciation_chars": [
+            "葱",
+            "从",
+            "匆",
+            "丛",
+            "聪",
+            "欉",
+            "謥",
+            "囱",
+            "藂"
+        ]
+    },
+    "cou": {
+        "similar_pronunciations": [
+            "zou",
+            "chou"
+        ],
+        "same_pronunciation_chars": [
+            "凑"
+        ]
+    },
+    "cu": {
+        "similar_pronunciations": [
+            "chu",
+            "zhu"
+        ],
+        "same_pronunciation_chars": [
+            "蹴",
+            "促",
+            "醋",
+            "猝",
+            "粗",
+            "簇",
+            "殂",
+            "卒",
+            "趋",
+            "趣"
+        ]
+    },
+    "cuan": {
+        "similar_pronunciations": [
+            "chuan"
+        ],
+        "same_pronunciation_chars": [
+            "窜",
+            "蹿",
+            "篡",
+            "攒"
+        ]
+    },
+    "cui": {
+        "similar_pronunciations": [
+            "zui",
+            "sui",
+            "chui"
+        ],
+        "same_pronunciation_chars": [
+            "崔",
+            "粹",
+            "璀",
+            "摧",
+            "瘁",
+            "萃",
+            "脆",
+            "催",
+            "悴",
+            "翠",
+            "淬",
+            "衰"
+        ]
+    },
+    "cun": {
+        "similar_pronunciations": [
+            "chun"
+        ],
+        "same_pronunciation_chars": [
+            "存",
+            "寸",
+            "村",
+            "吋",
+            "忖",
+            "蹲"
+        ]
+    },
+    "cuo": {
+        "similar_pronunciations": [
+            "zuo",
+            "chuo"
+        ],
+        "same_pronunciation_chars": [
+            "撮",
+            "错",
+            "措",
+            "挫",
+            "厝",
+            "搓",
+            "瑳",
+            "磋",
+            "剉",
+            "蹉"
+        ]
+    },
+    "da": {
+        "similar_pronunciations": [
+            "ta"
+        ],
+        "same_pronunciation_chars": [
+            "嗒",
+            "打",
+            "达",
+            "答",
+            "搭",
+            "撘",
+            "大",
+            "妲",
+            "耷",
+            "靼",
+            "沓",
+            "瘩",
+            "哒",
+            "惮"
+        ]
+    },
+    "dai": {
+        "similar_pronunciations": [
+            "tai"
+        ],
+        "same_pronunciation_chars": [
+            "戴",
+            "带",
+            "代",
+            "待",
+            "呆",
+            "逮",
+            "歹",
+            "殆",
+            "怠",
+            "黛",
+            "贷",
+            "袋",
+            "埭",
+            "玳",
+            "岱",
+            "甙",
+            "大",
+            "傣",
+            "毒"
+        ]
+    },
+    "dan": {
+        "similar_pronunciations": [
+            "dang",
+            "tan"
+        ],
+        "same_pronunciation_chars": [
+            "担",
+            "单",
+            "但",
+            "旦",
+            "淡",
+            "蛋",
+            "弹",
+            "丹",
+            "诞",
+            "惮",
+            "殚",
+            "胆",
+            "氮",
+            "憺",
+            "眈",
+            "耽",
+            "郸",
+            "疸",
+            "澹",
+            "掸",
+            "石"
+        ]
+    },
+    "dang": {
+        "similar_pronunciations": [
+            "dan",
+            "tang"
+        ],
+        "same_pronunciation_chars": [
+            "菪",
+            "砀",
+            "当",
+            "宕",
+            "档",
+            "欓",
+            "挡",
+            "党",
+            "儅",
+            "荡",
+            "盪",
+            "铛",
+            "裆"
+        ]
+    },
+    "dao": {
+        "similar_pronunciations": [
+            "tao",
+            "gao"
+        ],
+        "same_pronunciation_chars": [
+            "到",
+            "道",
+            "导",
+            "蹈",
+            "悼",
+            "盗",
+            "稻",
+            "岛",
+            "倒",
+            "刀",
+            "叨",
+            "捣",
+            "祷",
+            "氘",
+            "焘",
+            "纛"
+        ]
+    },
+    "de": {
+        "similar_pronunciations": [
+            "te"
+        ],
+        "same_pronunciation_chars": [
+            "得",
+            "的",
+            "淂",
+            "德",
+            "地",
+            "底"
+        ]
+    },
+    "den": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "扥"
+        ]
+    },
+    "dei": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "得"
+        ]
+    },
+    "deng": {
+        "similar_pronunciations": [
+            "teng"
+        ],
+        "same_pronunciation_chars": [
+            "登",
+            "灯",
+            "邓",
+            "等",
+            "凳",
+            "瞪",
+            "蹬",
+            "澄"
+        ]
+    },
+    "di": {
+        "similar_pronunciations": [
+            "ti",
+            "li"
+        ],
+        "same_pronunciation_chars": [
+            "第",
+            "弟",
+            "抵",
+            "底",
+            "敌",
+            "地",
+            "低",
+            "荻",
+            "谛",
+            "迪",
+            "蒂",
+            "笛",
+            "帝",
+            "滴",
+            "碲",
+            "缔",
+            "娣",
+            "砥",
+            "骶",
+            "睇",
+            "堤",
+            "苖",
+            "递",
+            "狄",
+            "柢",
+            "诋",
+            "翟",
+            "嘀",
+            "邸",
+            "的",
+            "涤",
+            "提",
+            "嫡"
+        ]
+    },
+    "dian": {
+        "similar_pronunciations": [
+            "tian",
+            "jian"
+        ],
+        "same_pronunciation_chars": [
+            "电",
+            "点",
+            "奠",
+            "店",
+            "靛",
+            "佃",
+            "碘",
+            "滇",
+            "典",
+            "钿",
+            "垫",
+            "癜",
+            "掂",
+            "殿",
+            "惦",
+            "癫",
+            "淀",
+            "甸",
+            "巅",
+            "玷",
+            "颠"
+        ]
+    },
+    "diao": {
+        "similar_pronunciations": [
+            "tiao",
+            "dao"
+        ],
+        "same_pronunciation_chars": [
+            "钓",
+            "调",
+            "凋",
+            "吊",
+            "掉",
+            "碉",
+            "刁",
+            "鵰",
+            "雕",
+            "叼",
+            "鸟"
+        ]
+    },
+    "die": {
+        "similar_pronunciations": [
+            "tie"
+        ],
+        "same_pronunciation_chars": [
+            "谍",
+            "喋",
+            "迭",
+            "叠",
+            "牒",
+            "碟",
+            "蝶",
+            "跌",
+            "爹"
+        ]
+    },
+    "ding": {
+        "similar_pronunciations": [
+            "ting"
+        ],
+        "same_pronunciation_chars": [
+            "顶",
+            "订",
+            "定",
+            "锭",
+            "丁",
+            "叮",
+            "酊",
+            "鼎",
+            "钉",
+            "铤",
+            "碇",
+            "盯",
+            "啶",
+            "腚"
+        ]
+    },
+    "diu": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "丢"
+        ]
+    },
+    "dong": {
+        "similar_pronunciations": [
+            "song",
+            "tong",
+            "chong"
+        ],
+        "same_pronunciation_chars": [
+            "东",
+            "动",
+            "董",
+            "懂",
+            "恫",
+            "侗",
+            "洞",
+            "栋",
+            "冬",
+            "硐",
+            "胴",
+            "咚",
+            "冻",
+            "峒",
+            "埬",
+            "鸫"
+        ]
+    },
+    "dou": {
+        "similar_pronunciations": [
+            "tou"
+        ],
+        "same_pronunciation_chars": [
+            "抖",
+            "都",
+            "窦",
+            "痘",
+            "蚪",
+            "兜",
+            "斗",
+            "豆",
+            "陡",
+            "逗",
+            "荳",
+            "读"
+        ]
+    },
+    "du": {
+        "similar_pronunciations": [
+            "lu",
+            "tu"
+        ],
+        "same_pronunciation_chars": [
+            "读",
+            "督",
+            "度",
+            "渡",
+            "睹",
+            "毒",
+            "独",
+            "堵",
+            "犊",
+            "妒",
+            "渎",
+            "肚",
+            "镀",
+            "赌",
+            "杜",
+            "笃",
+            "嘟",
+            "蠹",
+            "都",
+            "顿"
+        ]
+    },
+    "duan": {
+        "similar_pronunciations": [
+            "tuan",
+            "chuan"
+        ],
+        "same_pronunciation_chars": [
+            "端",
+            "椴",
+            "断",
+            "段",
+            "短",
+            "锻",
+            "缎"
+        ]
+    },
+    "dui": {
+        "similar_pronunciations": [
+            "sui",
+            "tui"
+        ],
+        "same_pronunciation_chars": [
+            "堆",
+            "对",
+            "队",
+            "兑",
+            "碓",
+            "怼",
+            "憝",
+            "敦",
+            "追"
+        ]
+    },
+    "dun": {
+        "similar_pronunciations": [
+            "tun"
+        ],
+        "same_pronunciation_chars": [
+            "趸",
+            "敦",
+            "钝",
+            "盾",
+            "顿",
+            "遁",
+            "蹲",
+            "炖",
+            "吨",
+            "沌",
+            "墩",
+            "囤"
+        ]
+    },
+    "duo": {
+        "similar_pronunciations": [
+            "tuo",
+            "huo"
+        ],
+        "same_pronunciation_chars": [
+            "夺",
+            "多",
+            "堕",
+            "哆",
+            "朵",
+            "惰",
+            "铎",
+            "咄",
+            "掇",
+            "躲",
+            "哚",
+            "舵",
+            "踱",
+            "度",
+            "跺",
+            "垛",
+            "剁",
+            "隋",
+            "驮"
+        ]
+    },
+    "e": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "萼",
+            "俄",
+            "饿",
+            "扼",
+            "峨",
+            "愕",
+            "噩",
+            "额",
+            "娥",
+            "腭",
+            "厄",
+            "遏",
+            "鳄",
+            "恶",
+            "鹅",
+            "锷",
+            "婀",
+            "颚",
+            "阿",
+            "蛾",
+            "鄂",
+            "讹",
+            "哦"
+        ]
+    },
+    "ei": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "诶"
+        ]
+    },
+    "en": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "蒽",
+            "恩"
+        ]
+    },
+    "er": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "二",
+            "儿",
+            "而",
+            "耳",
+            "尔",
+            "鸸",
+            "珥",
+            "贰",
+            "洱",
+            "饵"
+        ]
+    },
+    "fa": {
+        "similar_pronunciations": [
+            "pa",
+            "ha"
+        ],
+        "same_pronunciation_chars": [
+            "乏",
+            "发",
+            "法",
+            "罚",
+            "伐",
+            "珐",
+            "砝",
+            "阀",
+            "筏",
+            "垡"
+        ]
+    },
+    "fan": {
+        "similar_pronunciations": [
+            "fang",
+            "ban",
+            "han"
+        ],
+        "same_pronunciation_chars": [
+            "泛",
+            "樊",
+            "反",
+            "藩",
+            "繁",
+            "犯",
+            "贩",
+            "番",
+            "翻",
+            "饭",
+            "返",
+            "畈",
+            "范",
+            "烦",
+            "帆",
+            "矾",
+            "梵",
+            "凡",
+            "氾",
+            "蕃",
+            "籓",
+            "钒"
+        ]
+    },
+    "fang": {
+        "similar_pronunciations": [
+            "fan",
+            "hang",
+            "bang"
+        ],
+        "same_pronunciation_chars": [
+            "方",
+            "房",
+            "芳",
+            "放",
+            "妨",
+            "防",
+            "访",
+            "坊",
+            "仿",
+            "舫",
+            "肪",
+            "纺",
+            "邡"
+        ]
+    },
+    "fei": {
+        "similar_pronunciations": [
+            "wei",
+            "hei"
+        ],
+        "same_pronunciation_chars": [
+            "费",
+            "癈",
+            "废",
+            "非",
+            "飞",
+            "菲",
+            "霏",
+            "吠",
+            "斐",
+            "肥",
+            "匪",
+            "婓",
+            "啡",
+            "腓",
+            "肺",
+            "妃",
+            "诽",
+            "痱",
+            "扉",
+            "蜚",
+            "狒",
+            "沸",
+            "绯"
+        ]
+    },
+    "fen": {
+        "similar_pronunciations": [
+            "pen",
+            "hen",
+            "feng"
+        ],
+        "same_pronunciation_chars": [
+            "份",
+            "分",
+            "愤",
+            "奋",
+            "棼",
+            "昐",
+            "氛",
+            "忿",
+            "芬",
+            "粉",
+            "纷",
+            "坟",
+            "吩",
+            "汾",
+            "粪",
+            "焚",
+            "酚"
+        ]
+    },
+    "feng": {
+        "similar_pronunciations": [
+            "peng",
+            "heng",
+            "fen"
+        ],
+        "same_pronunciation_chars": [
+            "锋",
+            "风",
+            "峰",
+            "丰",
+            "逢",
+            "疯",
+            "奉",
+            "凤",
+            "封",
+            "冯",
+            "沣",
+            "枫",
+            "偑",
+            "俸",
+            "缝",
+            "蜂",
+            "讽",
+            "砜",
+            "烽"
+        ]
+    },
+    "fo": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "佛"
+        ]
+    },
+    "fou": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "否",
+            "不"
+        ]
+    },
+    "fu": {
+        "similar_pronunciations": [
+            "hu",
+            "bu"
+        ],
+        "same_pronunciation_chars": [
+            "父",
+            "夫",
+            "茯",
+            "覆",
+            "辅",
+            "福",
+            "腹",
+            "副",
+            "付",
+            "符",
+            "附",
+            "赋",
+            "芙",
+            "复",
+            "幅",
+            "府",
+            "俯",
+            "涪",
+            "负",
+            "麸",
+            "腑",
+            "富",
+            "伏",
+            "服",
+            "罘",
+            "阜",
+            "傅",
+            "扶",
+            "妇",
+            "辐",
+            "佛",
+            "袱",
+            "蝠",
+            "浮",
+            "拂",
+            "抚",
+            "腐",
+            "赴",
+            "缚",
+            "甫",
+            "呋",
+            "咐",
+            "俘",
+            "釜",
+            "弗",
+            "孚",
+            "巿",
+            "孵",
+            "肤",
+            "敷",
+            "斧",
+            "複",
+            "氟",
+            "馥",
+            "脯",
+            "讣"
+        ]
+    },
+    "ga": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "伽",
+            "嘎",
+            "噶",
+            "尬",
+            "呷",
+            "咖",
+            "胳",
+            "夹",
+            "界",
+            "轧"
+        ]
+    },
+    "gai": {
+        "similar_pronunciations": [
+            "kai"
+        ],
+        "same_pronunciation_chars": [
+            "该",
+            "改",
+            "概",
+            "盖",
+            "丐",
+            "钙",
+            "溉",
+            "芥"
+        ]
+    },
+    "gan": {
+        "similar_pronunciations": [
+            "gang",
+            "kan"
+        ],
+        "same_pronunciation_chars": [
+            "干",
+            "感",
+            "甘",
+            "敢",
+            "赶",
+            "杆",
+            "矸",
+            "竿",
+            "酐",
+            "苷",
+            "肝",
+            "绀",
+            "尴",
+            "秆",
+            "柑",
+            "坩",
+            "赣",
+            "乾"
+        ]
+    },
+    "gang": {
+        "similar_pronunciations": [
+            "gan"
+        ],
+        "same_pronunciation_chars": [
+            "罡",
+            "刚",
+            "纲",
+            "港",
+            "钢",
+            "冈",
+            "肛",
+            "缸",
+            "杠",
+            "岗",
+            "扛"
+        ]
+    },
+    "gao": {
+        "similar_pronunciations": [
+            "kao"
+        ],
+        "same_pronunciation_chars": [
+            "睾",
+            "告",
+            "高",
+            "郜",
+            "稿",
+            "糕",
+            "搞",
+            "锆",
+            "藁",
+            "膏",
+            "诰",
+            "羔",
+            "皋",
+            "篙",
+            "镐"
+        ]
+    },
+    "ge": {
+        "similar_pronunciations": [
+            "de",
+            "ke"
+        ],
+        "same_pronunciation_chars": [
+            "各",
+            "个",
+            "葛",
+            "隔",
+            "格",
+            "镉",
+            "嗝",
+            "仡",
+            "阁",
+            "革",
+            "哥",
+            "歌",
+            "戈",
+            "胳",
+            "割",
+            "咯",
+            "铬",
+            "搁",
+            "骼",
+            "鸽",
+            "舸",
+            "疙",
+            "膈",
+            "盖",
+            "蛤",
+            "合"
+        ]
+    },
+    "gei": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "给"
+        ]
+    },
+    "gen": {
+        "similar_pronunciations": [
+            "geng",
+            "hen"
+        ],
+        "same_pronunciation_chars": [
+            "亘",
+            "艮",
+            "根",
+            "跟",
+            "哏"
+        ]
+    },
+    "geng": {
+        "similar_pronunciations": [
+            "gen"
+        ],
+        "same_pronunciation_chars": [
+            "更",
+            "庚",
+            "哽",
+            "梗",
+            "赓",
+            "耿",
+            "耕",
+            "羹",
+            "畊",
+            "颈",
+            "埂"
+        ]
+    },
+    "gong": {
+        "similar_pronunciations": [
+            "kong",
+            "hong"
+        ],
+        "same_pronunciation_chars": [
+            "宫",
+            "攻",
+            "供",
+            "共",
+            "公",
+            "工",
+            "贡",
+            "功",
+            "躬",
+            "巩",
+            "弓",
+            "汞",
+            "龚",
+            "恭",
+            "拱",
+            "红"
+        ]
+    },
+    "gou": {
+        "similar_pronunciations": [
+            "kou"
+        ],
+        "same_pronunciation_chars": [
+            "狗",
+            "够",
+            "沟",
+            "购",
+            "垢",
+            "构",
+            "苟",
+            "钩",
+            "篝",
+            "佝",
+            "勾",
+            "枸",
+            "媾",
+            "句",
+            "拘"
+        ]
+    },
+    "gu": {
+        "similar_pronunciations": [
+            "ru",
+            "hu",
+            "pu",
+            "lu",
+            "du",
+            "ku"
+        ],
+        "same_pronunciation_chars": [
+            "估",
+            "锢",
+            "骨",
+            "故",
+            "固",
+            "谷",
+            "蛊",
+            "顾",
+            "古",
+            "咕",
+            "辜",
+            "鼓",
+            "菇",
+            "雇",
+            "股",
+            "鸪",
+            "沽",
+            "姑",
+            "孤",
+            "穀",
+            "毂",
+            "梏",
+            "呱",
+            "钴",
+            "榖",
+            "箍",
+            "贾",
+            "过"
+        ]
+    },
+    "gua": {
+        "similar_pronunciations": [
+            "kua"
+        ],
+        "same_pronunciation_chars": [
+            "寡",
+            "瓜",
+            "挂",
+            "剐",
+            "刮",
+            "胍",
+            "卦",
+            "褂",
+            "括"
+        ]
+    },
+    "guai": {
+        "similar_pronunciations": [
+            "kuai"
+        ],
+        "same_pronunciation_chars": [
+            "怪",
+            "掴",
+            "拐",
+            "乖"
+        ]
+    },
+    "guan": {
+        "similar_pronunciations": [
+            "huan",
+            "guang",
+            "kuan"
+        ],
+        "same_pronunciation_chars": [
+            "官",
+            "管",
+            "观",
+            "关",
+            "冠",
+            "惯",
+            "罐",
+            "馆",
+            "贯",
+            "棺",
+            "倌",
+            "雚",
+            "灌",
+            "掼",
+            "莞",
+            "鹳",
+            "纶",
+            "斡"
+        ]
+    },
+    "guang": {
+        "similar_pronunciations": [
+            "kuang",
+            "guan"
+        ],
+        "same_pronunciation_chars": [
+            "逛",
+            "光",
+            "广",
+            "俇"
+        ]
+    },
+    "gui": {
+        "similar_pronunciations": [
+            "kui"
+        ],
+        "same_pronunciation_chars": [
+            "圭",
+            "柜",
+            "贵",
+            "瑰",
+            "桂",
+            "鬼",
+            "规",
+            "轨",
+            "归",
+            "傀",
+            "鲑",
+            "跪",
+            "皈",
+            "闺",
+            "龟",
+            "癸",
+            "刽",
+            "硅",
+            "炔",
+            "匦",
+            "诡"
+        ]
+    },
+    "gun": {
+        "similar_pronunciations": [
+            "hun",
+            "kun"
+        ],
+        "same_pronunciation_chars": [
+            "棍",
+            "滚",
+            "衮",
+            "辊"
+        ]
+    },
+    "guo": {
+        "similar_pronunciations": [
+            "kuo",
+            "duo",
+            "gou"
+        ],
+        "same_pronunciation_chars": [
+            "果",
+            "过",
+            "呙",
+            "国",
+            "帼",
+            "郭",
+            "裹",
+            "蝈",
+            "锅",
+            "椁",
+            "划",
+            "涡"
+        ]
+    },
+    "ha": {
+        "similar_pronunciations": [
+            "fa"
+        ],
+        "same_pronunciation_chars": [
+            "哈",
+            "蛤",
+            "虾"
+        ]
+    },
+    "hai": {
+        "similar_pronunciations": [
+            "gai"
+        ],
+        "same_pronunciation_chars": [
+            "害",
+            "还",
+            "孩",
+            "海",
+            "亥",
+            "嗨",
+            "骇",
+            "氦",
+            "骸",
+            "咳"
+        ]
+    },
+    "han": {
+        "similar_pronunciations": [
+            "hang",
+            "gan",
+            "kan",
+            "zhan",
+            "fan"
+        ],
+        "same_pronunciation_chars": [
+            "韩",
+            "旱",
+            "汗",
+            "捍",
+            "汉",
+            "含",
+            "寒",
+            "涵",
+            "罕",
+            "撼",
+            "焊",
+            "悍",
+            "喊",
+            "函",
+            "邯",
+            "翰",
+            "瀚",
+            "晗",
+            "阚",
+            "歛",
+            "憾",
+            "憨",
+            "厂",
+            "酣"
+        ]
+    },
+    "hang": {
+        "similar_pronunciations": [
+            "fang",
+            "han"
+        ],
+        "same_pronunciation_chars": [
+            "航",
+            "夯",
+            "杭",
+            "沆",
+            "行",
+            "吭",
+            "巷"
+        ]
+    },
+    "hao": {
+        "similar_pronunciations": [
+            "mao",
+            "gao",
+            "kao"
+        ],
+        "same_pronunciation_chars": [
+            "毫",
+            "豪",
+            "皓",
+            "蒿",
+            "好",
+            "号",
+            "嚎",
+            "浩",
+            "昊",
+            "颢",
+            "郝",
+            "灏",
+            "耗",
+            "壕",
+            "濠",
+            "皋",
+            "貉",
+            "镐"
+        ]
+    },
+    "he": {
+        "similar_pronunciations": [
+            "ke",
+            "ge",
+            "ce"
+        ],
+        "same_pronunciation_chars": [
+            "和",
+            "合",
+            "何",
+            "贺",
+            "河",
+            "盒",
+            "涸",
+            "核",
+            "喝",
+            "壑",
+            "荷",
+            "赫",
+            "颌",
+            "禾",
+            "菏",
+            "褐",
+            "呵",
+            "阖",
+            "鹤",
+            "嗬",
+            "蚵",
+            "盖",
+            "吓",
+            "阂",
+            "貉",
+            "苛"
+        ]
+    },
+    "hei": {
+        "similar_pronunciations": [
+            "fei"
+        ],
+        "same_pronunciation_chars": [
+            "黑",
+            "嘿"
+        ]
+    },
+    "hen": {
+        "similar_pronunciations": [
+            "gen",
+            "heng",
+            "chen",
+            "fen"
+        ],
+        "same_pronunciation_chars": [
+            "很",
+            "恨",
+            "狠",
+            "痕",
+            "佷"
+        ]
+    },
+    "heng": {
+        "similar_pronunciations": [
+            "hen",
+            "feng"
+        ],
+        "same_pronunciation_chars": [
+            "恒",
+            "横",
+            "亨",
+            "哼",
+            "衡",
+            "桁",
+            "行"
+        ]
+    },
+    "hong": {
+        "similar_pronunciations": [
+            "gong"
+        ],
+        "same_pronunciation_chars": [
+            "虹",
+            "红",
+            "鸿",
+            "轰",
+            "宏",
+            "洪",
+            "弘",
+            "泓",
+            "哄",
+            "闳",
+            "纮",
+            "讧",
+            "烘"
+        ]
+    },
+    "hou": {
+        "similar_pronunciations": [
+            "fou"
+        ],
+        "same_pronunciation_chars": [
+            "逅",
+            "候",
+            "后",
+            "厚",
+            "猴",
+            "喉",
+            "侯",
+            "吼"
+        ]
+    },
+    "hu": {
+        "similar_pronunciations": [
+            "fu",
+            "lu",
+            "mu"
+        ],
+        "same_pronunciation_chars": [
+            "呼",
+            "湖",
+            "胡",
+            "忽",
+            "乎",
+            "户",
+            "护",
+            "扈",
+            "沪",
+            "弧",
+            "互",
+            "壶",
+            "糊",
+            "瑚",
+            "虎",
+            "狐",
+            "唬",
+            "戽",
+            "蝴",
+            "葫",
+            "核",
+            "和",
+            "戏",
+            "许"
+        ]
+    },
+    "hua": {
+        "similar_pronunciations": [
+            "fa"
+        ],
+        "same_pronunciation_chars": [
+            "话",
+            "滑",
+            "画",
+            "华",
+            "化",
+            "划",
+            "花",
+            "哗",
+            "桦",
+            "猾",
+            "豁"
+        ]
+    },
+    "huai": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "坏",
+            "怀",
+            "淮",
+            "徊",
+            "踝",
+            "槐"
+        ]
+    },
+    "huan": {
+        "similar_pronunciations": [
+            "guan",
+            "huang",
+            "nuan"
+        ],
+        "same_pronunciation_chars": [
+            "洹",
+            "环",
+            "缓",
+            "欢",
+            "患",
+            "换",
+            "圜",
+            "唤",
+            "宦",
+            "寰",
+            "涣",
+            "浣",
+            "焕",
+            "锾",
+            "幻",
+            "豢",
+            "嬛",
+            "缳",
+            "鬟",
+            "桓",
+            "奂",
+            "痪",
+            "还"
+        ]
+    },
+    "huang": {
+        "similar_pronunciations": [
+            "huan"
+        ],
+        "same_pronunciation_chars": [
+            "黄",
+            "隍",
+            "湟",
+            "皇",
+            "荒",
+            "谎",
+            "璜",
+            "惶",
+            "煌",
+            "潢",
+            "簧",
+            "恍",
+            "慌",
+            "怳",
+            "磺",
+            "徨",
+            "凰",
+            "蝗",
+            "幌",
+            "晃",
+            "遑"
+        ]
+    },
+    "hui": {
+        "similar_pronunciations": [
+            "wei",
+            "sui",
+            "fei",
+            "gui"
+        ],
+        "same_pronunciation_chars": [
+            "汇",
+            "回",
+            "晖",
+            "彗",
+            "会",
+            "惠",
+            "茴",
+            "讳",
+            "恛",
+            "恢",
+            "诙",
+            "蛔",
+            "慧",
+            "挥",
+            "辉",
+            "徽",
+            "灰",
+            "悔",
+            "麾",
+            "毁",
+            "秽",
+            "卉",
+            "蕙",
+            "绘",
+            "晦",
+            "诲",
+            "荟",
+            "佪",
+            "贿",
+            "烩",
+            "喙",
+            "堕",
+            "溃"
+        ]
+    },
+    "hun": {
+        "similar_pronunciations": [
+            "kun"
+        ],
+        "same_pronunciation_chars": [
+            "荤",
+            "婚",
+            "浑",
+            "昏",
+            "混",
+            "棍",
+            "魂"
+        ]
+    },
+    "huo": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "获",
+            "惑",
+            "或",
+            "活",
+            "货",
+            "祸",
+            "藿",
+            "伙",
+            "霍",
+            "火",
+            "豁",
+            "夥",
+            "和"
+        ]
+    },
+    "ji": {
+        "similar_pronunciations": [
+            "qi",
+            "yi",
+            "li",
+            "xi",
+            "di",
+            "mi",
+            "ni",
+            "pi",
+            "zi"
+        ],
+        "same_pronunciation_chars": [
+            "基",
+            "技",
+            "伎",
+            "及",
+            "计",
+            "记",
+            "己",
+            "鸡",
+            "佶",
+            "集",
+            "几",
+            "戟",
+            "诘",
+            "级",
+            "济",
+            "疾",
+            "季",
+            "羁",
+            "骥",
+            "辑",
+            "急",
+            "吉",
+            "即",
+            "既",
+            "籍",
+            "稽",
+            "纪",
+            "霁",
+            "积",
+            "激",
+            "暨",
+            "蓟",
+            "缉",
+            "冀",
+            "击",
+            "脊",
+            "藉",
+            "绩",
+            "机",
+            "寄",
+            "挤",
+            "继",
+            "迹",
+            "蹟",
+            "祭",
+            "叽",
+            "际",
+            "妓",
+            "姬",
+            "极",
+            "忌",
+            "荠",
+            "汲",
+            "畿",
+            "唧",
+            "矶",
+            "饥",
+            "羇",
+            "棘",
+            "岌",
+            "跻",
+            "寂",
+            "圾",
+            "肌",
+            "讥",
+            "剂",
+            "觊",
+            "玑",
+            "亟",
+            "笈",
+            "麂",
+            "鲫",
+            "瘠",
+            "畸",
+            "嫉",
+            "偈",
+            "革",
+            "给",
+            "箕",
+            "悸",
+            "家",
+            "价",
+            "期",
+            "其",
+            "奇",
+            "齐",
+            "系"
+        ]
+    },
+    "jia": {
+        "similar_pronunciations": [
+            "xia"
+        ],
+        "same_pronunciation_chars": [
+            "夹",
+            "贾",
+            "假",
+            "家",
+            "价",
+            "加",
+            "颊",
+            "迦",
+            "驾",
+            "嘉",
+            "架",
+            "嫁",
+            "佳",
+            "葭",
+            "荚",
+            "甲",
+            "浃",
+            "茄",
+            "枷",
+            "钾",
+            "痂",
+            "稼",
+            "胛",
+            "徦",
+            "戛",
+            "珈",
+            "镓",
+            "挟"
+        ]
+    },
+    "jian": {
+        "similar_pronunciations": [
+            "qian",
+            "dian",
+            "xian",
+            "lian",
+            "jiang"
+        ],
+        "same_pronunciation_chars": [
+            "间",
+            "检",
+            "柬",
+            "俭",
+            "健",
+            "监",
+            "建",
+            "件",
+            "荐",
+            "见",
+            "舰",
+            "减",
+            "简",
+            "践",
+            "坚",
+            "艰",
+            "肩",
+            "饯",
+            "睑",
+            "溅",
+            "涧",
+            "茧",
+            "菅",
+            "尖",
+            "鉴",
+            "捡",
+            "剑",
+            "煎",
+            "蹇",
+            "锏",
+            "兼",
+            "犍",
+            "渐",
+            "键",
+            "拣",
+            "囝",
+            "笺",
+            "贱",
+            "鑑",
+            "剪",
+            "湔",
+            "箭",
+            "硷",
+            "毽",
+            "谏",
+            "奸",
+            "腱",
+            "碱",
+            "歼",
+            "缄",
+            "槛",
+            "浅",
+            "堑"
+        ]
+    },
+    "jiang": {
+        "similar_pronunciations": [
+            "jian",
+            "qiang"
+        ],
+        "same_pronunciation_chars": [
+            "疆",
+            "将",
+            "江",
+            "姜",
+            "蒋",
+            "酱",
+            "降",
+            "讲",
+            "奖",
+            "僵",
+            "殭",
+            "缰",
+            "浆",
+            "豇",
+            "匠",
+            "港",
+            "强",
+            "桨"
+        ]
+    },
+    "jiao": {
+        "similar_pronunciations": [
+            "qiao",
+            "xiao"
+        ],
+        "same_pronunciation_chars": [
+            "脚",
+            "轿",
+            "交",
+            "较",
+            "皎",
+            "教",
+            "角",
+            "佼",
+            "骄",
+            "娇",
+            "侥",
+            "郊",
+            "叫",
+            "鲛",
+            "姣",
+            "缴",
+            "矫",
+            "绞",
+            "椒",
+            "浇",
+            "铰",
+            "窖",
+            "饺",
+            "焦",
+            "剿",
+            "胶",
+            "礁",
+            "狡",
+            "蕉",
+            "酵",
+            "搅",
+            "茭",
+            "蛟",
+            "觉",
+            "校",
+            "嚼"
+        ]
+    },
+    "jie": {
+        "similar_pronunciations": [
+            "xie",
+            "nie",
+            "qie",
+            "jue"
+        ],
+        "same_pronunciation_chars": [
+            "接",
+            "街",
+            "截",
+            "界",
+            "解",
+            "捷",
+            "借",
+            "节",
+            "杰",
+            "皆",
+            "洁",
+            "届",
+            "介",
+            "竭",
+            "揭",
+            "结",
+            "劫",
+            "戒",
+            "姐",
+            "阶",
+            "诫",
+            "拮",
+            "婕",
+            "颉",
+            "睫",
+            "孑",
+            "檞",
+            "碣",
+            "秸",
+            "讦",
+            "价",
+            "桔",
+            "藉",
+            "芥",
+            "疥",
+            "楷",
+            "她"
+        ]
+    },
+    "jin": {
+        "similar_pronunciations": [
+            "jing",
+            "xin",
+            "yin",
+            "lin"
+        ],
+        "same_pronunciation_chars": [
+            "浸",
+            "仅",
+            "儘",
+            "锦",
+            "近",
+            "禁",
+            "金",
+            "巾",
+            "进",
+            "堇",
+            "今",
+            "紧",
+            "晋",
+            "尽",
+            "谨",
+            "觐",
+            "烬",
+            "劲",
+            "缙",
+            "津",
+            "斤",
+            "瑾",
+            "襟",
+            "靳",
+            "矜",
+            "筋",
+            "馑",
+            "槿"
+        ]
+    },
+    "jing": {
+        "similar_pronunciations": [
+            "jin",
+            "ying",
+            "qing",
+            "bing",
+            "ling",
+            "ting",
+            "ding"
+        ],
+        "same_pronunciation_chars": [
+            "景",
+            "警",
+            "晶",
+            "境",
+            "净",
+            "竟",
+            "靖",
+            "静",
+            "经",
+            "京",
+            "婧",
+            "竞",
+            "鲸",
+            "惊",
+            "粳",
+            "精",
+            "睛",
+            "茎",
+            "镜",
+            "憬",
+            "井",
+            "泾",
+            "敬",
+            "菁",
+            "径",
+            "颈",
+            "兢",
+            "腈",
+            "淨",
+            "荆",
+            "旌",
+            "胫",
+            "靓",
+            "迳",
+            "阱",
+            "璟",
+            "劲",
+            "痉"
+        ]
+    },
+    "jiong": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "炅",
+            "炯",
+            "窘",
+            "迥"
+        ]
+    },
+    "jiu": {
+        "similar_pronunciations": [
+            "liu",
+            "qiu"
+        ],
+        "same_pronunciation_chars": [
+            "酒",
+            "九",
+            "旧",
+            "就",
+            "救",
+            "究",
+            "舅",
+            "久",
+            "赳",
+            "纠",
+            "臼",
+            "玖",
+            "咎",
+            "揪",
+            "疚",
+            "灸",
+            "柩",
+            "鹫",
+            "厩",
+            "啾",
+            "鸠",
+            "韭"
+        ]
+    },
+    "ju": {
+        "similar_pronunciations": [
+            "qu",
+            "yu",
+            "lv"
+        ],
+        "same_pronunciation_chars": [
+            "居",
+            "莒",
+            "据",
+            "具",
+            "苣",
+            "钜",
+            "距",
+            "惧",
+            "巨",
+            "举",
+            "俱",
+            "炬",
+            "拒",
+            "狙",
+            "句",
+            "橘",
+            "锯",
+            "聚",
+            "剧",
+            "局",
+            "遽",
+            "苴",
+            "飓",
+            "沮",
+            "拘",
+            "咀",
+            "踞",
+            "菊",
+            "疽",
+            "龃",
+            "驹",
+            "侷",
+            "矩",
+            "鞠",
+            "车",
+            "柜",
+            "桔",
+            "且",
+            "渠"
+        ]
+    },
+    "juan": {
+        "similar_pronunciations": [
+            "quan"
+        ],
+        "same_pronunciation_chars": [
+            "涓",
+            "隽",
+            "绢",
+            "捐",
+            "鄄",
+            "卷",
+            "娟",
+            "劵",
+            "倦",
+            "捲",
+            "眷",
+            "鹃",
+            "圈"
+        ]
+    },
+    "jue": {
+        "similar_pronunciations": [
+            "xue",
+            "que",
+            "jie"
+        ],
+        "same_pronunciation_chars": [
+            "绝",
+            "决",
+            "觉",
+            "嚼",
+            "蕨",
+            "诀",
+            "掘",
+            "蹶",
+            "獗",
+            "爵",
+            "攫",
+            "崛",
+            "倔",
+            "噘",
+            "抉",
+            "谲",
+            "脚",
+            "角",
+            "撅"
+        ]
+    },
+    "jun": {
+        "similar_pronunciations": [
+            "yun"
+        ],
+        "same_pronunciation_chars": [
+            "君",
+            "军",
+            "均",
+            "峻",
+            "郡",
+            "俊",
+            "菌",
+            "钧",
+            "竣",
+            "浚",
+            "骏",
+            "珺",
+            "晙",
+            "龟"
+        ]
+    },
+    "ka": {
+        "similar_pronunciations": [
+            "ca",
+            "ga"
+        ],
+        "same_pronunciation_chars": [
+            "喀",
+            "咖",
+            "卡",
+            "咯"
+        ]
+    },
+    "kai": {
+        "similar_pronunciations": [
+            "gai"
+        ],
+        "same_pronunciation_chars": [
+            "楷",
+            "开",
+            "凯",
+            "铠",
+            "揩",
+            "锴",
+            "慨",
+            "恺",
+            "岂"
+        ]
+    },
+    "kan": {
+        "similar_pronunciations": [
+            "zan",
+            "kang",
+            "gan"
+        ],
+        "same_pronunciation_chars": [
+            "看",
+            "勘",
+            "堪",
+            "坎",
+            "砍",
+            "刊",
+            "侃",
+            "瞰",
+            "龛",
+            "磡",
+            "戡",
+            "槛",
+            "嵌"
+        ]
+    },
+    "kang": {
+        "similar_pronunciations": [
+            "kan",
+            "gang",
+            "hang"
+        ],
+        "same_pronunciation_chars": [
+            "康",
+            "慷",
+            "抗",
+            "糠",
+            "炕",
+            "伉",
+            "扛",
+            "钪",
+            "亢"
+        ]
+    },
+    "kao": {
+        "similar_pronunciations": [
+            "lao",
+            "gao"
+        ],
+        "same_pronunciation_chars": [
+            "靠",
+            "考",
+            "拷",
+            "烤",
+            "尻",
+            "铐",
+            "犒"
+        ]
+    },
+    "ke": {
+        "similar_pronunciations": [
+            "ge",
+            "he"
+        ],
+        "same_pronunciation_chars": [
+            "客",
+            "科",
+            "课",
+            "克",
+            "刻",
+            "可",
+            "渴",
+            "柯",
+            "恪",
+            "珂",
+            "颗",
+            "咳",
+            "棵",
+            "壳",
+            "轲",
+            "瞌",
+            "疴",
+            "嗑",
+            "剋",
+            "苛",
+            "磕",
+            "窠",
+            "缂",
+            "髁",
+            "呵",
+            "坷"
+        ]
+    },
+    "ken": {
+        "similar_pronunciations": [
+            "keng",
+            "gen"
+        ],
+        "same_pronunciation_chars": [
+            "垦",
+            "恳",
+            "肯",
+            "龈",
+            "啃"
+        ]
+    },
+    "keng": {
+        "similar_pronunciations": [
+            "ken",
+            "geng"
+        ],
+        "same_pronunciation_chars": [
+            "坑",
+            "吭"
+        ]
+    },
+    "kong": {
+        "similar_pronunciations": [
+            "gong",
+            "tong"
+        ],
+        "same_pronunciation_chars": [
+            "錓",
+            "控",
+            "空",
+            "孔",
+            "恐",
+            "崆",
+            "悾"
+        ]
+    },
+    "kou": {
+        "similar_pronunciations": [
+            "gou"
+        ],
+        "same_pronunciation_chars": [
+            "扣",
+            "蔻",
+            "寇",
+            "口",
+            "叩",
+            "抠"
+        ]
+    },
+    "ku": {
+        "similar_pronunciations": [
+            "tu",
+            "gu",
+            "cu"
+        ],
+        "same_pronunciation_chars": [
+            "库",
+            "裤",
+            "苦",
+            "窟",
+            "酷",
+            "枯",
+            "堀",
+            "哭",
+            "骷",
+            "挎"
+        ]
+    },
+    "kua": {
+        "similar_pronunciations": [
+            "cha",
+            "gua"
+        ],
+        "same_pronunciation_chars": [
+            "垮",
+            "跨",
+            "夸",
+            "胯",
+            "挎"
+        ]
+    },
+    "kuai": {
+        "similar_pronunciations": [
+            "guai"
+        ],
+        "same_pronunciation_chars": [
+            "块",
+            "快",
+            "鱠",
+            "蒯",
+            "脍",
+            "鲙",
+            "会",
+            "筷",
+            "侩"
+        ]
+    },
+    "kuan": {
+        "similar_pronunciations": [
+            "ruan",
+            "kuang",
+            "huan",
+            "guan"
+        ],
+        "same_pronunciation_chars": [
+            "款",
+            "宽"
+        ]
+    },
+    "kuang": {
+        "similar_pronunciations": [
+            "huang",
+            "guang",
+            "zhuang",
+            "kuan"
+        ],
+        "same_pronunciation_chars": [
+            "矿",
+            "狂",
+            "况",
+            "筐",
+            "邝",
+            "框",
+            "匡",
+            "眶",
+            "旷"
+        ]
+    },
+    "kui": {
+        "similar_pronunciations": [
+            "gui",
+            "hui"
+        ],
+        "same_pronunciation_chars": [
+            "葵",
+            "奎",
+            "夔",
+            "隗",
+            "篑",
+            "蒉",
+            "溃",
+            "亏",
+            "匮",
+            "喹",
+            "暌",
+            "睽",
+            "馈",
+            "岿",
+            "逵",
+            "魁",
+            "馗",
+            "窥",
+            "揆",
+            "盔",
+            "愧",
+            "傀"
+        ]
+    },
+    "kun": {
+        "similar_pronunciations": [
+            "gun"
+        ],
+        "same_pronunciation_chars": [
+            "昆",
+            "困",
+            "捆",
+            "坤",
+            "醌",
+            "菎",
+            "锟",
+            "琨",
+            "鲲"
+        ]
+    },
+    "kuo": {
+        "similar_pronunciations": [
+            "guo"
+        ],
+        "same_pronunciation_chars": [
+            "扩",
+            "阔",
+            "括",
+            "廓"
+        ]
+    },
+    "la": {
+        "similar_pronunciations": [
+            "zha",
+            "na",
+            "za"
+        ],
+        "same_pronunciation_chars": [
+            "拉",
+            "剌",
+            "腊",
+            "垃",
+            "辣",
+            "啦",
+            "蜡",
+            "喇",
+            "砬",
+            "旯",
+            "落"
+        ]
+    },
+    "lai": {
+        "similar_pronunciations": [
+            "kai",
+            "mai",
+            "cai",
+            "nai"
+        ],
+        "same_pronunciation_chars": [
+            "睐",
+            "莱",
+            "来",
+            "赖",
+            "赉",
+            "濑",
+            "涞",
+            "崃",
+            "铼"
+        ]
+    },
+    "lan": {
+        "similar_pronunciations": [
+            "lang",
+            "gan",
+            "nan",
+            "ran"
+        ],
+        "same_pronunciation_chars": [
+            "蓝",
+            "兰",
+            "澜",
+            "览",
+            "灠",
+            "篮",
+            "栏",
+            "懒",
+            "斓",
+            "烂",
+            "滥",
+            "阑",
+            "拦",
+            "揽",
+            "缆",
+            "嬾",
+            "婪",
+            "岚",
+            "谰"
+        ]
+    },
+    "lang": {
+        "similar_pronunciations": [
+            "rang",
+            "lan",
+            "nang"
+        ],
+        "same_pronunciation_chars": [
+            "郎",
+            "浪",
+            "朗",
+            "廊",
+            "琅",
+            "瑯",
+            "狼",
+            "螂",
+            "蒗",
+            "榔"
+        ]
+    },
+    "lao": {
+        "similar_pronunciations": [
+            "nao",
+            "rao"
+        ],
+        "same_pronunciation_chars": [
+            "牢",
+            "烙",
+            "劳",
+            "咾",
+            "老",
+            "涝",
+            "酪",
+            "潦",
+            "捞",
+            "唠",
+            "痨",
+            "佬",
+            "姥",
+            "崂",
+            "落",
+            "乐",
+            "络"
+        ]
+    },
+    "le": {
+        "similar_pronunciations": [
+            "de",
+            "ne",
+            "re"
+        ],
+        "same_pronunciation_chars": [
+            "了",
+            "肋",
+            "乐",
+            "叻",
+            "竻",
+            "勒"
+        ]
+    },
+    "lei": {
+        "similar_pronunciations": [
+            "wei",
+            "mei",
+            "nei"
+        ],
+        "same_pronunciation_chars": [
+            "雷",
+            "擂",
+            "勒",
+            "类",
+            "泪",
+            "耒",
+            "累",
+            "磊",
+            "儡",
+            "蕾",
+            "嘞",
+            "垒",
+            "镭",
+            "羸",
+            "樏",
+            "肋"
+        ]
+    },
+    "leng": {
+        "similar_pronunciations": [
+            "neng",
+            "reng"
+        ],
+        "same_pronunciation_chars": [
+            "冷",
+            "愣",
+            "棱",
+            "楞"
+        ]
+    },
+    "li": {
+        "similar_pronunciations": [
+            "yi",
+            "ji",
+            "bi",
+            "ni",
+            "ri",
+            "nin"
+        ],
+        "same_pronunciation_chars": [
+            "厉",
+            "力",
+            "离",
+            "俪",
+            "栗",
+            "立",
+            "丽",
+            "理",
+            "哩",
+            "骊",
+            "里",
+            "吏",
+            "厘",
+            "历",
+            "例",
+            "利",
+            "李",
+            "裡",
+            "礼",
+            "罹",
+            "黎",
+            "莉",
+            "俚",
+            "沥",
+            "励",
+            "溧",
+            "篱",
+            "曆",
+            "璃",
+            "隶",
+            "雳",
+            "蛎",
+            "锂",
+            "藜",
+            "痢",
+            "漓",
+            "戾",
+            "狸",
+            "傈",
+            "蓠",
+            "砾",
+            "粒",
+            "蜊",
+            "醴",
+            "鲤",
+            "荔",
+            "缡",
+            "笠",
+            "枥",
+            "梨",
+            "砺",
+            "栎",
+            "浬",
+            "澧",
+            "莅",
+            "褵",
+            "鳢",
+            "俐",
+            "犁"
+        ]
+    },
+    "lia": {
+        "similar_pronunciations": [
+            "lian"
+        ],
+        "same_pronunciation_chars": [
+            "俩"
+        ]
+    },
+    "lian": {
+        "similar_pronunciations": [
+            "jian",
+            "liang",
+            "nian"
+        ],
+        "same_pronunciation_chars": [
+            "廉",
+            "练",
+            "炼",
+            "链",
+            "联",
+            "连",
+            "莲",
+            "恋",
+            "鍊",
+            "脸",
+            "楝",
+            "帘",
+            "怜",
+            "敛",
+            "涟",
+            "镰"
+        ]
+    },
+    "liang": {
+        "similar_pronunciations": [
+            "xiang",
+            "lian",
+            "niang"
+        ],
+        "same_pronunciation_chars": [
+            "良",
+            "辆",
+            "量",
+            "悢",
+            "凉",
+            "湸",
+            "亮",
+            "粮",
+            "两",
+            "梁",
+            "粱",
+            "谅",
+            "魉",
+            "樑",
+            "晾",
+            "俩"
+        ]
+    },
+    "liao": {
+        "similar_pronunciations": [
+            "piao",
+            "niao"
+        ],
+        "same_pronunciation_chars": [
+            "料",
+            "疗",
+            "寥",
+            "僚",
+            "暸",
+            "聊",
+            "廖",
+            "撂",
+            "辽",
+            "寮",
+            "缭",
+            "撩",
+            "瞭",
+            "钌",
+            "蓼",
+            "了",
+            "燎",
+            "潦",
+            "镣"
+        ]
+    },
+    "lie": {
+        "similar_pronunciations": [
+            "jie",
+            "nie"
+        ],
+        "same_pronunciation_chars": [
+            "猎",
+            "烈",
+            "咧",
+            "捩",
+            "列",
+            "裂",
+            "劣",
+            "冽",
+            "鬣"
+        ]
+    },
+    "lin": {
+        "similar_pronunciations": [
+            "min",
+            "ling",
+            "nin"
+        ],
+        "same_pronunciation_chars": [
+            "遴",
+            "临",
+            "邻",
+            "林",
+            "琳",
+            "啉",
+            "赁",
+            "淋",
+            "蔺",
+            "麟",
+            "霖",
+            "躏",
+            "膦",
+            "拎",
+            "磷",
+            "璘",
+            "凛",
+            "鳞",
+            "吝"
+        ]
+    },
+    "ling": {
+        "similar_pronunciations": [
+            "lin",
+            "ding",
+            "ning"
+        ],
+        "same_pronunciation_chars": [
+            "另",
+            "令",
+            "菱",
+            "龄",
+            "零",
+            "羚",
+            "岭",
+            "领",
+            "囹",
+            "灵",
+            "玲",
+            "凌",
+            "铃",
+            "聆",
+            "陵",
+            "呤",
+            "伶",
+            "绫",
+            "鲮",
+            "苓",
+            "棱"
+        ]
+    },
+    "liu": {
+        "similar_pronunciations": [
+            "niu",
+            "diu",
+            "jiu"
+        ],
+        "same_pronunciation_chars": [
+            "六",
+            "流",
+            "留",
+            "遛",
+            "瘤",
+            "溜",
+            "刘",
+            "柳",
+            "馏",
+            "琉",
+            "浏",
+            "熘",
+            "榴",
+            "硫",
+            "骝",
+            "碌",
+            "陆"
+        ]
+    },
+    "long": {
+        "similar_pronunciations": [
+            "chong",
+            "rong",
+            "tong",
+            "nong"
+        ],
+        "same_pronunciation_chars": [
+            "陇",
+            "垄",
+            "隆",
+            "笼",
+            "龙",
+            "泷",
+            "拢",
+            "咙",
+            "聋",
+            "垅",
+            "珑",
+            "胧",
+            "砻",
+            "眬",
+            "窿",
+            "弄"
+        ]
+    },
+    "lou": {
+        "similar_pronunciations": [
+            "rou"
+        ],
+        "same_pronunciation_chars": [
+            "陋",
+            "楼",
+            "喽",
+            "漏",
+            "搂",
+            "娄",
+            "镂",
+            "露",
+            "篓"
+        ]
+    },
+    "lu": {
+        "similar_pronunciations": [
+            "ru",
+            "hu",
+            "ku",
+            "nu",
+            "lv"
+        ],
+        "same_pronunciation_chars": [
+            "鲁",
+            "塶",
+            "颅",
+            "路",
+            "卢",
+            "陆",
+            "录",
+            "噜",
+            "炉",
+            "露",
+            "謢",
+            "碌",
+            "鹿",
+            "璐",
+            "玈",
+            "芦",
+            "胪",
+            "泸",
+            "卤",
+            "禄",
+            "撸",
+            "潞",
+            "赂",
+            "虏",
+            "麓",
+            "庐",
+            "鲈",
+            "甪",
+            "鹭",
+            "戮",
+            "六",
+            "掳",
+            "绿"
+        ]
+    },
+    "luan": {
+        "similar_pronunciations": [
+            "nuan",
+            "ruan"
+        ],
+        "same_pronunciation_chars": [
+            "孪",
+            "乱",
+            "栾",
+            "峦",
+            "卵",
+            "挛",
+            "滦"
+        ]
+    },
+    "lun": {
+        "similar_pronunciations": [
+            "run"
+        ],
+        "same_pronunciation_chars": [
+            "伦",
+            "轮",
+            "论",
+            "抡",
+            "沦",
+            "仑",
+            "纶"
+        ]
+    },
+    "luo": {
+        "similar_pronunciations": [
+            "ruo",
+            "cuo",
+            "nuo"
+        ],
+        "same_pronunciation_chars": [
+            "洛",
+            "落",
+            "络",
+            "罗",
+            "逻",
+            "泺",
+            "囉",
+            "萝",
+            "箩",
+            "骆",
+            "裸",
+            "锣",
+            "螺",
+            "漯",
+            "镙",
+            "咯",
+            "骡",
+            "酪",
+            "烙"
+        ]
+    },
+    "lv": {
+        "similar_pronunciations": [
+            "nv",
+            "lu"
+        ],
+        "same_pronunciation_chars": [
+            "闾",
+            "侣",
+            "绿",
+            "率",
+            "虑",
+            "旅",
+            "吕",
+            "律",
+            "滤",
+            "履",
+            "氯",
+            "屡",
+            "驴",
+            "榈",
+            "铝",
+            "梠",
+            "缕"
+        ]
+    },
+    "lve": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "略",
+            "掠"
+        ]
+    },
+    "ma": {
+        "similar_pronunciations": [
+            "ta"
+        ],
+        "same_pronunciation_chars": [
+            "马",
+            "玛",
+            "吗",
+            "妈",
+            "麻",
+            "骂",
+            "码",
+            "蟆",
+            "嬷",
+            "嘛",
+            "唛",
+            "痲",
+            "蚂",
+            "么",
+            "抹",
+            "摩"
+        ]
+    },
+    "mai": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "麦",
+            "买",
+            "迈",
+            "脉",
+            "卖",
+            "荬",
+            "霾",
+            "埋"
+        ]
+    },
+    "man": {
+        "similar_pronunciations": [
+            "mang",
+            "tan"
+        ],
+        "same_pronunciation_chars": [
+            "曼",
+            "蔓",
+            "慢",
+            "漫",
+            "满",
+            "蛮",
+            "瞒",
+            "嫚",
+            "馒",
+            "谩",
+            "螨",
+            "埋"
+        ]
+    },
+    "mang": {
+        "similar_pronunciations": [
+            "man"
+        ],
+        "same_pronunciation_chars": [
+            "盲",
+            "忙",
+            "芒",
+            "茫",
+            "莽",
+            "氓",
+            "漭"
+        ]
+    },
+    "mao": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "冒",
+            "帽",
+            "锚",
+            "贸",
+            "矛",
+            "毛",
+            "茂",
+            "牦",
+            "貌",
+            "猫",
+            "卯",
+            "茅",
+            "袤",
+            "瑁",
+            "懋",
+            "髦",
+            "铆"
+        ]
+    },
+    "me": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "么",
+            "嚜"
+        ]
+    },
+    "mei": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "美",
+            "玫",
+            "妹",
+            "每",
+            "煤",
+            "媒",
+            "枚",
+            "没",
+            "酶",
+            "梅",
+            "眉",
+            "昧",
+            "霉",
+            "湄",
+            "镅",
+            "魅",
+            "楣",
+            "莓",
+            "穈",
+            "寐",
+            "媚",
+            "嵋",
+            "镁",
+            "糜",
+            "谜"
+        ]
+    },
+    "men": {
+        "similar_pronunciations": [
+            "nen",
+            "wen",
+            "meng",
+            "me",
+            "ren"
+        ],
+        "same_pronunciation_chars": [
+            "们",
+            "闷",
+            "门",
+            "焖",
+            "懑",
+            "瞒"
+        ]
+    },
+    "meng": {
+        "similar_pronunciations": [
+            "men"
+        ],
+        "same_pronunciation_chars": [
+            "孟",
+            "蒙",
+            "懵",
+            "朦",
+            "勐",
+            "盟",
+            "锰",
+            "萌",
+            "梦",
+            "猛",
+            "檬",
+            "蜢",
+            "矇",
+            "艋",
+            "氓"
+        ]
+    },
+    "mi": {
+        "similar_pronunciations": [
+            "bi",
+            "pi"
+        ],
+        "same_pronunciation_chars": [
+            "秘",
+            "蜜",
+            "汨",
+            "敉",
+            "靡",
+            "密",
+            "迷",
+            "米",
+            "咪",
+            "泌",
+            "弭",
+            "瀰",
+            "谜",
+            "祕",
+            "觅",
+            "眯",
+            "糸",
+            "祢",
+            "宓",
+            "弥",
+            "猕",
+            "樒",
+            "醚",
+            "糜",
+            "幂"
+        ]
+    },
+    "mian": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "冕",
+            "面",
+            "免",
+            "勉",
+            "棉",
+            "缅",
+            "麵",
+            "眠",
+            "娩",
+            "绵",
+            "渑"
+        ]
+    },
+    "miao": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "庙",
+            "苗",
+            "描",
+            "瞄",
+            "秒",
+            "妙",
+            "藐",
+            "缈",
+            "渺",
+            "眇",
+            "喵",
+            "淼"
+        ]
+    },
+    "mie": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "蔑",
+            "灭"
+        ]
+    },
+    "min": {
+        "similar_pronunciations": [
+            "ming"
+        ],
+        "same_pronunciation_chars": [
+            "皿",
+            "敏",
+            "民",
+            "珉",
+            "闵",
+            "岷",
+            "旻",
+            "悯",
+            "泯",
+            "抿",
+            "闽"
+        ]
+    },
+    "ming": {
+        "similar_pronunciations": [
+            "min"
+        ],
+        "same_pronunciation_chars": [
+            "明",
+            "名",
+            "冥",
+            "铭",
+            "茗",
+            "螟",
+            "鸣",
+            "命",
+            "溟"
+        ]
+    },
+    "miu": {
+        "similar_pronunciations": [
+            "miao"
+        ],
+        "same_pronunciation_chars": [
+            "谬"
+        ]
+    },
+    "mo": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "末",
+            "麽",
+            "莫",
+            "摩",
+            "谟",
+            "膜",
+            "漠",
+            "磨",
+            "寞",
+            "模",
+            "墨",
+            "蓦",
+            "默",
+            "魔",
+            "摹",
+            "抹",
+            "蘑",
+            "茉",
+            "陌",
+            "摸",
+            "沫",
+            "殁",
+            "馍",
+            "枺",
+            "貉",
+            "没",
+            "嘿",
+            "脉",
+            "冒",
+            "么",
+            "万",
+            "无"
+        ]
+    },
+    "mou": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "谋",
+            "某",
+            "牟"
+        ]
+    },
+    "mu": {
+        "similar_pronunciations": [
+            "fu",
+            "gu",
+            "shu"
+        ],
+        "same_pronunciation_chars": [
+            "墓",
+            "苜",
+            "穆",
+            "牧",
+            "目",
+            "暮",
+            "亩",
+            "姆",
+            "木",
+            "母",
+            "慕",
+            "幕",
+            "募",
+            "拇",
+            "沐",
+            "睦",
+            "姥",
+            "模",
+            "牡",
+            "莫",
+            "牟"
+        ]
+    },
+    "n": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "嗯"
+        ]
+    },
+    "na": {
+        "similar_pronunciations": [
+            "la"
+        ],
+        "same_pronunciation_chars": [
+            "纳",
+            "那",
+            "呐",
+            "哪",
+            "拿",
+            "娜",
+            "钠",
+            "捺",
+            "南",
+            "内"
+        ]
+    },
+    "nai": {
+        "similar_pronunciations": [
+            "lai"
+        ],
+        "same_pronunciation_chars": [
+            "萘",
+            "耐",
+            "鼐",
+            "乃",
+            "奈",
+            "奶",
+            "氖",
+            "能"
+        ]
+    },
+    "nan": {
+        "similar_pronunciations": [
+            "ran"
+        ],
+        "same_pronunciation_chars": [
+            "男",
+            "南",
+            "难",
+            "楠",
+            "喃",
+            "囡",
+            "萳",
+            "腩"
+        ]
+    },
+    "nang": {
+        "similar_pronunciations": [
+            "chang",
+            "nan"
+        ],
+        "same_pronunciation_chars": [
+            "囊",
+            "曩"
+        ]
+    },
+    "nao": {
+        "similar_pronunciations": [
+            "rao",
+            "cao",
+            "jiao",
+            "yao",
+            "lao"
+        ],
+        "same_pronunciation_chars": [
+            "脑",
+            "恼",
+            "淖",
+            "闹",
+            "挠"
+        ]
+    },
+    "ne": {
+        "similar_pronunciations": [
+            "le"
+        ],
+        "same_pronunciation_chars": [
+            "呢",
+            "哪",
+            "呐",
+            "那"
+        ]
+    },
+    "nei": {
+        "similar_pronunciations": [
+            "lei"
+        ],
+        "same_pronunciation_chars": [
+            "内",
+            "馁",
+            "哪",
+            "那"
+        ]
+    },
+    "nen": {
+        "similar_pronunciations": [
+            "neng"
+        ],
+        "same_pronunciation_chars": [
+            "嫩"
+        ]
+    },
+    "neng": {
+        "similar_pronunciations": [
+            "nen"
+        ],
+        "same_pronunciation_chars": [
+            "能"
+        ]
+    },
+    "ni": {
+        "similar_pronunciations": [
+            "di",
+            "pi",
+            "yi",
+            "mi",
+            "li"
+        ],
+        "same_pronunciation_chars": [
+            "霓",
+            "尼",
+            "你",
+            "妳",
+            "拟",
+            "溺",
+            "泥",
+            "妮",
+            "匿",
+            "倪",
+            "昵",
+            "逆",
+            "坭",
+            "腻",
+            "暱",
+            "呢",
+            "疑"
+        ]
+    },
+    "nian": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "年",
+            "拈",
+            "蔫",
+            "碾",
+            "念",
+            "廿",
+            "鲶",
+            "辗",
+            "黏",
+            "捻",
+            "粘",
+            "撵"
+        ]
+    },
+    "niang": {
+        "similar_pronunciations": [
+            "nian"
+        ],
+        "same_pronunciation_chars": [
+            "酿",
+            "娘"
+        ]
+    },
+    "niao": {
+        "similar_pronunciations": [
+            "liao",
+            "tiao"
+        ],
+        "same_pronunciation_chars": [
+            "鸟",
+            "尿",
+            "脲",
+            "溺"
+        ]
+    },
+    "nie": {
+        "similar_pronunciations": [
+            "lie"
+        ],
+        "same_pronunciation_chars": [
+            "孽",
+            "聂",
+            "涅",
+            "捏",
+            "镍",
+            "啮",
+            "摰",
+            "颞",
+            "臬",
+            "捻",
+            "镊",
+            "摄"
+        ]
+    },
+    "nin": {
+        "similar_pronunciations": [
+            "li"
+        ],
+        "same_pronunciation_chars": [
+            "您",
+            "拰"
+        ]
+    },
+    "ning": {
+        "similar_pronunciations": [
+            "nin",
+            "ming",
+            "ding"
+        ],
+        "same_pronunciation_chars": [
+            "宁",
+            "凝",
+            "咛",
+            "狞",
+            "甯",
+            "柠",
+            "拧",
+            "泞"
+        ]
+    },
+    "niu": {
+        "similar_pronunciations": [
+            "jiu",
+            "liu"
+        ],
+        "same_pronunciation_chars": [
+            "纽",
+            "妞",
+            "扭",
+            "牛",
+            "钮"
+        ]
+    },
+    "nong": {
+        "similar_pronunciations": [
+            "rong"
+        ],
+        "same_pronunciation_chars": [
+            "农",
+            "侬",
+            "浓",
+            "弄",
+            "脓"
+        ]
+    },
+    "nou": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": []
+    },
+    "nu": {
+        "similar_pronunciations": [
+            "gu",
+            "lu",
+            "nv"
+        ],
+        "same_pronunciation_chars": [
+            "奴",
+            "弩",
+            "努",
+            "怒"
+        ]
+    },
+    "nuan": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "暖"
+        ]
+    },
+    "nuo": {
+        "similar_pronunciations": [
+            "ruo",
+            "duo",
+            "luo"
+        ],
+        "same_pronunciation_chars": [
+            "诺",
+            "挪",
+            "懦",
+            "糯",
+            "那",
+            "娜",
+            "难"
+        ]
+    },
+    "nv": {
+        "similar_pronunciations": [
+            "lv",
+            "nu"
+        ],
+        "same_pronunciation_chars": [
+            "女",
+            "钕"
+        ]
+    },
+    "nve": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "疟",
+            "虐"
+        ]
+    },
+    "o": {
+        "similar_pronunciations": [
+            "wo"
+        ],
+        "same_pronunciation_chars": [
+            "喔",
+            "噢",
+            "哦"
+        ]
+    },
+    "ou": {
+        "similar_pronunciations": [
+            "chou"
+        ],
+        "same_pronunciation_chars": [
+            "欧",
+            "偶",
+            "呕",
+            "殴",
+            "讴",
+            "耦",
+            "鸥",
+            "藕",
+            "沤",
+            "区"
+        ]
+    },
+    "pa": {
+        "similar_pronunciations": [
+            "fa",
+            "ba"
+        ],
+        "same_pronunciation_chars": [
+            "琶",
+            "怕",
+            "杷",
+            "帕",
+            "趴",
+            "爬",
+            "啪",
+            "舥",
+            "扒",
+            "耙",
+            "派"
+        ]
+    },
+    "pai": {
+        "similar_pronunciations": [
+            "bai"
+        ],
+        "same_pronunciation_chars": [
+            "排",
+            "俳",
+            "牌",
+            "派",
+            "拍",
+            "徘",
+            "哌",
+            "湃",
+            "迫"
+        ]
+    },
+    "pan": {
+        "similar_pronunciations": [
+            "ban",
+            "fan",
+            "han",
+            "pang"
+        ],
+        "same_pronunciation_chars": [
+            "叛",
+            "盘",
+            "盼",
+            "潘",
+            "攀",
+            "判",
+            "爿",
+            "眅",
+            "畔",
+            "蹒",
+            "拚",
+            "泮",
+            "磐",
+            "般",
+            "番",
+            "胖",
+            "拌"
+        ]
+    },
+    "pang": {
+        "similar_pronunciations": [
+            "bang",
+            "fang",
+            "pan",
+            "hang"
+        ],
+        "same_pronunciation_chars": [
+            "乓",
+            "旁",
+            "滂",
+            "彷",
+            "胖",
+            "螃",
+            "庞",
+            "逄",
+            "膀",
+            "磅",
+            "房",
+            "耪"
+        ]
+    },
+    "pao": {
+        "similar_pronunciations": [
+            "bao",
+            "hao"
+        ],
+        "same_pronunciation_chars": [
+            "泡",
+            "刨",
+            "跑",
+            "炮",
+            "疱",
+            "抛",
+            "咆",
+            "袍"
+        ]
+    },
+    "pei": {
+        "similar_pronunciations": [
+            "bei"
+        ],
+        "same_pronunciation_chars": [
+            "培",
+            "配",
+            "佩",
+            "陪",
+            "赔",
+            "沛",
+            "裴",
+            "珮",
+            "胚",
+            "坏",
+            "呸"
+        ]
+    },
+    "pen": {
+        "similar_pronunciations": [
+            "peng",
+            "fen",
+            "ben"
+        ],
+        "same_pronunciation_chars": [
+            "喷",
+            "盆"
+        ]
+    },
+    "peng": {
+        "similar_pronunciations": [
+            "feng",
+            "pen",
+            "beng"
+        ],
+        "same_pronunciation_chars": [
+            "硼",
+            "抨",
+            "怦",
+            "彭",
+            "蓬",
+            "烹",
+            "碰",
+            "掽",
+            "棚",
+            "鹏",
+            "椪",
+            "朋",
+            "捧",
+            "澎",
+            "膨",
+            "篷",
+            "亨",
+            "砰",
+            "苹"
+        ]
+    },
+    "pi": {
+        "similar_pronunciations": [
+            "bi"
+        ],
+        "same_pronunciation_chars": [
+            "屁",
+            "譬",
+            "霹",
+            "披",
+            "芘",
+            "疲",
+            "琵",
+            "脾",
+            "皮",
+            "劈",
+            "铍",
+            "毗",
+            "郫",
+            "啤",
+            "埤",
+            "纰",
+            "批",
+            "癖",
+            "丕",
+            "匹",
+            "辟",
+            "僻",
+            "砒",
+            "枇",
+            "媲",
+            "罢",
+            "痞",
+            "坯",
+            "被",
+            "否",
+            "副",
+            "坏"
+        ]
+    },
+    "pian": {
+        "similar_pronunciations": [
+            "bian"
+        ],
+        "same_pronunciation_chars": [
+            "偏",
+            "翩",
+            "骗",
+            "片",
+            "篇",
+            "骈",
+            "扁",
+            "便"
+        ]
+    },
+    "piao": {
+        "similar_pronunciations": [
+            "biao"
+        ],
+        "same_pronunciation_chars": [
+            "票",
+            "嫖",
+            "漂",
+            "飘",
+            "瓢",
+            "慓",
+            "朴"
+        ]
+    },
+    "pie": {
+        "similar_pronunciations": [
+            "bie"
+        ],
+        "same_pronunciation_chars": [
+            "瞥",
+            "撇"
+        ]
+    },
+    "pin": {
+        "similar_pronunciations": [
+            "ping",
+            "bin"
+        ],
+        "same_pronunciation_chars": [
+            "贫",
+            "拼",
+            "嫔",
+            "聘",
+            "品",
+            "频"
+        ]
+    },
+    "ping": {
+        "similar_pronunciations": [
+            "pin",
+            "bing"
+        ],
+        "same_pronunciation_chars": [
+            "评",
+            "凭",
+            "苹",
+            "平",
+            "瓶",
+            "坪",
+            "屏",
+            "萍",
+            "乒",
+            "鲆",
+            "娉",
+            "冯"
+        ]
+    },
+    "po": {
+        "similar_pronunciations": [
+            "bo"
+        ],
+        "same_pronunciation_chars": [
+            "泊",
+            "破",
+            "迫",
+            "珀",
+            "坡",
+            "魄",
+            "鄱",
+            "婆",
+            "泼",
+            "粕",
+            "颇",
+            "朴",
+            "繁"
+        ]
+    },
+    "pou": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "剖"
+        ]
+    },
+    "pu": {
+        "similar_pronunciations": [
+            "bu",
+            "ru",
+            "fu",
+            "lu",
+            "ku",
+            "hu"
+        ],
+        "same_pronunciation_chars": [
+            "谱",
+            "圃",
+            "普",
+            "菩",
+            "浦",
+            "曝",
+            "瀑",
+            "蒲",
+            "莆",
+            "溥",
+            "璞",
+            "朴",
+            "葡",
+            "铺",
+            "脯",
+            "埔",
+            "仆",
+            "僕",
+            "扑",
+            "蹼",
+            "堡",
+            "暴"
+        ]
+    },
+    "qi": {
+        "similar_pronunciations": [
+            "ji",
+            "yi",
+            "bi",
+            "li",
+            "xi"
+        ],
+        "same_pronunciation_chars": [
+            "妻",
+            "期",
+            "骑",
+            "起",
+            "泣",
+            "其",
+            "弃",
+            "气",
+            "企",
+            "齐",
+            "祈",
+            "七",
+            "启",
+            "蚑",
+            "器",
+            "奇",
+            "棋",
+            "凄",
+            "琦",
+            "琪",
+            "汽",
+            "旗",
+            "歧",
+            "迄",
+            "讫",
+            "契",
+            "崎",
+            "欺",
+            "岂",
+            "岐",
+            "淇",
+            "畦",
+            "漆",
+            "綦",
+            "俟",
+            "砌",
+            "绮",
+            "骐",
+            "祁",
+            "栖",
+            "憩",
+            "戚",
+            "鳍",
+            "蕲",
+            "柒",
+            "圻",
+            "蹊",
+            "碁",
+            "杞",
+            "麒",
+            "祺",
+            "埼",
+            "脐",
+            "耆",
+            "乞",
+            "稽",
+            "缉",
+            "伎",
+            "揭",
+            "沏",
+            "枝"
+        ]
+    },
+    "qia": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "洽",
+            "掐",
+            "恰",
+            "髂",
+            "卡"
+        ]
+    },
+    "qian": {
+        "similar_pronunciations": [
+            "jian",
+            "xian",
+            "bian",
+            "qiang"
+        ],
+        "same_pronunciation_chars": [
+            "千",
+            "前",
+            "潜",
+            "钱",
+            "谴",
+            "遣",
+            "牵",
+            "迁",
+            "浅",
+            "乾",
+            "茜",
+            "签",
+            "欠",
+            "铅",
+            "虔",
+            "谦",
+            "堑",
+            "歉",
+            "芊",
+            "骞",
+            "钎",
+            "倩",
+            "嵌",
+            "箝",
+            "嗛",
+            "钳",
+            "瓩",
+            "扦",
+            "黔",
+            "仟",
+            "掮",
+            "纤"
+        ]
+    },
+    "qiang": {
+        "similar_pronunciations": [
+            "qian",
+            "chuang"
+        ],
+        "same_pronunciation_chars": [
+            "墙",
+            "抢",
+            "强",
+            "枪",
+            "鎗",
+            "蔷",
+            "腔",
+            "丬",
+            "羟",
+            "呛",
+            "戕",
+            "跄",
+            "羌",
+            "疆",
+            "将"
+        ]
+    },
+    "qiao": {
+        "similar_pronunciations": [
+            "tiao",
+            "jiao"
+        ],
+        "same_pronunciation_chars": [
+            "橇",
+            "峭",
+            "硚",
+            "桥",
+            "荞",
+            "俏",
+            "翘",
+            "乔",
+            "悄",
+            "巧",
+            "跷",
+            "窍",
+            "瞧",
+            "敲",
+            "谯",
+            "侨",
+            "憔",
+            "锹",
+            "撬",
+            "蕉",
+            "壳",
+            "鞘",
+            "雀"
+        ]
+    },
+    "qie": {
+        "similar_pronunciations": [
+            "jie",
+            "xie"
+        ],
+        "same_pronunciation_chars": [
+            "且",
+            "锲",
+            "切",
+            "怯",
+            "惬",
+            "妾",
+            "窃",
+            "契",
+            "茄",
+            "砌"
+        ]
+    },
+    "qin": {
+        "similar_pronunciations": [
+            "qing",
+            "xin",
+            "jin",
+            "yin"
+        ],
+        "same_pronunciation_chars": [
+            "侵",
+            "勤",
+            "芹",
+            "秦",
+            "亲",
+            "擒",
+            "禽",
+            "耹",
+            "寝",
+            "琴",
+            "钦",
+            "噙",
+            "沁"
+        ]
+    },
+    "qing": {
+        "similar_pronunciations": [
+            "jing",
+            "xing",
+            "qin",
+            "ping"
+        ],
+        "same_pronunciation_chars": [
+            "情",
+            "清",
+            "青",
+            "请",
+            "顷",
+            "轻",
+            "箐",
+            "晴",
+            "倾",
+            "氢",
+            "卿",
+            "庆",
+            "苘",
+            "擎",
+            "氰",
+            "靑",
+            "蜻",
+            "磬",
+            "亲"
+        ]
+    },
+    "qiong": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "邛",
+            "穹",
+            "穷",
+            "琼",
+            "芎"
+        ]
+    },
+    "qiu": {
+        "similar_pronunciations": [
+            "jiu",
+            "xiu"
+        ],
+        "same_pronunciation_chars": [
+            "球",
+            "求",
+            "囚",
+            "邱",
+            "秋",
+            "蚯",
+            "酋",
+            "糗",
+            "萩",
+            "楸",
+            "泅",
+            "裘",
+            "丘",
+            "虬",
+            "仇",
+            "龟"
+        ]
+    },
+    "qu": {
+        "similar_pronunciations": [
+            "yu",
+            "nu"
+        ],
+        "same_pronunciation_chars": [
+            "区",
+            "取",
+            "曲",
+            "渠",
+            "龋",
+            "去",
+            "屈",
+            "瞿",
+            "趣",
+            "躯",
+            "驱",
+            "趋",
+            "衢",
+            "岖",
+            "朐",
+            "娶",
+            "祛",
+            "袪",
+            "蛆",
+            "蛐"
+        ]
+    },
+    "quan": {
+        "similar_pronunciations": [
+            "juan"
+        ],
+        "same_pronunciation_chars": [
+            "圈",
+            "劝",
+            "犬",
+            "拳",
+            "券",
+            "全",
+            "权",
+            "汱",
+            "泉",
+            "蜷",
+            "荃",
+            "颧",
+            "弮",
+            "诠",
+            "痊",
+            "醛"
+        ]
+    },
+    "que": {
+        "similar_pronunciations": [
+            "jue"
+        ],
+        "same_pronunciation_chars": [
+            "确",
+            "却",
+            "雀",
+            "缺",
+            "鹊",
+            "榷",
+            "阙",
+            "炔",
+            "瘸"
+        ]
+    },
+    "qun": {
+        "similar_pronunciations": [
+            "jun"
+        ],
+        "same_pronunciation_chars": [
+            "裙",
+            "群"
+        ]
+    },
+    "ran": {
+        "similar_pronunciations": [
+            "rang",
+            "lan"
+        ],
+        "same_pronunciation_chars": [
+            "然",
+            "染",
+            "燃",
+            "冉"
+        ]
+    },
+    "rang": {
+        "similar_pronunciations": [
+            "shang",
+            "ran",
+            "tang",
+            "lang"
+        ],
+        "same_pronunciation_chars": [
+            "让",
+            "壤",
+            "攘",
+            "嚷",
+            "穰",
+            "懹",
+            "瓤"
+        ]
+    },
+    "rao": {
+        "similar_pronunciations": [
+            "nao",
+            "lao"
+        ],
+        "same_pronunciation_chars": [
+            "绕",
+            "扰",
+            "娆",
+            "桡",
+            "遶",
+            "饶"
+        ]
+    },
+    "re": {
+        "similar_pronunciations": [
+            "le"
+        ],
+        "same_pronunciation_chars": [
+            "热",
+            "惹",
+            "若"
+        ]
+    },
+    "ren": {
+        "similar_pronunciations": [
+            "reng",
+            "wen",
+            "men"
+        ],
+        "same_pronunciation_chars": [
+            "轫",
+            "认",
+            "任",
+            "忍",
+            "人",
+            "刃",
+            "仁",
+            "韧",
+            "妊",
+            "仞",
+            "稔",
+            "纫",
+            "葚",
+            "壬"
+        ]
+    },
+    "reng": {
+        "similar_pronunciations": [
+            "ren",
+            "leng"
+        ],
+        "same_pronunciation_chars": [
+            "仍",
+            "扔"
+        ]
+    },
+    "ri": {
+        "similar_pronunciations": [
+            "li"
+        ],
+        "same_pronunciation_chars": [
+            "日"
+        ]
+    },
+    "rong": {
+        "similar_pronunciations": [
+            "long",
+            "gong"
+        ],
+        "same_pronunciation_chars": [
+            "茸",
+            "荣",
+            "蓉",
+            "融",
+            "溶",
+            "镕",
+            "榕",
+            "容",
+            "戎",
+            "冗",
+            "熔",
+            "绒"
+        ]
+    },
+    "rou": {
+        "similar_pronunciations": [
+            "lou"
+        ],
+        "same_pronunciation_chars": [
+            "柔",
+            "蹂",
+            "揉",
+            "肉"
+        ]
+    },
+    "ru": {
+        "similar_pronunciations": [
+            "lu"
+        ],
+        "same_pronunciation_chars": [
+            "辱",
+            "如",
+            "入",
+            "茹",
+            "儒",
+            "濡",
+            "乳",
+            "蠕",
+            "汝",
+            "嚅",
+            "溽",
+            "女",
+            "褥",
+            "孺"
+        ]
+    },
+    "ruan": {
+        "similar_pronunciations": [
+            "luan"
+        ],
+        "same_pronunciation_chars": [
+            "软",
+            "阮",
+            "朊"
+        ]
+    },
+    "rui": {
+        "similar_pronunciations": [
+            "nei",
+            "tui"
+        ],
+        "same_pronunciation_chars": [
+            "瑞",
+            "芮",
+            "睿",
+            "锐",
+            "蕊",
+            "兑"
+        ]
+    },
+    "run": {
+        "similar_pronunciations": [
+            "run",
+            "lun"
+        ],
+        "same_pronunciation_chars": [
+            "润",
+            "闰"
+        ]
+    },
+    "ruo": {
+        "similar_pronunciations": [
+            "luo"
+        ],
+        "same_pronunciation_chars": [
+            "若",
+            "弱",
+            "箬"
+        ]
+    },
+    "sa": {
+        "similar_pronunciations": [
+            "sha"
+        ],
+        "same_pronunciation_chars": [
+            "仨",
+            "萨",
+            "撒",
+            "洒",
+            "飒",
+            "卅"
+        ]
+    },
+    "sai": {
+        "similar_pronunciations": [
+            "shuai",
+            "lai",
+            "shai"
+        ],
+        "same_pronunciation_chars": [
+            "赛",
+            "塞",
+            "腮",
+            "鳃",
+            "思"
+        ]
+    },
+    "san": {
+        "similar_pronunciations": [
+            "shan",
+            "sang"
+        ],
+        "same_pronunciation_chars": [
+            "三",
+            "叁",
+            "伞",
+            "散",
+            "参"
+        ]
+    },
+    "sang": {
+        "similar_pronunciations": [
+            "san",
+            "shang"
+        ],
+        "same_pronunciation_chars": [
+            "桑",
+            "嗓",
+            "丧"
+        ]
+    },
+    "sao": {
+        "similar_pronunciations": [
+            "yao",
+            "shao"
+        ],
+        "same_pronunciation_chars": [
+            "扫",
+            "嫂",
+            "搔",
+            "骚",
+            "梢"
+        ]
+    },
+    "se": {
+        "similar_pronunciations": [
+            "she"
+        ],
+        "same_pronunciation_chars": [
+            "啬",
+            "瑟",
+            "色",
+            "塞",
+            "涩"
+        ]
+    },
+    "sen": {
+        "similar_pronunciations": [
+            "shen",
+            "seng"
+        ],
+        "same_pronunciation_chars": [
+            "森"
+        ]
+    },
+    "seng": {
+        "similar_pronunciations": [
+            "zeng",
+            "sen",
+            "sheng"
+        ],
+        "same_pronunciation_chars": [
+            "僧"
+        ]
+    },
+    "sha": {
+        "similar_pronunciations": [
+            "xia",
+            "sa"
+        ],
+        "same_pronunciation_chars": [
+            "杀",
+            "厦",
+            "刹",
+            "煞",
+            "沙",
+            "莎",
+            "啥",
+            "砂",
+            "鲨",
+            "霎",
+            "傻",
+            "纱",
+            "铩",
+            "杉"
+        ]
+    },
+    "shai": {
+        "similar_pronunciations": [
+            "sai"
+        ],
+        "same_pronunciation_chars": [
+            "晒",
+            "色",
+            "筛"
+        ]
+    },
+    "shan": {
+        "similar_pronunciations": [
+            "shang",
+            "guan",
+            "chan",
+            "can",
+            "san",
+            "tan"
+        ],
+        "same_pronunciation_chars": [
+            "珊",
+            "姗",
+            "膳",
+            "山",
+            "扇",
+            "善",
+            "陕",
+            "擅",
+            "删",
+            "缮",
+            "闪",
+            "跚",
+            "衫",
+            "杉",
+            "讪",
+            "搧",
+            "煽",
+            "陝",
+            "疝",
+            "嬗",
+            "苫",
+            "汕",
+            "掺",
+            "赡",
+            "单",
+            "掸",
+            "裳",
+            "栅"
+        ]
+    },
+    "shang": {
+        "similar_pronunciations": [
+            "cang",
+            "zhang",
+            "shan",
+            "tang",
+            "dang",
+            "chang",
+            "sang"
+        ],
+        "same_pronunciation_chars": [
+            "上",
+            "商",
+            "尚",
+            "赏",
+            "伤",
+            "裳",
+            "墒",
+            "殇",
+            "晌",
+            "汤"
+        ]
+    },
+    "shao": {
+        "similar_pronunciations": [
+            "zhao",
+            "rao",
+            "yao",
+            "sao",
+            "qiao",
+            "jiao",
+            "zao"
+        ],
+        "same_pronunciation_chars": [
+            "稍",
+            "梢",
+            "少",
+            "韶",
+            "烧",
+            "绍",
+            "勺",
+            "邵",
+            "卲",
+            "哨",
+            "劭",
+            "捎",
+            "鞘",
+            "芍",
+            "召"
+        ]
+    },
+    "she": {
+        "similar_pronunciations": [
+            "se",
+            "ze"
+        ],
+        "same_pronunciation_chars": [
+            "摄",
+            "射",
+            "设",
+            "舌",
+            "涉",
+            "社",
+            "赊",
+            "慑",
+            "蛇",
+            "佘",
+            "舍",
+            "赦",
+            "奢",
+            "麝",
+            "拾",
+            "折"
+        ]
+    },
+    "shei": {
+        "similar_pronunciations": [
+            "sui"
+        ],
+        "same_pronunciation_chars": [
+            "谁"
+        ]
+    },
+    "shen": {
+        "similar_pronunciations": [
+            "sheng",
+            "ren",
+            "zen",
+            "chen",
+            "zhen",
+            "fen",
+            "sen",
+            "cen"
+        ],
+        "same_pronunciation_chars": [
+            "伸",
+            "审",
+            "身",
+            "申",
+            "深",
+            "莘",
+            "神",
+            "砷",
+            "婶",
+            "慎",
+            "什",
+            "甚",
+            "沈",
+            "蜃",
+            "呻",
+            "肾",
+            "蔘",
+            "娠",
+            "渗",
+            "棽",
+            "参",
+            "绅",
+            "信"
+        ]
+    },
+    "sheng": {
+        "similar_pronunciations": [
+            "shen",
+            "cheng",
+            "meng",
+            "heng",
+            "seng",
+            "ceng"
+        ],
+        "same_pronunciation_chars": [
+            "生",
+            "牲",
+            "胜",
+            "賸",
+            "声",
+            "省",
+            "剩",
+            "升",
+            "盛",
+            "圣",
+            "绳",
+            "甥",
+            "笙",
+            "昇",
+            "嵊",
+            "乘",
+            "甸"
+        ]
+    },
+    "shi": {
+        "similar_pronunciations": [
+            "si",
+            "zhi",
+            "chi",
+            "zi",
+            "ri"
+        ],
+        "same_pronunciation_chars": [
+            "是",
+            "时",
+            "誓",
+            "失",
+            "事",
+            "市",
+            "示",
+            "世",
+            "使",
+            "师",
+            "矢",
+            "石",
+            "驶",
+            "史",
+            "实",
+            "试",
+            "室",
+            "适",
+            "匙",
+            "侍",
+            "势",
+            "士",
+            "施",
+            "十",
+            "尸",
+            "屎",
+            "始",
+            "式",
+            "嗜",
+            "释",
+            "诗",
+            "视",
+            "食",
+            "饰",
+            "湿",
+            "仕",
+            "狮",
+            "识",
+            "拾",
+            "柿",
+            "逝",
+            "氏",
+            "似",
+            "虱",
+            "拭",
+            "轼",
+            "铈",
+            "豉",
+            "螫",
+            "噬",
+            "蚀",
+            "浉",
+            "恃",
+            "媞",
+            "什",
+            "硕",
+            "嘘",
+            "泽",
+            "峙"
+        ]
+    },
+    "shou": {
+        "similar_pronunciations": [
+            "sou",
+            "you"
+        ],
+        "same_pronunciation_chars": [
+            "收",
+            "兽",
+            "首",
+            "手",
+            "受",
+            "授",
+            "售",
+            "守",
+            "瘦",
+            "寿",
+            "狩",
+            "绶",
+            "熟"
+        ]
+    },
+    "shu": {
+        "similar_pronunciations": [
+            "su",
+            "tu",
+            "mu",
+            "wu",
+            "gu",
+            "zhu",
+            "fu",
+            "lu",
+            "hu",
+            "zu"
+        ],
+        "same_pronunciation_chars": [
+            "属",
+            "署",
+            "树",
+            "术",
+            "殊",
+            "数",
+            "庶",
+            "述",
+            "墅",
+            "书",
+            "暑",
+            "纾",
+            "舒",
+            "曙",
+            "束",
+            "薯",
+            "枢",
+            "鼠",
+            "输",
+            "抒",
+            "尌",
+            "熟",
+            "竖",
+            "菽",
+            "戍",
+            "疏",
+            "赎",
+            "淑",
+            "沭",
+            "漱",
+            "叔",
+            "梳",
+            "塾",
+            "倏",
+            "澍",
+            "蔬",
+            "恕",
+            "姝",
+            "孰",
+            "潻",
+            "蜀",
+            "黍",
+            "俞",
+            "朱"
+        ]
+    },
+    "shua": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "耍",
+            "唰",
+            "刷"
+        ]
+    },
+    "shuai": {
+        "similar_pronunciations": [
+            "shai"
+        ],
+        "same_pronunciation_chars": [
+            "衰",
+            "帅",
+            "摔",
+            "蟀",
+            "率",
+            "甩"
+        ]
+    },
+    "shuan": {
+        "similar_pronunciations": [
+            "shuang",
+            "suan"
+        ],
+        "same_pronunciation_chars": [
+            "闩",
+            "涮",
+            "栓",
+            "拴"
+        ]
+    },
+    "shuang": {
+        "similar_pronunciations": [
+            "shuan"
+        ],
+        "same_pronunciation_chars": [
+            "霜",
+            "双",
+            "孀",
+            "爽"
+        ]
+    },
+    "shui": {
+        "similar_pronunciations": [
+            "cui",
+            "sui",
+            "hui"
+        ],
+        "same_pronunciation_chars": [
+            "睡",
+            "水",
+            "税",
+            "谁",
+            "说"
+        ]
+    },
+    "shun": {
+        "similar_pronunciations": [
+            "sun"
+        ],
+        "same_pronunciation_chars": [
+            "顺",
+            "瞬",
+            "舜",
+            "吮"
+        ]
+    },
+    "shuo": {
+        "similar_pronunciations": [
+            "suo",
+            "cuo",
+            "luo"
+        ],
+        "same_pronunciation_chars": [
+            "说",
+            "朔",
+            "硕",
+            "铄",
+            "烁",
+            "数"
+        ]
+    },
+    "si": {
+        "similar_pronunciations": [
+            "shi",
+            "ci",
+            "chi"
+        ],
+        "same_pronunciation_chars": [
+            "斯",
+            "司",
+            "丝",
+            "思",
+            "肆",
+            "厮",
+            "撕",
+            "私",
+            "巳",
+            "饲",
+            "寺",
+            "四",
+            "蛳",
+            "死",
+            "嘶",
+            "祀",
+            "泗",
+            "嗣",
+            "驷",
+            "锶",
+            "食",
+            "似",
+            "伺"
+        ]
+    },
+    "song": {
+        "similar_pronunciations": [
+            "cong",
+            "zong",
+            "gong"
+        ],
+        "same_pronunciation_chars": [
+            "宋",
+            "诵",
+            "送",
+            "悚",
+            "嵩",
+            "耸",
+            "傱",
+            "颂",
+            "松",
+            "讼",
+            "怂"
+        ]
+    },
+    "sou": {
+        "similar_pronunciations": [
+            "chou",
+            "shou"
+        ],
+        "same_pronunciation_chars": [
+            "艘",
+            "搜",
+            "蒐",
+            "叟",
+            "薮",
+            "嗽",
+            "飕",
+            "嗖",
+            "擞"
+        ]
+    },
+    "su": {
+        "similar_pronunciations": [
+            "shu",
+            "zhu"
+        ],
+        "same_pronunciation_chars": [
+            "素",
+            "粟",
+            "诉",
+            "塑",
+            "速",
+            "苏",
+            "愫",
+            "溯",
+            "嗉",
+            "僳",
+            "宿",
+            "俗",
+            "肃",
+            "酥",
+            "莤",
+            "稣",
+            "缩"
+        ]
+    },
+    "suan": {
+        "similar_pronunciations": [
+            "zhuan",
+            "tan",
+            "shuan"
+        ],
+        "same_pronunciation_chars": [
+            "算",
+            "蒜",
+            "酸"
+        ]
+    },
+    "sui": {
+        "similar_pronunciations": [
+            "hui",
+            "zui",
+            "shui",
+            "cui"
+        ],
+        "same_pronunciation_chars": [
+            "祟",
+            "隋",
+            "遂",
+            "随",
+            "隧",
+            "燧",
+            "绥",
+            "岁",
+            "荽",
+            "濉",
+            "碎",
+            "虽",
+            "髓",
+            "睢",
+            "穗",
+            "邃",
+            "尿"
+        ]
+    },
+    "sun": {
+        "similar_pronunciations": [
+            "shun"
+        ],
+        "same_pronunciation_chars": [
+            "损",
+            "孙",
+            "笋"
+        ]
+    },
+    "suo": {
+        "similar_pronunciations": [
+            "shuo"
+        ],
+        "same_pronunciation_chars": [
+            "索",
+            "锁",
+            "唆",
+            "缩",
+            "所",
+            "琐",
+            "梭",
+            "嗦",
+            "娑",
+            "莎",
+            "蓑",
+            "些"
+        ]
+    },
+    "ta": {
+        "similar_pronunciations": [
+            "da",
+            "ha",
+            "ga"
+        ],
+        "same_pronunciation_chars": [
+            "塔",
+            "她",
+            "他",
+            "它",
+            "塌",
+            "遢",
+            "踏",
+            "蹋",
+            "牠",
+            "榻",
+            "獭",
+            "挞",
+            "拓"
+        ]
+    },
+    "tai": {
+        "similar_pronunciations": [
+            "zai",
+            "nai",
+            "dai"
+        ],
+        "same_pronunciation_chars": [
+            "态",
+            "台",
+            "胎",
+            "泰",
+            "苔",
+            "太",
+            "抬",
+            "钛",
+            "檯",
+            "肽",
+            "跆",
+            "邰",
+            "汰",
+            "大",
+            "酞"
+        ]
+    },
+    "tan": {
+        "similar_pronunciations": [
+            "dan",
+            "han",
+            "ban",
+            "lan",
+            "tang"
+        ],
+        "same_pronunciation_chars": [
+            "叹",
+            "炭",
+            "碳",
+            "谈",
+            "昙",
+            "探",
+            "袒",
+            "谭",
+            "潭",
+            "覃",
+            "瘫",
+            "坦",
+            "檀",
+            "滩",
+            "贪",
+            "钽",
+            "摊",
+            "坍",
+            "毯",
+            "坛",
+            "痰",
+            "弹"
+        ]
+    },
+    "tang": {
+        "similar_pronunciations": [
+            "chang",
+            "shang",
+            "tan",
+            "dang",
+            "sang",
+            "cang"
+        ],
+        "same_pronunciation_chars": [
+            "搪",
+            "倘",
+            "镗",
+            "唐",
+            "躺",
+            "淌",
+            "堂",
+            "糖",
+            "溏",
+            "烫",
+            "汤",
+            "塘",
+            "趟",
+            "帑",
+            "棠",
+            "膛"
+        ]
+    },
+    "tao": {
+        "similar_pronunciations": [
+            "dao",
+            "zhao"
+        ],
+        "same_pronunciation_chars": [
+            "滔",
+            "淘",
+            "饕",
+            "韬",
+            "逃",
+            "讨",
+            "套",
+            "涛",
+            "桃",
+            "萄",
+            "掏",
+            "洮",
+            "陶",
+            "绦",
+            "跳"
+        ]
+    },
+    "te": {
+        "similar_pronunciations": [
+            "de"
+        ],
+        "same_pronunciation_chars": [
+            "特",
+            "忒"
+        ]
+    },
+    "teng": {
+        "similar_pronunciations": [
+            "deng"
+        ],
+        "same_pronunciation_chars": [
+            "腾",
+            "滕",
+            "疼",
+            "藤",
+            "誊"
+        ]
+    },
+    "ti": {
+        "similar_pronunciations": [
+            "di",
+            "xi"
+        ],
+        "same_pronunciation_chars": [
+            "体",
+            "涕",
+            "蹄",
+            "题",
+            "提",
+            "替",
+            "惕",
+            "剔",
+            "屉",
+            "踢",
+            "嚏",
+            "梯",
+            "啼",
+            "剃",
+            "悌",
+            "鳀",
+            "弟",
+            "锑"
+        ]
+    },
+    "tian": {
+        "similar_pronunciations": [
+            "dian",
+            "xian"
+        ],
+        "same_pronunciation_chars": [
+            "甜",
+            "天",
+            "田",
+            "恬",
+            "添",
+            "填",
+            "舔",
+            "阗",
+            "佃",
+            "腆",
+            "甸"
+        ]
+    },
+    "tiao": {
+        "similar_pronunciations": [
+            "xiao",
+            "diao"
+        ],
+        "same_pronunciation_chars": [
+            "迢",
+            "挑",
+            "条",
+            "跳",
+            "眺",
+            "祧",
+            "调"
+        ]
+    },
+    "tie": {
+        "similar_pronunciations": [
+            "bie",
+            "die"
+        ],
+        "same_pronunciation_chars": [
+            "铁",
+            "贴",
+            "帖"
+        ]
+    },
+    "ting": {
+        "similar_pronunciations": [
+            "ding"
+        ],
+        "same_pronunciation_chars": [
+            "汀",
+            "停",
+            "亭",
+            "挺",
+            "听",
+            "厅",
+            "霆",
+            "廷",
+            "艇",
+            "町",
+            "庭",
+            "婷",
+            "渟",
+            "蜓",
+            "烃"
+        ]
+    },
+    "tong": {
+        "similar_pronunciations": [
+            "zhong",
+            "yong",
+            "song",
+            "zong",
+            "dong"
+        ],
+        "same_pronunciation_chars": [
+            "统",
+            "捅",
+            "童",
+            "通",
+            "桐",
+            "筒",
+            "痛",
+            "酮",
+            "同",
+            "潼",
+            "瞳",
+            "铜",
+            "桶",
+            "茼",
+            "佟",
+            "仝",
+            "彤",
+            "侗"
+        ]
+    },
+    "tou": {
+        "similar_pronunciations": [
+            "you",
+            "hou",
+            "dou",
+            "chou",
+            "zhou"
+        ],
+        "same_pronunciation_chars": [
+            "投",
+            "偷",
+            "头",
+            "透",
+            "骰",
+            "愉"
+        ]
+    },
+    "tu": {
+        "similar_pronunciations": [
+            "du"
+        ],
+        "same_pronunciation_chars": [
+            "图",
+            "屠",
+            "途",
+            "土",
+            "徒",
+            "突",
+            "秃",
+            "涂",
+            "凸",
+            "荼",
+            "兔",
+            "吐",
+            "怢",
+            "堍"
+        ]
+    },
+    "tuan": {
+        "similar_pronunciations": [
+            "duan"
+        ],
+        "same_pronunciation_chars": [
+            "团",
+            "湍",
+            "疃",
+            "抟",
+            "揣"
+        ]
+    },
+    "tui": {
+        "similar_pronunciations": [
+            "dui",
+            "zhui"
+        ],
+        "same_pronunciation_chars": [
+            "退",
+            "推",
+            "腿",
+            "颓",
+            "蜕",
+            "弟",
+            "褪"
+        ]
+    },
+    "tun": {
+        "similar_pronunciations": [
+            "dun",
+            "zun"
+        ],
+        "same_pronunciation_chars": [
+            "臀",
+            "吞",
+            "屯",
+            "豚",
+            "囤",
+            "褪"
+        ]
+    },
+    "tuo": {
+        "similar_pronunciations": [
+            "duo"
+        ],
+        "same_pronunciation_chars": [
+            "脱",
+            "拖",
+            "托",
+            "妥",
+            "陀",
+            "唾",
+            "拓",
+            "託",
+            "椭",
+            "讬",
+            "鸵",
+            "驼",
+            "沱",
+            "魄",
+            "驮"
+        ]
+    },
+    "wa": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "袜",
+            "瓦",
+            "蛙",
+            "挖",
+            "佤",
+            "洼",
+            "娃",
+            "哇",
+            "娲",
+            "漥",
+            "凹"
+        ]
+    },
+    "wai": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "崴",
+            "外",
+            "歪"
+        ]
+    },
+    "wan": {
+        "similar_pronunciations": [
+            "wang",
+            "guan",
+            "huan",
+            "zhan",
+            "ruan"
+        ],
+        "same_pronunciation_chars": [
+            "万",
+            "玩",
+            "湾",
+            "脘",
+            "顽",
+            "皖",
+            "弯",
+            "晚",
+            "完",
+            "挽",
+            "琬",
+            "蜿",
+            "婉",
+            "惋",
+            "碗",
+            "腕",
+            "菀",
+            "绾",
+            "捥",
+            "畹",
+            "宛",
+            "豌",
+            "丸",
+            "蔓",
+            "烷"
+        ]
+    },
+    "wang": {
+        "similar_pronunciations": [
+            "wan",
+            "mang",
+            "chang",
+            "gang",
+            "zang"
+        ],
+        "same_pronunciation_chars": [
+            "望",
+            "王",
+            "旺",
+            "汪",
+            "往",
+            "网",
+            "亡",
+            "惘",
+            "忘",
+            "罔",
+            "妄",
+            "尪",
+            "彺",
+            "枉"
+        ]
+    },
+    "wei": {
+        "similar_pronunciations": [
+            "wen",
+            "lei",
+            "fei"
+        ],
+        "same_pronunciation_chars": [
+            "未",
+            "胃",
+            "委",
+            "伟",
+            "涠",
+            "萎",
+            "韦",
+            "炜",
+            "唯",
+            "微",
+            "维",
+            "味",
+            "谓",
+            "为",
+            "惟",
+            "威",
+            "痿",
+            "围",
+            "位",
+            "渭",
+            "偎",
+            "尾",
+            "危",
+            "违",
+            "魏",
+            "巍",
+            "纬",
+            "玮",
+            "喂",
+            "卫",
+            "慰",
+            "尉",
+            "伪",
+            "苇",
+            "畏",
+            "蔚",
+            "薇",
+            "帷",
+            "餵",
+            "葳",
+            "鲔",
+            "猥",
+            "磈",
+            "猬",
+            "桅",
+            "圩",
+            "潍",
+            "遗"
+        ]
+    },
+    "wen": {
+        "similar_pronunciations": [
+            "wei",
+            "weng"
+        ],
+        "same_pronunciation_chars": [
+            "问",
+            "温",
+            "文",
+            "紊",
+            "闻",
+            "汶",
+            "瘟",
+            "吻",
+            "纹",
+            "雯",
+            "蕰",
+            "蚊",
+            "稳",
+            "玟",
+            "塭"
+        ]
+    },
+    "weng": {
+        "similar_pronunciations": [
+            "wen"
+        ],
+        "same_pronunciation_chars": [
+            "翁",
+            "瓮",
+            "嗡"
+        ]
+    },
+    "wo": {
+        "similar_pronunciations": [
+            "guo",
+            "kuo"
+        ],
+        "same_pronunciation_chars": [
+            "我",
+            "莴",
+            "握",
+            "幄",
+            "龌",
+            "窝",
+            "斡",
+            "肟",
+            "渥",
+            "沃",
+            "卧",
+            "婐",
+            "挝",
+            "涡",
+            "蜗"
+        ]
+    },
+    "wu": {
+        "similar_pronunciations": [
+            "bu",
+            "pu",
+            "fu",
+            "hu",
+            "gu"
+        ],
+        "same_pronunciation_chars": [
+            "兀",
+            "吾",
+            "悟",
+            "务",
+            "物",
+            "雾",
+            "五",
+            "无",
+            "晤",
+            "误",
+            "吴",
+            "坞",
+            "污",
+            "武",
+            "屋",
+            "乌",
+            "芜",
+            "捂",
+            "邬",
+            "舞",
+            "戊",
+            "勿",
+            "侮",
+            "伍",
+            "午",
+            "唔",
+            "诬",
+            "摀",
+            "钨",
+            "呜",
+            "巫",
+            "婺",
+            "鹜",
+            "鹉",
+            "梧",
+            "骛",
+            "恶",
+            "亡",
+            "毋"
+        ]
+    },
+    "xi": {
+        "similar_pronunciations": [
+            "yi",
+            "qi",
+            "ji",
+            "ti",
+            "pi"
+        ],
+        "same_pronunciation_chars": [
+            "息",
+            "熹",
+            "席",
+            "系",
+            "嘻",
+            "昔",
+            "希",
+            "西",
+            "喜",
+            "习",
+            "惜",
+            "禧",
+            "熙",
+            "戏",
+            "牺",
+            "徙",
+            "吸",
+            "稀",
+            "汐",
+            "郗",
+            "析",
+            "夕",
+            "嬉",
+            "係",
+            "奚",
+            "袭",
+            "锡",
+            "皙",
+            "繫",
+            "膝",
+            "溪",
+            "细",
+            "洗",
+            "玺",
+            "浠",
+            "犀",
+            "悉",
+            "烯",
+            "舄",
+            "硒",
+            "晰",
+            "铣",
+            "曦",
+            "葸",
+            "隙",
+            "羲",
+            "媳",
+            "檄",
+            "蜥",
+            "熄",
+            "阋",
+            "樨",
+            "兮",
+            "醯",
+            "腊",
+            "栖",
+            "洒",
+            "鳃",
+            "矽"
+        ]
+    },
+    "xia": {
+        "similar_pronunciations": [
+            "jia",
+            "fa",
+            "sa"
+        ],
+        "same_pronunciation_chars": [
+            "夏",
+            "下",
+            "虾",
+            "遐",
+            "罅",
+            "狭",
+            "暇",
+            "瞎",
+            "匣",
+            "峡",
+            "吓",
+            "瑕",
+            "霞",
+            "黠",
+            "柙",
+            "辖",
+            "侠",
+            "唬",
+            "厦"
+        ]
+    },
+    "xian": {
+        "similar_pronunciations": [
+            "jian",
+            "xiang",
+            "qian",
+            "xuan"
+        ],
+        "same_pronunciation_chars": [
+            "险",
+            "鲜",
+            "嫌",
+            "现",
+            "先",
+            "线",
+            "限",
+            "陷",
+            "县",
+            "宪",
+            "痫",
+            "咸",
+            "籼",
+            "仙",
+            "显",
+            "絃",
+            "馅",
+            "岘",
+            "羡",
+            "娴",
+            "贤",
+            "舷",
+            "献",
+            "衔",
+            "闲",
+            "閒",
+            "涎",
+            "掀",
+            "暹",
+            "弦",
+            "冼",
+            "蚬",
+            "纤",
+            "羨",
+            "苋",
+            "酰",
+            "腺",
+            "掺",
+            "见",
+            "铣",
+            "洗",
+            "锨"
+        ]
+    },
+    "xiang": {
+        "similar_pronunciations": [
+            "xian",
+            "chang",
+            "shang",
+            "zhang",
+            "yang",
+            "kuang",
+            "fang"
+        ],
+        "same_pronunciation_chars": [
+            "项",
+            "相",
+            "想",
+            "像",
+            "响",
+            "向",
+            "厢",
+            "祥",
+            "象",
+            "详",
+            "香",
+            "巷",
+            "镶",
+            "享",
+            "襄",
+            "嚮",
+            "翔",
+            "橡",
+            "箱",
+            "乡",
+            "湘",
+            "降",
+            "羊"
+        ]
+    },
+    "xiao": {
+        "similar_pronunciations": [
+            "shao",
+            "jiao",
+            "yao",
+            "qiao"
+        ],
+        "same_pronunciation_chars": [
+            "消",
+            "逍",
+            "霄",
+            "宵",
+            "笑",
+            "销",
+            "小",
+            "肖",
+            "晓",
+            "效",
+            "硝",
+            "啸",
+            "校",
+            "孝",
+            "淆",
+            "萧",
+            "嚣",
+            "潇",
+            "箫",
+            "哮",
+            "骁",
+            "枭",
+            "筱",
+            "俏",
+            "削"
+        ]
+    },
+    "xie": {
+        "similar_pronunciations": [
+            "xue",
+            "jie"
+        ],
+        "same_pronunciation_chars": [
+            "些",
+            "鞋",
+            "胁",
+            "谐",
+            "卸",
+            "邪",
+            "斜",
+            "写",
+            "协",
+            "谢",
+            "屑",
+            "偕",
+            "亵",
+            "懈",
+            "蝎",
+            "携",
+            "蟹",
+            "泻",
+            "燮",
+            "泄",
+            "邂",
+            "楔",
+            "歇",
+            "械",
+            "挟",
+            "榭",
+            "洩",
+            "解",
+            "血",
+            "契",
+            "叶"
+        ]
+    },
+    "xin": {
+        "similar_pronunciations": [
+            "xing",
+            "qin",
+            "jin"
+        ],
+        "same_pronunciation_chars": [
+            "辛",
+            "心",
+            "昕",
+            "新",
+            "薪",
+            "信",
+            "欣",
+            "馨",
+            "鑫",
+            "芯",
+            "锌",
+            "忻",
+            "衅",
+            "囟",
+            "歆"
+        ]
+    },
+    "xing": {
+        "similar_pronunciations": [
+            "xin",
+            "qing",
+            "ting",
+            "jing"
+        ],
+        "same_pronunciation_chars": [
+            "幸",
+            "性",
+            "星",
+            "兴",
+            "行",
+            "猩",
+            "醒",
+            "形",
+            "腥",
+            "型",
+            "邢",
+            "杏",
+            "姓",
+            "惺",
+            "刑",
+            "悻",
+            "荥",
+            "陉",
+            "省"
+        ]
+    },
+    "xiong": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "雄",
+            "汹",
+            "凶",
+            "熊",
+            "兄",
+            "胸",
+            "匈"
+        ]
+    },
+    "xiu": {
+        "similar_pronunciations": [
+            "niu",
+            "qiu"
+        ],
+        "same_pronunciation_chars": [
+            "休",
+            "修",
+            "羞",
+            "秀",
+            "袖",
+            "岫",
+            "溴",
+            "嗅",
+            "滫",
+            "朽",
+            "绣",
+            "臭",
+            "锈",
+            "宿"
+        ]
+    },
+    "xu": {
+        "similar_pronunciations": [
+            "qu",
+            "yu",
+            "ju"
+        ],
+        "same_pronunciation_chars": [
+            "盱",
+            "须",
+            "续",
+            "许",
+            "蓄",
+            "需",
+            "吁",
+            "栩",
+            "诩",
+            "序",
+            "旭",
+            "徐",
+            "虚",
+            "绪",
+            "嘘",
+            "叙",
+            "煦",
+            "昫",
+            "婿",
+            "胥",
+            "墟",
+            "恤",
+            "酗",
+            "戌",
+            "芧",
+            "邪",
+            "絮",
+            "畜",
+            "休"
+        ]
+    },
+    "xuan": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "悬",
+            "宣",
+            "喧",
+            "选",
+            "渲",
+            "铉",
+            "轩",
+            "萱",
+            "暄",
+            "旋",
+            "眩",
+            "漩",
+            "炫",
+            "绚",
+            "玄",
+            "煊",
+            "瑄",
+            "璇",
+            "券",
+            "癣",
+            "县"
+        ]
+    },
+    "xue": {
+        "similar_pronunciations": [
+            "que",
+            "xie"
+        ],
+        "same_pronunciation_chars": [
+            "血",
+            "鳕",
+            "雪",
+            "学",
+            "薛",
+            "靴",
+            "鞾",
+            "削",
+            "穴"
+        ]
+    },
+    "xun": {
+        "similar_pronunciations": [
+            "kun",
+            "hun",
+            "shun"
+        ],
+        "same_pronunciation_chars": [
+            "荀",
+            "浔",
+            "寻",
+            "讯",
+            "迅",
+            "荨",
+            "巽",
+            "熏",
+            "询",
+            "汛",
+            "洵",
+            "训",
+            "驯",
+            "循",
+            "巡",
+            "旬",
+            "薰",
+            "勋",
+            "徇",
+            "蕈",
+            "逊",
+            "窨",
+            "荤",
+            "殉",
+            "浚",
+            "孙"
+        ]
+    },
+    "ya": {
+        "similar_pronunciations": [
+            "jia",
+            "za",
+            "ka"
+        ],
+        "same_pronunciation_chars": [
+            "压",
+            "押",
+            "丫",
+            "亚",
+            "雅",
+            "讶",
+            "呀",
+            "涯",
+            "崖",
+            "鸦",
+            "鸭",
+            "芽",
+            "衙",
+            "哑",
+            "牙",
+            "琊",
+            "轧",
+            "娅",
+            "伢",
+            "邪",
+            "蚜"
+        ]
+    },
+    "yan": {
+        "similar_pronunciations": [
+            "jian",
+            "yang",
+            "lian",
+            "yuan",
+            "xian",
+            "nian"
+        ],
+        "same_pronunciation_chars": [
+            "晏",
+            "言",
+            "演",
+            "验",
+            "研",
+            "赝",
+            "烟",
+            "唁",
+            "砚",
+            "炎",
+            "奄",
+            "阎",
+            "延",
+            "严",
+            "燕",
+            "闫",
+            "眼",
+            "颜",
+            "芫",
+            "嫣",
+            "咽",
+            "艳",
+            "宴",
+            "堰",
+            "衍",
+            "鄢",
+            "掩",
+            "彦",
+            "湮",
+            "焉",
+            "厌",
+            "郾",
+            "魇",
+            "餍",
+            "雁",
+            "岩",
+            "焱",
+            "沿",
+            "兖",
+            "檐",
+            "盐",
+            "胭",
+            "妍",
+            "焰",
+            "蜒",
+            "淹",
+            "偃",
+            "谳",
+            "筵",
+            "俨",
+            "琰",
+            "铅",
+            "阉",
+            "谚",
+            "殷"
+        ]
+    },
+    "yang": {
+        "similar_pronunciations": [
+            "rang",
+            "yan",
+            "dang",
+            "tang",
+            "kang"
+        ],
+        "same_pronunciation_chars": [
+            "羊",
+            "杨",
+            "阳",
+            "养",
+            "央",
+            "样",
+            "佯",
+            "秧",
+            "扬",
+            "炀",
+            "鸯",
+            "氧",
+            "洋",
+            "恙",
+            "仰",
+            "痒",
+            "殃",
+            "钖",
+            "珜",
+            "泱",
+            "徉",
+            "烊",
+            "疡",
+            "漾",
+            "详"
+        ]
+    },
+    "yao": {
+        "similar_pronunciations": [
+            "ao",
+            "piao",
+            "miao",
+            "tao",
+            "zao",
+            "jiao",
+            "bao",
+            "tiao",
+            "lao",
+            "dao",
+            "nao",
+            "rao"
+        ],
+        "same_pronunciation_chars": [
+            "要",
+            "杳",
+            "耀",
+            "谣",
+            "邀",
+            "摇",
+            "遥",
+            "药",
+            "夭",
+            "腰",
+            "咬",
+            "妖",
+            "幺",
+            "钥",
+            "尧",
+            "姚",
+            "窑",
+            "瑶",
+            "曜",
+            "肴",
+            "鹞",
+            "舀",
+            "侥",
+            "乐",
+            "么",
+            "疟",
+            "陶",
+            "约"
+        ]
+    },
+    "ye": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "耶",
+            "冶",
+            "业",
+            "靥",
+            "也",
+            "叶",
+            "野",
+            "烨",
+            "液",
+            "夜",
+            "爷",
+            "页",
+            "椰",
+            "谒",
+            "晔",
+            "掖",
+            "曳",
+            "噎",
+            "喝",
+            "咽",
+            "腋",
+            "射",
+            "邪",
+            "拽"
+        ]
+    },
+    "yi": {
+        "similar_pronunciations": [
+            "ji",
+            "li",
+            "ti",
+            "qi",
+            "xi"
+        ],
+        "same_pronunciation_chars": [
+            "已",
+            "椅",
+            "异",
+            "以",
+            "一",
+            "依",
+            "裔",
+            "易",
+            "移",
+            "衣",
+            "怡",
+            "议",
+            "义",
+            "伊",
+            "壹",
+            "意",
+            "益",
+            "溢",
+            "疑",
+            "亦",
+            "奕",
+            "宜",
+            "医",
+            "诣",
+            "佚",
+            "遗",
+            "翼",
+            "亿",
+            "矣",
+            "译",
+            "仪",
+            "疫",
+            "翌",
+            "弋",
+            "懿",
+            "谊",
+            "忆",
+            "倚",
+            "毅",
+            "蚁",
+            "抑",
+            "沂",
+            "屹",
+            "夷",
+            "羿",
+            "艺",
+            "峄",
+            "贻",
+            "旖",
+            "眙",
+            "逸",
+            "彝",
+            "姨",
+            "诒",
+            "乙",
+            "挹",
+            "黟",
+            "饴",
+            "绎",
+            "邑",
+            "臆",
+            "薏",
+            "轶",
+            "镒",
+            "痍",
+            "弈",
+            "驿",
+            "颐",
+            "役",
+            "漪",
+            "熠",
+            "翊",
+            "胰",
+            "蜴",
+            "艾",
+            "蛾",
+            "疙",
+            "蛇",
+            "射",
+            "食",
+            "尾",
+            "泄",
+            "揖",
+            "铱",
+            "肄"
+        ]
+    },
+    "yin": {
+        "similar_pronunciations": [
+            "ying"
+        ],
+        "same_pronunciation_chars": [
+            "寅",
+            "音",
+            "因",
+            "阴",
+            "姻",
+            "尹",
+            "银",
+            "引",
+            "饮",
+            "印",
+            "瘾",
+            "隐",
+            "荫",
+            "淫",
+            "韾",
+            "殷",
+            "垠",
+            "茵",
+            "胤",
+            "铟",
+            "鄞",
+            "吟"
+        ]
+    },
+    "ying": {
+        "similar_pronunciations": [
+            "yin",
+            "jing"
+        ],
+        "same_pronunciation_chars": [
+            "萦",
+            "营",
+            "滢",
+            "颖",
+            "颍",
+            "映",
+            "应",
+            "膺",
+            "莺",
+            "英",
+            "赢",
+            "瀛",
+            "影",
+            "萤",
+            "婴",
+            "硬",
+            "迎",
+            "鹰",
+            "罂",
+            "莹",
+            "盈",
+            "樱",
+            "璎",
+            "荧",
+            "郢",
+            "鹦",
+            "瑛",
+            "蓥",
+            "蝇",
+            "嬴",
+            "景",
+            "缨"
+        ]
+    },
+    "yo": {
+        "similar_pronunciations": [
+            "you"
+        ],
+        "same_pronunciation_chars": [
+            "唷",
+            "哟",
+            "育"
+        ]
+    },
+    "yong": {
+        "similar_pronunciations": [
+            "dong",
+            "song",
+            "cong"
+        ],
+        "same_pronunciation_chars": [
+            "庸",
+            "用",
+            "泳",
+            "拥",
+            "永",
+            "佣",
+            "涌",
+            "慵",
+            "甬",
+            "勇",
+            "壅",
+            "雍",
+            "踊",
+            "俑",
+            "咏",
+            "镛",
+            "恿",
+            "臃",
+            "蛹",
+            "痈"
+        ]
+    },
+    "you": {
+        "similar_pronunciations": [
+            "yo",
+            "gou"
+        ],
+        "same_pronunciation_chars": [
+            "有",
+            "酉",
+            "尤",
+            "由",
+            "油",
+            "又",
+            "友",
+            "铀",
+            "犹",
+            "右",
+            "柚",
+            "游",
+            "攸",
+            "悠",
+            "诱",
+            "忧",
+            "优",
+            "幼",
+            "邮",
+            "佑",
+            "鱿",
+            "鼬",
+            "黝",
+            "釉",
+            "幽",
+            "囿",
+            "斿",
+            "疣",
+            "蒏",
+            "猷",
+            "楢"
+        ]
+    },
+    "yu": {
+        "similar_pronunciations": [
+            "xu",
+            "ju",
+            "qu",
+            "lv"
+        ],
+        "same_pronunciation_chars": [
+            "于",
+            "与",
+            "驭",
+            "毓",
+            "禺",
+            "遇",
+            "豫",
+            "育",
+            "预",
+            "余",
+            "妤",
+            "予",
+            "昱",
+            "羽",
+            "语",
+            "愉",
+            "娱",
+            "萸",
+            "馀",
+            "鱼",
+            "钰",
+            "雨",
+            "郁",
+            "鹬",
+            "宇",
+            "欲",
+            "玉",
+            "裕",
+            "盂",
+            "隅",
+            "舆",
+            "阈",
+            "御",
+            "圄",
+            "誉",
+            "愈",
+            "虞",
+            "寓",
+            "喻",
+            "逾",
+            "瑜",
+            "狱",
+            "禹",
+            "域",
+            "芋",
+            "愚",
+            "渔",
+            "浴",
+            "迂",
+            "谕",
+            "渝",
+            "庾",
+            "煜",
+            "觎",
+            "榆",
+            "俞",
+            "妪",
+            "屿",
+            "聿",
+            "峪",
+            "谀",
+            "嵎",
+            "瘀",
+            "淤",
+            "揄",
+            "奥",
+            "谷",
+            "蔚",
+            "尉",
+            "吾",
+            "邪",
+            "吁",
+            "粥"
+        ]
+    },
+    "yuan": {
+        "similar_pronunciations": [
+            "huan",
+            "nuan"
+        ],
+        "same_pronunciation_chars": [
+            "袁",
+            "员",
+            "原",
+            "源",
+            "圆",
+            "园",
+            "援",
+            "缘",
+            "院",
+            "远",
+            "愿",
+            "元",
+            "辕",
+            "渊",
+            "沅",
+            "垸",
+            "猿",
+            "垣",
+            "媛",
+            "怨",
+            "冤",
+            "苑",
+            "塬",
+            "螈",
+            "宛",
+            "鸳"
+        ]
+    },
+    "yue": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "曰",
+            "月",
+            "越",
+            "钺",
+            "约",
+            "跃",
+            "阅",
+            "悦",
+            "岳",
+            "龠",
+            "玥",
+            "礿",
+            "兑",
+            "乐",
+            "说",
+            "钥",
+            "粤"
+        ]
+    },
+    "yun": {
+        "similar_pronunciations": [
+            "yin"
+        ],
+        "same_pronunciation_chars": [
+            "晕",
+            "运",
+            "昀",
+            "芸",
+            "云",
+            "蕴",
+            "陨",
+            "愠",
+            "殒",
+            "恽",
+            "匀",
+            "耘",
+            "郧",
+            "韵",
+            "纭",
+            "韫",
+            "孕",
+            "酝",
+            "允",
+            "筠",
+            "员"
+        ]
+    },
+    "za": {
+        "similar_pronunciations": [
+            "zha"
+        ],
+        "same_pronunciation_chars": [
+            "砸",
+            "咋",
+            "偺",
+            "杂",
+            "匝",
+            "喒",
+            "紥",
+            "咱",
+            "扎"
+        ]
+    },
+    "zai": {
+        "similar_pronunciations": [
+            "dai",
+            "cai",
+            "ai",
+            "zhai"
+        ],
+        "same_pronunciation_chars": [
+            "在",
+            "再",
+            "载",
+            "仔",
+            "灾",
+            "哉",
+            "栽",
+            "宰",
+            "甾"
+        ]
+    },
+    "zan": {
+        "similar_pronunciations": [
+            "can",
+            "zhan",
+            "tan",
+            "chuan"
+        ],
+        "same_pronunciation_chars": [
+            "簪",
+            "暂",
+            "昝",
+            "赞",
+            "咱",
+            "攒",
+            "讚",
+            "堑"
+        ]
+    },
+    "zang": {
+        "similar_pronunciations": [
+            "rang",
+            "zhuang",
+            "shang",
+            "zhang",
+            "chang",
+            "zan"
+        ],
+        "same_pronunciation_chars": [
+            "葬",
+            "臧",
+            "脏",
+            "奘",
+            "赃",
+            "藏"
+        ]
+    },
+    "zao": {
+        "similar_pronunciations": [
+            "zhao",
+            "cao",
+            "gao"
+        ],
+        "same_pronunciation_chars": [
+            "遭",
+            "噪",
+            "早",
+            "糟",
+            "造",
+            "燥",
+            "蚤",
+            "皂",
+            "枣",
+            "躁",
+            "藻",
+            "澡",
+            "灶",
+            "凿"
+        ]
+    },
+    "ze": {
+        "similar_pronunciations": [
+            "zhe",
+            "ce",
+            "de",
+            "che"
+        ],
+        "same_pronunciation_chars": [
+            "责",
+            "择",
+            "则",
+            "啧",
+            "泽",
+            "侧",
+            "咋"
+        ]
+    },
+    "zei": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "贼"
+        ]
+    },
+    "zen": {
+        "similar_pronunciations": [
+            "cen",
+            "zhen",
+            "zeng"
+        ],
+        "same_pronunciation_chars": [
+            "怎"
+        ]
+    },
+    "zeng": {
+        "similar_pronunciations": [
+            "ceng",
+            "meng",
+            "zheng",
+            "zen",
+            "cheng"
+        ],
+        "same_pronunciation_chars": [
+            "增",
+            "憎",
+            "赠",
+            "曾",
+            "综"
+        ]
+    },
+    "zha": {
+        "similar_pronunciations": [
+            "za",
+            "hua",
+            "ca",
+            "na",
+            "ka"
+        ],
+        "same_pronunciation_chars": [
+            "栅",
+            "炸",
+            "诈",
+            "扎",
+            "札",
+            "吒",
+            "蚱",
+            "闸",
+            "铡",
+            "渣",
+            "榨",
+            "眨",
+            "咤",
+            "乍",
+            "查",
+            "轧",
+            "喳",
+            "咋",
+            "蜡",
+            "柞"
+        ]
+    },
+    "zhai": {
+        "similar_pronunciations": [
+            "sai",
+            "zai"
+        ],
+        "same_pronunciation_chars": [
+            "摘",
+            "债",
+            "檡",
+            "宅",
+            "窄",
+            "斋",
+            "寨",
+            "砦",
+            "侧",
+            "翟",
+            "责",
+            "祭",
+            "齐",
+            "择"
+        ]
+    },
+    "zhan": {
+        "similar_pronunciations": [
+            "zan",
+            "chan",
+            "zhang",
+            "can"
+        ],
+        "same_pronunciation_chars": [
+            "展",
+            "詹",
+            "占",
+            "站",
+            "战",
+            "崭",
+            "斩",
+            "沾",
+            "佔",
+            "栈",
+            "瞻",
+            "湛",
+            "绽",
+            "盏",
+            "粘",
+            "颤",
+            "辗",
+            "毡",
+            "蘸"
+        ]
+    },
+    "zhang": {
+        "similar_pronunciations": [
+            "chang",
+            "zhuang",
+            "zhan",
+            "zang",
+            "cang"
+        ],
+        "same_pronunciation_chars": [
+            "漳",
+            "长",
+            "掌",
+            "帐",
+            "账",
+            "张",
+            "涨",
+            "胀",
+            "彰",
+            "障",
+            "章",
+            "杖",
+            "丈",
+            "嶂",
+            "仗",
+            "瘴",
+            "璋",
+            "蟑",
+            "獐",
+            "樟"
+        ]
+    },
+    "zhao": {
+        "similar_pronunciations": [
+            "shao",
+            "kao",
+            "gao",
+            "zao",
+            "chao",
+            "mao",
+            "cao",
+            "sao"
+        ],
+        "same_pronunciation_chars": [
+            "找",
+            "肇",
+            "照",
+            "罩",
+            "招",
+            "召",
+            "昭",
+            "沼",
+            "赵",
+            "钊",
+            "兆",
+            "爪",
+            "诏",
+            "朝",
+            "着",
+            "嘲"
+        ]
+    },
+    "zhe": {
+        "similar_pronunciations": [
+            "ce",
+            "che",
+            "she",
+            "se",
+            "ze"
+        ],
+        "same_pronunciation_chars": [
+            "这",
+            "着",
+            "浙",
+            "者",
+            "遮",
+            "蛰",
+            "折",
+            "哲",
+            "蜇",
+            "锗",
+            "喆",
+            "赭",
+            "辙",
+            "蔗",
+            "柘",
+            "辄"
+        ]
+    },
+    "zhen": {
+        "similar_pronunciations": [
+            "zen",
+            "chen",
+            "zhe",
+            "shen",
+            "zheng",
+            "gen"
+        ],
+        "same_pronunciation_chars": [
+            "真",
+            "贞",
+            "阵",
+            "震",
+            "振",
+            "镇",
+            "碪",
+            "侦",
+            "浈",
+            "帧",
+            "臻",
+            "圳",
+            "针",
+            "珍",
+            "赈",
+            "蓁",
+            "诊",
+            "甄",
+            "斟",
+            "箴",
+            "缜",
+            "疹",
+            "砧",
+            "桢",
+            "朕",
+            "填",
+            "枕"
+        ]
+    },
+    "zheng": {
+        "similar_pronunciations": [
+            "cheng",
+            "zhen",
+            "zeng"
+        ],
+        "same_pronunciation_chars": [
+            "徵",
+            "证",
+            "征",
+            "正",
+            "政",
+            "郑",
+            "蒸",
+            "争",
+            "峥",
+            "铮",
+            "整",
+            "証",
+            "怔",
+            "症",
+            "拯",
+            "挣",
+            "睁",
+            "筝",
+            "丁",
+            "狰"
+        ]
+    },
+    "zhi": {
+        "similar_pronunciations": [
+            "zi",
+            "chi",
+            "si"
+        ],
+        "same_pronunciation_chars": [
+            "止",
+            "只",
+            "指",
+            "织",
+            "直",
+            "之",
+            "支",
+            "至",
+            "志",
+            "枝",
+            "汁",
+            "旨",
+            "致",
+            "植",
+            "值",
+            "痔",
+            "知",
+            "治",
+            "芝",
+            "蜘",
+            "置",
+            "制",
+            "职",
+            "执",
+            "窒",
+            "峙",
+            "纸",
+            "痣",
+            "质",
+            "智",
+            "秩",
+            "滞",
+            "肢",
+            "稚",
+            "殖",
+            "吱",
+            "挚",
+            "侄",
+            "掷",
+            "脂",
+            "炙",
+            "製",
+            "址",
+            "帜",
+            "緻",
+            "隻",
+            "栀",
+            "桎",
+            "芷",
+            "枳",
+            "跖",
+            "祉",
+            "郅",
+            "椥",
+            "识",
+            "氏",
+            "拓",
+            "趾"
+        ]
+    },
+    "zhong": {
+        "similar_pronunciations": [
+            "cong",
+            "chong",
+            "dong",
+            "zong",
+            "tong"
+        ],
+        "same_pronunciation_chars": [
+            "重",
+            "衷",
+            "钟",
+            "种",
+            "仲",
+            "中",
+            "终",
+            "盅",
+            "踵",
+            "忠",
+            "众",
+            "锺",
+            "冢",
+            "肿"
+        ]
+    },
+    "zhou": {
+        "similar_pronunciations": [
+            "zou"
+        ],
+        "same_pronunciation_chars": [
+            "肘",
+            "宙",
+            "周",
+            "洲",
+            "州",
+            "咒",
+            "皱",
+            "绉",
+            "舟",
+            "骤",
+            "轴",
+            "昼",
+            "粥",
+            "週",
+            "淍",
+            "纣",
+            "诌",
+            "调",
+            "帚"
+        ]
+    },
+    "zhu": {
+        "similar_pronunciations": [
+            "chu",
+            "zu",
+            "cu",
+            "du",
+            "shu",
+            "wu",
+            "ru"
+        ],
+        "same_pronunciation_chars": [
+            "竹",
+            "主",
+            "著",
+            "柱",
+            "住",
+            "铸",
+            "注",
+            "诸",
+            "助",
+            "祝",
+            "猪",
+            "瞩",
+            "竺",
+            "朱",
+            "渚",
+            "逐",
+            "嘱",
+            "筑",
+            "驻",
+            "蛀",
+            "茱",
+            "烛",
+            "絑",
+            "珠",
+            "伫",
+            "贮",
+            "洙",
+            "杼",
+            "蛛",
+            "煮",
+            "株",
+            "拄",
+            "侏",
+            "炷",
+            "橥",
+            "铢",
+            "宁",
+            "属",
+            "术",
+            "诛"
+        ]
+    },
+    "zhua": {
+        "similar_pronunciations": [
+            "gua"
+        ],
+        "same_pronunciation_chars": [
+            "抓",
+            "挝",
+            "爪"
+        ]
+    },
+    "zhuai": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "拽",
+            "转"
+        ]
+    },
+    "zhuan": {
+        "similar_pronunciations": [
+            "zuan",
+            "chuan",
+            "zhuang",
+            "cuan"
+        ],
+        "same_pronunciation_chars": [
+            "撰",
+            "转",
+            "专",
+            "赚",
+            "砖",
+            "篹",
+            "馔",
+            "颛",
+            "篆",
+            "传"
+        ]
+    },
+    "zhuang": {
+        "similar_pronunciations": [
+            "chuang",
+            "zhuan",
+            "huang"
+        ],
+        "same_pronunciation_chars": [
+            "庄",
+            "装",
+            "妆",
+            "焋",
+            "桩",
+            "状",
+            "壮",
+            "撞",
+            "幢"
+        ]
+    },
+    "zhui": {
+        "similar_pronunciations": [
+            "zui",
+            "cui",
+            "tui"
+        ],
+        "same_pronunciation_chars": [
+            "赘",
+            "追",
+            "坠",
+            "惴",
+            "锥",
+            "揣",
+            "椎",
+            "缀"
+        ]
+    },
+    "zhun": {
+        "similar_pronunciations": [
+            "zun",
+            "cun",
+            "dun"
+        ],
+        "same_pronunciation_chars": [
+            "准",
+            "淳",
+            "谆",
+            "屯"
+        ]
+    },
+    "zhuo": {
+        "similar_pronunciations": [
+            "cuo",
+            "zuo"
+        ],
+        "same_pronunciation_chars": [
+            "灼",
+            "卓",
+            "酌",
+            "浊",
+            "拙",
+            "倬",
+            "擢",
+            "捉",
+            "桌",
+            "茁",
+            "诼",
+            "涿",
+            "缴",
+            "着",
+            "琢",
+            "啄",
+            "著",
+            "淖"
+        ]
+    },
+    "zi": {
+        "similar_pronunciations": [
+            "zhi",
+            "ci",
+            "chi",
+            "ji"
+        ],
+        "same_pronunciation_chars": [
+            "资",
+            "子",
+            "自",
+            "孜",
+            "谘",
+            "赀",
+            "紫",
+            "字",
+            "渍",
+            "滋",
+            "姿",
+            "訾",
+            "咨",
+            "恣",
+            "兹",
+            "孳",
+            "姊",
+            "梓",
+            "笫",
+            "籽",
+            "齍",
+            "齐",
+            "仔",
+            "淄",
+            "吱",
+            "滓"
+        ]
+    },
+    "zong": {
+        "similar_pronunciations": [
+            "cong",
+            "zhong",
+            "chong"
+        ],
+        "same_pronunciation_chars": [
+            "总",
+            "踪",
+            "纵",
+            "宗",
+            "综",
+            "鬃",
+            "棕",
+            "粽",
+            "偬",
+            "从"
+        ]
+    },
+    "zou": {
+        "similar_pronunciations": [
+            "shou",
+            "cou",
+            "zhou",
+            "zuo"
+        ],
+        "same_pronunciation_chars": [
+            "走",
+            "奏",
+            "揍",
+            "邹"
+        ]
+    },
+    "zu": {
+        "similar_pronunciations": [
+            "zhu",
+            "mu",
+            "chu"
+        ],
+        "same_pronunciation_chars": [
+            "租",
+            "祖",
+            "组",
+            "卒",
+            "足",
+            "族",
+            "阻",
+            "诅"
+        ]
+    },
+    "zuan": {
+        "similar_pronunciations": [
+            "cuan",
+            "zhuan"
+        ],
+        "same_pronunciation_chars": [
+            "钻",
+            "鑽",
+            "纂",
+            "攥"
+        ]
+    },
+    "zui": {
+        "similar_pronunciations": [
+            "kui",
+            "fei",
+            "sui",
+            "zhui"
+        ],
+        "same_pronunciation_chars": [
+            "最",
+            "嘴",
+            "罪",
+            "醉",
+            "蕞",
+            "咀"
+        ]
+    },
+    "zun": {
+        "similar_pronunciations": [
+            "chun",
+            "zhun"
+        ],
+        "same_pronunciation_chars": [
+            "尊",
+            "遵",
+            "撙",
+            "鳟",
+            "樽",
+            "墫"
+        ]
+    },
+    "zuo": {
+        "similar_pronunciations": [
+            "cuo",
+            "zhuo",
+            "chuo",
+            "zou"
+        ],
+        "same_pronunciation_chars": [
+            "作",
+            "做",
+            "坐",
+            "佐",
+            "座",
+            "左",
+            "昨",
+            "唑",
+            "琢",
+            "稓",
+            "撮",
+            "柞"
+        ]
+    },
+    "dia": {
+        "similar_pronunciations": [],
+        "same_pronunciation_chars": [
+            "嗲"
+        ]
+    }
+}

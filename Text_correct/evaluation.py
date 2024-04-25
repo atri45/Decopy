@@ -1,3 +1,4 @@
+"""废弃"""
 import json
 import os
 from pycorrector.t5.t5_corrector import T5Corrector

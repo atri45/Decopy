@@ -35,5 +35,5 @@ def download_SIGHAN():
     visualize_download(test_resp, "SIGHAN2015/test.json", "test", 346770)
 
 if __name__ == "__main__":
-    download_model_from_modelscope("tiansz", "bert-base-chinese")
+    download_model_from_modelscope("heaodong", "DecBert")
     # download_SIGHAN()

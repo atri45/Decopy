@@ -1,9 +1,15 @@
 __pycache__/
 .vscode/
+.idea/
 
 build/test_func.ipynb
 SIGHAN2015/
 dataset/
 check_point/
+no_pinyin_embedding/
+no_pretrain/
 pretrained_models/
 .ipynb_checkpoints/
+pre_train_dataset/
+
+*.out
