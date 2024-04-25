@@ -9,7 +9,7 @@ pip install -r"requirements.txt"
 
 运行python文件从modelscope下载模型参数
 ```bash
-python -u"build/get_require.py"
+python "build/get_require.py"
 ```
 
 ### step2 导入使用
