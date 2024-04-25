@@ -11,16 +11,16 @@ from detection import detect
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-tokenizer = BertTokenizer.from_pretrained("Decbert")
-with open("Decbert/config.json", "r", encoding="utf-8") as f:
+tokenizer = BertTokenizer.from_pretrained("DecBert")
+with open("DecBert/config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 config = BertConfig(**config)
 
 detect_model = BertForTokenClassification(config=config).to(device)
 correct_model = PinyinBertForMaskedLM(config=config).to(device)
 
-detect_state_dict = torch.load("Decbert/detect_model.bin", map_location=device)
-correct_state_dict = torch.load("Decbert/correct_model.bin", map_location=device)
+detect_state_dict = torch.load("DecBert/detect_model.bin", map_location=device)
+correct_state_dict = torch.load("DecBert/correct_model.bin", map_location=device)
 detect_model.load_state_dict(detect_state_dict)
 correct_model.load_state_dict(correct_state_dict)
 
@@ -28,7 +28,7 @@ detect_model.eval()
 correct_model.eval()
 pinyin_vocab = {}
 
-with open("Decbert/pinyin_vocab.txt", "r", encoding="utf-8") as f:
+with open("DecBert/pinyin_vocab.txt", "r", encoding="utf-8") as f:
     lines = f.readlines()
     for i, line in enumerate(lines):
         pinyin_vocab[line.strip("\n")] = i
